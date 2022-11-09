@@ -27,48 +27,6 @@ export default function Home() {
       </Head>
 
       <main className='main'>
-        <Typography variant='h2' className='primary_text' sx={{fontSize:{xs:'30px',md:'40px',lg:'50px'}}}>
-          ISTOPP UI COMPONENTS
-        </Typography>
-      <Box className='compontent'>
-
-        <Box sx={{width:{xs:'80%',md:'40%',lg:'25%'}}}>
-          <Typography variant='body2' className='compontent_label'>TEXT FIELD</Typography>
-          <input className='rounded_text_field' />
-        </Box>
-
-        <Box sx={{width:{xs:'80%',md:'40%',lg:'25%'}}}>
-          <Typography variant='body2' className='compontent_label'>SELECT FIELD</Typography>
-          <select className='select_field'>
-            <option>Select date range</option>
-            {dateRange.map((date) => (
-                <option
-                  key={date}
-                  value={date}
-                  >
-                    {date}
-                </option>
-            ))}
-          </select>
-        </Box>
-
-        <Box >
-          <Typography variant='body2' className='compontent_label'>LABELS</Typography>
-          <Box sx={{display:'flex', gap:2}}>
-            <Box className='label_green'>
-              <Typography variant='body2' className='label_text_white'>Heatmap</Typography>
-            </Box>
-            <Box className='label_yellow'>
-              <Typography variant='body2' className='label_text_green'>Discovered Routes</Typography>
-            </Box>
-          </Box>
-
-        </Box>
-
-
-      </Box>
-
-
       </main>
 
 
