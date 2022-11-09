@@ -7,10 +7,11 @@ import RouteLegs from "../components/UI/RouteLegs";
 import styled from "@emotion/styled";
 import { Paper } from "@mui/material";
 
-const IvanPage = () => {
+const ComponentPage1 = () => {
   return (
     <Container>
       <div>
+
         <Header>Default Header</Header>
         <Header color="dark">Dark Header</Header>
       </div>
@@ -37,7 +38,7 @@ const IvanPage = () => {
   );
 };
 
-export default IvanPage;
+export default ComponentPage1;
 
 const Container = styled.div`
   padding: 2rem;
