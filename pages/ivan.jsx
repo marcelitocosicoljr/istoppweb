@@ -1,8 +1,8 @@
 import React from "react";
-import Button from "components/UI/Button";
-import Header from "components/UI/Header";
-import InfoCard from "components/UI/InfoCard";
-import DataTable from "components/UI/DataTable";
+import Button from "../components/UI/Button";
+import Header from "../components/UI/Header";
+import InfoCard from "../components/UI/InfoCard";
+import DataTable from "../components/UI/DataTable";
 import RouteLegs from "../components/UI/RouteLegs";
 import styled from "@emotion/styled";
 import { Paper } from "@mui/material";
