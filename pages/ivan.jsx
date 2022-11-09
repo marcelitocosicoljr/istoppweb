@@ -5,6 +5,7 @@ import InfoCard from "components/UI/InfoCard";
 import DataTable from "components/UI/DataTable";
 import RouteLegs from "../components/UI/RouteLegs";
 import styled from "@emotion/styled";
+import { Paper } from "@mui/material";
 
 const IvanPage = () => {
   return (
@@ -30,7 +31,7 @@ const IvanPage = () => {
       </div>
       <Group>
         <RouteLegs index={1} origin={83} destination={177} />
-        <RouteLegs index={1} origin={83} destination={177} />
+        <RouteLegs index={2} origin={90} destination={77} />
       </Group>
     </Container>
   );
