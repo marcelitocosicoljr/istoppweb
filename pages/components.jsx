@@ -6,7 +6,7 @@ import DataTable from "components/UI/DataTable";
 import RouteLegs from "../components/UI/RouteLegs";
 import styled from "@emotion/styled";
 
-const IvanPage = () => {
+const ComponentPage2 = () => {
   return (
     <Container>
       <div>
@@ -36,7 +36,7 @@ const IvanPage = () => {
   );
 };
 
-export default IvanPage;
+export default ComponentPage2;
 
 const Container = styled.div`
   padding: 2rem;
