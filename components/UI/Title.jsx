@@ -1,6 +1,6 @@
 import { Typography } from "@mui/material";
 
-const Header = ({
+const Title = ({
   children,
   variant = "h3",
   color = "primary",
@@ -13,4 +13,4 @@ const Header = ({
   );
 };
 
-export default Header;
+export default Title;
