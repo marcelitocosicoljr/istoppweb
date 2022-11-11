@@ -20,6 +20,9 @@ a {
 * {
   box-sizing: border-box;
 }
+h3{
+  color: #000;
+}
 
 @media (prefers-color-scheme: dark) {
   html {
@@ -49,12 +52,157 @@ main{
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 30px 20px 40px;
+  padding: 30px 30px 40px;
   max-width: 600px;
   flex-direction: column;
+
+  box-shadow: 'rgba(149, 157, 165, 0.2) 0px 8px 24px';
+
 
 
 }
 .infoBox p{
   text-align: center;
+}
+
+
+/* DATE RANGE CUSTOM */
+.rs-picker-default .rs-picker-toggle.rs-btn-lg{
+  border-radius: 30px;
+}
+.rs-picker-toolbar-ranges{
+  display: none !important;
+}
+.rs-picker-toggle-value, .rs-picker-toggle-placeholder {
+  font-size: 14px;
+}
+.rs-stack-item .rs-picker-toggle-caret{
+  display: none !important;
+}
+.rs-stack-item .rs-picker-toolbar-right .rs-btn-primary:before {
+  content: "APPLY";
+  font-size: initial;
+  line-height: 1.6;
+}
+
+.rs-stack-item .rs-picker-toolbar-right .rs-btn-primary {
+  font-size: 0;
+  line-height: 1;
+}
+.rs-picker-daterange-header{
+  background-color: #E0E0E0;
+}
+.rs-btn-primary{
+  background-color: #D9D9D9  !important;
+  color: #8E8E8E !important;
+  padding-left: 20px !important;
+  padding-right: 20px  !important;
+}
+.rs-btn-primary:hover{
+  background-color: #AFAFAF  !important;
+  color: #fff !important;
+}
+
+.rs-calendar-table-cell-selected .rs-calendar-table-cell-content{
+  background-color: #AFAFAF  !important;
+  color: #fff !important;
+}
+.rs-calendar-header-title {
+  margin: 0 4px;
+  background: #fff !important;
+  border: 1px solid #8E8E8E !important;
+  border-radius: 5px !important;
+  min-width: 130px !important;
+  font-weight: 700 !important;
+  color: #000 !important;
+}
+.rs-picker-daterange-menu .rs-calendar:first-child{
+  border-radius: none !important;
+}
+.rs-picker-toggle.rs-btn-lg .rs-picker-toggle-textbox{
+  font-size: 14px !important;
+}
+.rs-btn-icon.rs-btn-xs>.rs-icon{
+  font: 18px !important;
+}
+.rs-picker-daterange-header{
+  font-weight: 500 !important;
+}
+.rs-picker-toolbar{
+  border-top: none !important;
+}
+.rs-picker-toolbar {
+  padding: 0px 12px 12px !important;
+}
+
+.rs-anim-fade.rs-anim-in.rs-picker-daterange-menu.rs-picker-menu.placement-bottom-start {
+  margin-top: 10px !important;
+  z-index: 999 !important;
+}
+.rs-picker-has-value .rs-btn .rs-picker-toggle-value, .rs-picker-has-value .rs-picker-toggle .rs-picker-toggle-value{
+  color: #000  !important;
+  font-weight: 500  !important;
+}
+.rs-picker-toggle-wrapper{
+  width: 100%;
+}
+
+
+/* END OF DATE RANGE CUSTOM */
+
+
+/* MULTI SELECT CUSTOM */
+
+.css-1gpjby2 {
+  display: none !important;
+}
+
+button.css-1r4vtzz, button.css-48ayfv {
+  min-width: 300px;
+  border-radius: 30px;
+  padding: 10px 12px;
+}
+.css-151xaom-placeholder:before{
+  /* content: 'Type to search...' !important;
+  font-size: 14px;
+  line-height: 1.5; */
+}
+.css-151xaom-placeholder{
+  /* font-size: 0;
+  line-height: 1; */
+}
+
+/* END OF DATE RANGE CUSTOM */
+
+
+/* TABLE WITH SEARCH CUSTOM */
+
+.tableSearch *{
+  font-weight: 500 !important;
+  letter-spacing: normal !important;
+  font-size: 14px  !important;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+/* CUSTOM SELECT */
+
+.MuiPaper-root.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation1.MuiPaper-root.MuiMenu-paper.MuiPaper-elevation.MuiPaper-rounded.MuiPaper-elevation8.MuiPopover-paper.css-1poimk-MuiPaper-root-MuiMenu-paper-MuiPaper-root-MuiPopover-paper {
+  margin-top: -40px !important;
+  border-radius: 20px !important;
+}
+.MuiOutlinedInput-notchedOutline{
+  border: none  !important;
+  outline: none !important;
+}
+
+.css-623b3o-MuiButtonBase-root-MuiMenuItem-root.Mui-selected{
+  background-color: #F8F8FA !important;
+}
+.css-1pcexqc-container{
+  position: absolute !important;
+  display: block !important;
+  z-index: 999 !important;
+  background-color: #fff;
+  width: 300px !important;
 }
