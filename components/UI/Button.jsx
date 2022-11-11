@@ -11,7 +11,8 @@ const Button = ({
   props,
 }) => {
   return (
-    <ButtonUI
+    <ButtonMUI
+      sx={[styles.button, color === "tertiary" && styles.textWhite]}
       variant="contained"
       color={color}
       size={size}
@@ -20,16 +21,24 @@ const Button = ({
       {...props}
     >
       {children}
-    </ButtonUI>
+    </ButtonMUI>
   );
 };
 
 export default Button;
 
-const ButtonUI = styled(ButtonMUI)`
-  padding: 1em 2.5em;
-  font-weight: 800;
-  text-transform: capitalize;
-  border-radius: 99999px;
-  color: ${(props) => props.color === "tertiary" && "#fff"};
-`;
+const styles = {
+  button: {
+    padding: "1rem 3rem",
+    fontSize: "16px",
+    whiteSpace: "nowrap",
+    fontWeight: "800",
+    textTransform: "capitalize",
+    borderRadius: "99999px",
+  },
+  textWhite: {
+    color: "#fff",
+  },
+};
+
+const ButtonUI = styled(ButtonMUI)``;

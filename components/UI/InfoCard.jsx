@@ -7,7 +7,7 @@ const InfoCard = ({ label = "", value = "" }) => {
 
   return (
     <Container color={theme}>
-      <span>{label}</span>
+      <span sx={{ fontSize: "0.75rem" }}>{label}</span>
       <Value>{value}</Value>
     </Container>
   );
@@ -17,7 +17,7 @@ export default InfoCard;
 
 //Styles
 const Container = styled.div`
-  padding: 1.5rem;
+  padding: 2rem 2.5rem;
   border-radius: 0.5rem;
   background-color: ${(props) => props.theme.palette.secondary.main};
   max-width: 16rem;
@@ -26,6 +26,6 @@ const Container = styled.div`
 
 const Value = styled.h2`
   margin: 0;
-  font-size: 2rem;
+  font-size: 1.875rem;
   font-weight: 800;
 `;
