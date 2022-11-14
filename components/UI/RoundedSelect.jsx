@@ -6,27 +6,27 @@ import FormControl from '@mui/material/FormControl';
 import Select, { SelectChangeEvent } from '@mui/material/Select';
 import { Typography } from '@mui/material';
 
-export default function RoundedSelect() {
+export default function RoundedSelect({shadow}) {
 
-  const dates = ['November 1, 2022', 'November 2, 2022', 'November 3, 2022', 'November 4, 2022']
+  const dates = ['January', 'February', 'March', 'April']
   const [dateRange, setDateRange] = useState('')
 
 
   return (
     <div>
-      <FormControl sx={{ m: 1, minWidth: 120 }}>
+      <FormControl sx={{ my: 1, minWidth: 120 }}>
         <Select
           value={dateRange}
           onChange={(e)=>setDateRange(e.target.value)}
           displayEmpty
           size='small'
           inputProps={{ 'aria-label': 'Without label' }}
-          sx={{width:{md:'100%',lg:'300px' }, background:'#fff', borderRadius:'30px'}}
+          sx={{width:{md:'100%',lg:'300px' }, background:'#fff', borderRadius:'30px',boxShadow:shadow ? shadow : 'none'}}
 
         >
           <MenuItem value="">
             <Typography variant='caption' sx={{color:'#8E8E8E',}}>
-                Select date range
+                Select Month
             </Typography>
           </MenuItem>
           {

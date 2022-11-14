@@ -54,6 +54,9 @@ a {
 * {
   box-sizing: border-box;
 }
+h3{
+  color: #000;
+}
 
 main {
   margin-top: 20px;
@@ -74,9 +77,11 @@ main {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 30px 20px 40px;
+  padding: 30px 30px 40px;
   max-width: 600px;
   flex-direction: column;
+
+
 }
 .infoBox p {
   text-align: center;

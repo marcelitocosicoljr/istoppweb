@@ -5,12 +5,17 @@ import RoundedSelect from "components/UI/RoundedSelect";
 import Label from "components/UI/Label";
 import BorderedTable from "components/UI/BorderedTable";
 import TextArea from "components/UI/TextArea";
+import DateRangeUI from "components/UI/DateRange";
+import MultiSelect from "components/UI/MultiSelect";
+import { Tabs } from "components/UI/Tabs";
+import DateSelector from "components/UI/DateSelector";
 
 const ComponentPage2 = () => {
   return (
     <main className="container">
 
         <Typography variant="h3">UI Components</Typography>
+
 
         <Box sx={styles.componentBox}>
           <span style={styles.compontentLabelBox}>
@@ -19,16 +24,22 @@ const ComponentPage2 = () => {
 
           <InputField label='Username' placeHolder='' type='rounded' /><br/>
 
+          <InputField placeHolder='Enter password' type='rounded' color='transparent' /><br/>
+
           <InputField placeHolder='Enter username' type='rounded' /><br/>
 
-          <InputField label='Username' placeHolder='' type='' /><br/>
+          <InputField label='Username' placeHolder='' type='' color='transparent' /><br/>
 
-          <InputField placeHolder='Enter username'  type='' /><br/>
+          <InputField placeHolder='Password' type='' color='white' /><br/>
+
+          <Box sx={{width:'230px'}}>
+            <InputField placeHolder='Search Francise Number'  type='' />
+          </Box><br/>
 
           <TextArea/>
 
           <span style={styles.propsNote}>
-            <strong>PROPERTIES :</strong>  ( <strong> label</strong> ) ( <strong>placeHolder</strong> ) ( <strong>type : 'rounded', 'simple'</strong>)
+            <strong>PROPERTIES :</strong>  ( <strong> label</strong> ) ( <strong>placeHolder</strong> ) ( <strong>type : 'rounded', 'simple'</strong>) ( <strong>color : 'white', 'transparent'</strong>)
           </span>
         </Box>
 
@@ -36,8 +47,18 @@ const ComponentPage2 = () => {
           <span style={styles.compontentLabelBox}>
             <Typography variant="overline" sx={styles.compontentLabel}>Select Field</Typography>
           </span><br/><br/>
+          <RoundedSelect label='Username' placeHolder='' shadow='0' />
+          <RoundedSelect label='Username' placeHolder='' shadow='1' />
+          <RoundedSelect label='Username' placeHolder='' shadow='3' />
+          <RoundedSelect label='Username' placeHolder='' shadow='6' /><br/>
 
-          <RoundedSelect label='Username' placeHolder='' />
+
+          <DateRangeUI/><br/>
+          <DateSelector/><br/>
+
+          <MultiSelect/>
+
+
         </Box>
 
         <Box sx={styles.componentBox}>
@@ -68,9 +89,13 @@ const ComponentPage2 = () => {
 
         </Box>
 
+        <span style={styles.propsNote}>
+            <strong>PROPERTIES :</strong>  ( <strong> text</strong> ) ( <strong>subText</strong> ) ( <strong>color : 'yellow', 'green', 'blue'</strong>)
+        </span>
+
         <Box sx={styles.componentBox}>
             <span style={styles.compontentLabelBox}>
-              <Typography variant="overline" sx={styles.compontentLabel}>Bordered Table</Typography>
+              <Typography variant="overline" sx={styles.compontentLabel}>Striped Table</Typography>
             </span><br/><br/>
 
             <BorderedTable/>
@@ -81,7 +106,17 @@ const ComponentPage2 = () => {
               <Typography variant="overline" sx={styles.compontentLabel}>Information Box</Typography>
             </span><br/><br/>
 
-            <Box className="infoBox" sx={{border:'1px solid #8E8E8E'}}>
+            <Box className="infoBox" sx={{border: '1px solid #8E8E8E', width:'300px', lineHeight:2}}>
+                <p>
+                  Number of driver : 14 <br/>
+                  Number of dates coverd: 98 <br/>
+                  Total Boarding: 6573 <br/>
+                  Total Departure: 6533 <br/>
+                  Hour Distribution: 00
+                </p>
+            </Box><br/><br/>
+
+            <Box className="infoBox" sx={{border: '1px solid #8E8E8E'}}>
                 <p>
                   Total Volume of stops (in filtered set) : None<br/><br/>
                   Note: For browser performance, the heatmap visual is generate with a maximum of 5000 points. <br/><br/>
@@ -89,7 +124,7 @@ const ComponentPage2 = () => {
                 </p>
             </Box><br/><br/>
 
-            <Box className="infoBox" sx={{border:'1px solid #8E8E8E'}}>
+            <Box className="infoBox" sx={{border: '1px solid #8E8E8E'}}>
                 <p>
                   Number of driver : 14 <br/><br/>
                   Number of dates coverd: 98 <br/><br/>
@@ -105,16 +140,24 @@ const ComponentPage2 = () => {
                 </Box>
 
                 {
-                  [...Array(5)].map(data=>{
-                    return <Box  sx={{display:'flex', flexDirection:'row', gap:1}}>
-                    <p style={{minWidth:'120px', lineHeight:.1}}>6</p>
-                    <p style={{minWidth:'120px', lineHeight:.1}}>273.0</p>
-                    <p style={{minWidth:'120px', lineHeight:.1}}>133.0</p>
+                  [...Array(5)].map((data, index)=>{
+                    return <Box key={index} sx={{display:'flex', flexDirection:'row', gap:1, alignItems:'center'}}>
+                    <p style={{minWidth:'120px',marginTop:'10px'}}>6</p>
+                    <p style={{minWidth:'120px'}}>273.0</p>
+                    <p style={{minWidth:'120px' }}>133.0</p>
                   </Box>
                   })
                 }
 
 
+            </Box><br/><br/>
+
+            <Box sx={styles.componentBox}>
+              <span style={styles.compontentLabelBox}>
+                <Typography variant="overline" sx={styles.compontentLabel}>Navigation Menus</Typography>
+              </span><br/><br/><br/>
+
+              <Tabs/>
             </Box>
 
 

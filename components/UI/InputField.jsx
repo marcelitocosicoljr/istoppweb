@@ -2,7 +2,7 @@ import { TextField, Typography } from '@mui/material'
 import { borderRadius, Box } from '@mui/system'
 import React from 'react'
 
-const InputField = ({label, placeHolder, type}) => {
+const InputField = ({label, placeHolder, type, color}) => {
 
   const styles = {
     component:{
@@ -24,8 +24,9 @@ const InputField = ({label, placeHolder, type}) => {
       maxWidth: '400px',
       fontSize: '14px',
       letterSpacing: '1px',
-      background:  `${type == 'rounded' ? '#fff' : 'transparent'}`,
+      background:  `${color == 'transparent' ? 'transparent' : '#fff'}`,
       borderRadius: `${type == 'rounded' ? '30px' : '3px'}`,
+      boxShadow: 'rgba(149, 157, 165, 0.2) 0px 8px 24px'
     },
   }
 
