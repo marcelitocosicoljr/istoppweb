@@ -1,12 +1,13 @@
 import { Box } from "@mui/system";
 import React, {useState} from "react"
-import ReactMultiSelectCheckboxes from 'react-multiselect-checkboxes';
+// import ReactMultiSelectCheckboxes from "react-multiselect-checkboxes";
 import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
+import { MultiSelect } from "react-multi-select-component";
 
 
-  export default function MultiSelect() {
+  export default function MultiSelectUI() {
 
-    const data =  useState([
+    const [data, setData] =  useState([
       {
         "id": 1,
         "value": "9ce42304-b732-4791-9731-6f299b6df8c7",
@@ -45,32 +46,16 @@ import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
         "label": "Rizal - Santa Lourdes"
       }
 
-  ])
+    ])
 
-    const styles = {
+    const options = [
+      { label: "Route 1", value: "1" },
+      { label: "Route 2", value: "2" },
+      { label: "Route 1", value: "3", disabled: true },
+    ];
 
-      selectField:{
-        display: 'block',
-        marginBottom: 10,
-        borderRadius: '30px',
-      },
+    const [selected, setSelected] = useState([]);
 
-      isActive:{
-        transform: 'rotate(180deg )',
-      },
-      isNotActive:{
-        transform: 'rotate(0deg)',
-      },
-      dropdownIcon:{
-        marginLeft:'-35px',
-        mt:1.2,
-        zIndex:9,
-        pointerEvents:'none',
-        cursor:'pointer'
-      }
-
-
-    }
 
     const [isActive, setIsActive] = useState(false)
 
@@ -79,12 +64,40 @@ import ArrowDropDownIcon from '@mui/icons-material/ArrowDropDown';
     }
 
     return(
-        <Box sx={{display:'flex'}} onClick={()=>HandleClick()}>
-            <ReactMultiSelectCheckboxes onClose={()=>setIsActive(false)} placeholderButtonLabel='Route' options={data}/>
+        <Box sx={{display:'flex',}} >
+          <MultiSelect
+            labelledBy="Route..."
+            options={options}
+            value={selected}
+            onChange={setSelected}
+          />
             <ArrowDropDownIcon id='dropdown' sx={[styles.dropdownIcon, isActive == true ? styles.isActive : styles.isNotActive]} />
         </Box>
 
     );
 }
 
+const styles = {
 
+  selectField:{
+    display: 'block',
+    marginBottom: 10,
+    borderRadius: '30px',
+  },
+
+  isActive:{
+    transform: 'rotate(180deg )',
+  },
+  isNotActive:{
+    transform: 'rotate(0deg)',
+  },
+  dropdownIcon:{
+    marginLeft:'-35px',
+    mt:1.2,
+    zIndex:9,
+    pointerEvents:'none',
+    cursor:'pointer'
+  }
+
+
+}

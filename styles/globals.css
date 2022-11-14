@@ -283,7 +283,13 @@ button.css-1r4vtzz, button.css-48ayfv {
   /* font-size: 0;
   line-height: 1; */
 }
-
+.rmsc .dropdown-container{
+  border-radius: 30px !important;
+  min-width: 300px;
+}
+svg.dropdown-heading-dropdown-arrow.gray{
+  opacity: 0 !important;
+}
 /* END OF DATE RANGE CUSTOM */
 
 
