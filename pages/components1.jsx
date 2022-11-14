@@ -11,6 +11,7 @@ import { Chart as ChartJS } from "chart.js/auto";
 import PieChart from "components/Plugins/ChartJS/PieChart";
 
 const ComponentPage1 = () => {
+  //Don't remove
   console.log(ChartJS);
   const header = ["", "Trip Start", "Duration", "Date"];
   const header2 = ["Trip Start", "Duration", "Date"];
