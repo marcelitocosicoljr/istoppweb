@@ -1,0 +1,6002 @@
+[
+  {
+    "id": 1,
+    "trip_start": "8:58 AM",
+    "duration": 1.47282529,
+    "date": "4/24/2022"
+  },
+  {
+    "id": 2,
+    "trip_start": "3:08 AM",
+    "duration": 1.993390216,
+    "date": "6/22/2022"
+  },
+  {
+    "id": 3,
+    "trip_start": "11:45 PM",
+    "duration": 1.904442913,
+    "date": "9/19/2022"
+  },
+  {
+    "id": 4,
+    "trip_start": "10:43 PM",
+    "duration": 9.562763587,
+    "date": "1/20/2022"
+  },
+  {
+    "id": 5,
+    "trip_start": "5:30 AM",
+    "duration": 6.902828242,
+    "date": "1/11/2022"
+  },
+  {
+    "id": 6,
+    "trip_start": "5:21 PM",
+    "duration": 9.596791112,
+    "date": "1/19/2022"
+  },
+  {
+    "id": 7,
+    "trip_start": "6:24 PM",
+    "duration": 1.267484068,
+    "date": "4/3/2022"
+  },
+  {
+    "id": 8,
+    "trip_start": "5:46 PM",
+    "duration": 9.855093658,
+    "date": "3/3/2022"
+  },
+  {
+    "id": 9,
+    "trip_start": "6:22 PM",
+    "duration": 8.54169309,
+    "date": "8/19/2022"
+  },
+  {
+    "id": 10,
+    "trip_start": "3:58 AM",
+    "duration": 1.763600997,
+    "date": "5/10/2022"
+  },
+  {
+    "id": 11,
+    "trip_start": "4:04 AM",
+    "duration": 7.600167179,
+    "date": "7/21/2022"
+  },
+  {
+    "id": 12,
+    "trip_start": "7:48 PM",
+    "duration": 4.451418134,
+    "date": "4/8/2022"
+  },
+  {
+    "id": 13,
+    "trip_start": "4:32 PM",
+    "duration": 7.683034466,
+    "date": "3/2/2022"
+  },
+  {
+    "id": 14,
+    "trip_start": "5:44 AM",
+    "duration": 5.080675386,
+    "date": "6/9/2022"
+  },
+  {
+    "id": 15,
+    "trip_start": "2:05 AM",
+    "duration": 9.074569309,
+    "date": "4/17/2022"
+  },
+  {
+    "id": 16,
+    "trip_start": "4:12 PM",
+    "duration": 2.845540518,
+    "date": "11/16/2021"
+  },
+  {
+    "id": 17,
+    "trip_start": "12:31 AM",
+    "duration": 9.656596192,
+    "date": "7/27/2022"
+  },
+  {
+    "id": 18,
+    "trip_start": "8:06 PM",
+    "duration": 4.671491365,
+    "date": "3/4/2022"
+  },
+  {
+    "id": 19,
+    "trip_start": "6:40 PM",
+    "duration": 8.55055472,
+    "date": "5/11/2022"
+  },
+  {
+    "id": 20,
+    "trip_start": "2:31 PM",
+    "duration": 4.265200865,
+    "date": "2/20/2022"
+  },
+  {
+    "id": 21,
+    "trip_start": "7:41 AM",
+    "duration": 3.219224295,
+    "date": "9/11/2022"
+  },
+  {
+    "id": 22,
+    "trip_start": "7:59 AM",
+    "duration": 8.531962589,
+    "date": "3/2/2022"
+  },
+  {
+    "id": 23,
+    "trip_start": "1:06 PM",
+    "duration": 6.591213322,
+    "date": "6/20/2022"
+  },
+  {
+    "id": 24,
+    "trip_start": "12:15 PM",
+    "duration": 2.237147483,
+    "date": "8/16/2022"
+  },
+  {
+    "id": 25,
+    "trip_start": "1:47 AM",
+    "duration": 1.429405101,
+    "date": "4/24/2022"
+  },
+  {
+    "id": 26,
+    "trip_start": "12:04 AM",
+    "duration": 4.846423173,
+    "date": "8/15/2022"
+  },
+  {
+    "id": 27,
+    "trip_start": "11:27 AM",
+    "duration": 8.007026382,
+    "date": "6/30/2022"
+  },
+  {
+    "id": 28,
+    "trip_start": "9:04 AM",
+    "duration": 8.509948684,
+    "date": "9/8/2022"
+  },
+  {
+    "id": 29,
+    "trip_start": "1:29 AM",
+    "duration": 9.649465192,
+    "date": "11/26/2021"
+  },
+  {
+    "id": 30,
+    "trip_start": "1:41 AM",
+    "duration": 9.606833867,
+    "date": "1/6/2022"
+  },
+  {
+    "id": 31,
+    "trip_start": "11:49 AM",
+    "duration": 4.870134502,
+    "date": "3/17/2022"
+  },
+  {
+    "id": 32,
+    "trip_start": "2:22 PM",
+    "duration": 3.849759825,
+    "date": "9/26/2022"
+  },
+  {
+    "id": 33,
+    "trip_start": "2:15 AM",
+    "duration": 7.602868957,
+    "date": "7/26/2022"
+  },
+  {
+    "id": 34,
+    "trip_start": "5:23 AM",
+    "duration": 5.80741307,
+    "date": "12/30/2021"
+  },
+  {
+    "id": 35,
+    "trip_start": "9:28 AM",
+    "duration": 3.528112093,
+    "date": "1/2/2022"
+  },
+  {
+    "id": 36,
+    "trip_start": "6:12 AM",
+    "duration": 1.113809374,
+    "date": "3/11/2022"
+  },
+  {
+    "id": 37,
+    "trip_start": "6:49 AM",
+    "duration": 7.774809506,
+    "date": "4/2/2022"
+  },
+  {
+    "id": 38,
+    "trip_start": "3:57 PM",
+    "duration": 8.992896896,
+    "date": "10/21/2022"
+  },
+  {
+    "id": 39,
+    "trip_start": "4:57 PM",
+    "duration": 1.872690124,
+    "date": "12/25/2021"
+  },
+  {
+    "id": 40,
+    "trip_start": "12:37 PM",
+    "duration": 5.475964085,
+    "date": "4/17/2022"
+  },
+  {
+    "id": 41,
+    "trip_start": "5:00 PM",
+    "duration": 1.061918995,
+    "date": "12/4/2021"
+  },
+  {
+    "id": 42,
+    "trip_start": "11:58 PM",
+    "duration": 5.261726932,
+    "date": "7/25/2022"
+  },
+  {
+    "id": 43,
+    "trip_start": "4:50 PM",
+    "duration": 6.109129767,
+    "date": "9/14/2022"
+  },
+  {
+    "id": 44,
+    "trip_start": "2:49 AM",
+    "duration": 7.629174036,
+    "date": "10/5/2022"
+  },
+  {
+    "id": 45,
+    "trip_start": "9:50 PM",
+    "duration": 1.85939465,
+    "date": "5/15/2022"
+  },
+  {
+    "id": 46,
+    "trip_start": "8:13 PM",
+    "duration": 9.840538358,
+    "date": "1/5/2022"
+  },
+  {
+    "id": 47,
+    "trip_start": "8:23 PM",
+    "duration": 5.419923748,
+    "date": "9/22/2022"
+  },
+  {
+    "id": 48,
+    "trip_start": "8:01 PM",
+    "duration": 4.648502833,
+    "date": "12/25/2021"
+  },
+  {
+    "id": 49,
+    "trip_start": "1:31 PM",
+    "duration": 3.32437687,
+    "date": "10/19/2022"
+  },
+  {
+    "id": 50,
+    "trip_start": "9:42 AM",
+    "duration": 4.010466385,
+    "date": "11/12/2021"
+  },
+  {
+    "id": 51,
+    "trip_start": "2:18 PM",
+    "duration": 4.815067098,
+    "date": "12/17/2021"
+  },
+  {
+    "id": 52,
+    "trip_start": "3:32 AM",
+    "duration": 7.181561051,
+    "date": "3/29/2022"
+  },
+  {
+    "id": 53,
+    "trip_start": "1:47 AM",
+    "duration": 2.943538596,
+    "date": "2/14/2022"
+  },
+  {
+    "id": 54,
+    "trip_start": "1:08 PM",
+    "duration": 1.906184602,
+    "date": "10/30/2022"
+  },
+  {
+    "id": 55,
+    "trip_start": "11:19 AM",
+    "duration": 6.673009016,
+    "date": "11/22/2021"
+  },
+  {
+    "id": 56,
+    "trip_start": "3:06 PM",
+    "duration": 5.222809741,
+    "date": "12/3/2021"
+  },
+  {
+    "id": 57,
+    "trip_start": "1:03 PM",
+    "duration": 7.72621323,
+    "date": "1/10/2022"
+  },
+  {
+    "id": 58,
+    "trip_start": "2:50 PM",
+    "duration": 1.697942989,
+    "date": "8/12/2022"
+  },
+  {
+    "id": 59,
+    "trip_start": "4:41 AM",
+    "duration": 2.847357469,
+    "date": "5/16/2022"
+  },
+  {
+    "id": 60,
+    "trip_start": "9:28 AM",
+    "duration": 6.687966403,
+    "date": "9/25/2022"
+  },
+  {
+    "id": 61,
+    "trip_start": "8:32 PM",
+    "duration": 6.608642774,
+    "date": "5/28/2022"
+  },
+  {
+    "id": 62,
+    "trip_start": "5:42 AM",
+    "duration": 8.696513069,
+    "date": "11/5/2022"
+  },
+  {
+    "id": 63,
+    "trip_start": "3:15 PM",
+    "duration": 9.190016223,
+    "date": "9/30/2022"
+  },
+  {
+    "id": 64,
+    "trip_start": "11:17 PM",
+    "duration": 1.577312101,
+    "date": "2/6/2022"
+  },
+  {
+    "id": 65,
+    "trip_start": "2:41 PM",
+    "duration": 9.711211435,
+    "date": "4/27/2022"
+  },
+  {
+    "id": 66,
+    "trip_start": "10:16 AM",
+    "duration": 2.371816546,
+    "date": "8/14/2022"
+  },
+  {
+    "id": 67,
+    "trip_start": "5:28 AM",
+    "duration": 4.304215085,
+    "date": "10/4/2022"
+  },
+  {
+    "id": 68,
+    "trip_start": "1:20 PM",
+    "duration": 5.862792855,
+    "date": "5/25/2022"
+  },
+  {
+    "id": 69,
+    "trip_start": "1:43 AM",
+    "duration": 7.794910226,
+    "date": "10/27/2022"
+  },
+  {
+    "id": 70,
+    "trip_start": "10:32 AM",
+    "duration": 7.568065586,
+    "date": "7/13/2022"
+  },
+  {
+    "id": 71,
+    "trip_start": "11:59 AM",
+    "duration": 4.421622637,
+    "date": "11/27/2021"
+  },
+  {
+    "id": 72,
+    "trip_start": "1:28 AM",
+    "duration": 6.359954863,
+    "date": "10/12/2022"
+  },
+  {
+    "id": 73,
+    "trip_start": "9:50 AM",
+    "duration": 5.813267347,
+    "date": "6/11/2022"
+  },
+  {
+    "id": 74,
+    "trip_start": "6:33 PM",
+    "duration": 6.271581663,
+    "date": "4/4/2022"
+  },
+  {
+    "id": 75,
+    "trip_start": "10:03 PM",
+    "duration": 4.795349668,
+    "date": "10/29/2022"
+  },
+  {
+    "id": 76,
+    "trip_start": "2:46 AM",
+    "duration": 3.369309469,
+    "date": "1/26/2022"
+  },
+  {
+    "id": 77,
+    "trip_start": "12:23 PM",
+    "duration": 3.605329091,
+    "date": "11/27/2021"
+  },
+  {
+    "id": 78,
+    "trip_start": "3:29 AM",
+    "duration": 9.014300005,
+    "date": "9/8/2022"
+  },
+  {
+    "id": 79,
+    "trip_start": "3:15 PM",
+    "duration": 7.086694865,
+    "date": "2/26/2022"
+  },
+  {
+    "id": 80,
+    "trip_start": "7:07 PM",
+    "duration": 5.527173369,
+    "date": "12/28/2021"
+  },
+  {
+    "id": 81,
+    "trip_start": "4:39 PM",
+    "duration": 2.456789851,
+    "date": "4/9/2022"
+  },
+  {
+    "id": 82,
+    "trip_start": "4:35 AM",
+    "duration": 5.650543317,
+    "date": "1/28/2022"
+  },
+  {
+    "id": 83,
+    "trip_start": "4:57 PM",
+    "duration": 4.140705232,
+    "date": "9/14/2022"
+  },
+  {
+    "id": 84,
+    "trip_start": "7:37 PM",
+    "duration": 2.278934707,
+    "date": "9/21/2022"
+  },
+  {
+    "id": 85,
+    "trip_start": "2:39 PM",
+    "duration": 9.591697174,
+    "date": "8/7/2022"
+  },
+  {
+    "id": 86,
+    "trip_start": "6:17 AM",
+    "duration": 7.809027018,
+    "date": "2/10/2022"
+  },
+  {
+    "id": 87,
+    "trip_start": "8:51 AM",
+    "duration": 8.032333054,
+    "date": "1/29/2022"
+  },
+  {
+    "id": 88,
+    "trip_start": "12:20 PM",
+    "duration": 4.175127379,
+    "date": "8/15/2022"
+  },
+  {
+    "id": 89,
+    "trip_start": "1:20 PM",
+    "duration": 4.417529628,
+    "date": "9/15/2022"
+  },
+  {
+    "id": 90,
+    "trip_start": "11:21 PM",
+    "duration": 7.769666856,
+    "date": "3/12/2022"
+  },
+  {
+    "id": 91,
+    "trip_start": "1:31 PM",
+    "duration": 2.855499938,
+    "date": "3/19/2022"
+  },
+  {
+    "id": 92,
+    "trip_start": "11:51 PM",
+    "duration": 5.005486792,
+    "date": "7/27/2022"
+  },
+  {
+    "id": 93,
+    "trip_start": "4:39 PM",
+    "duration": 3.012116213,
+    "date": "11/16/2021"
+  },
+  {
+    "id": 94,
+    "trip_start": "12:16 PM",
+    "duration": 9.489449384,
+    "date": "12/24/2021"
+  },
+  {
+    "id": 95,
+    "trip_start": "1:49 PM",
+    "duration": 9.463459045,
+    "date": "5/3/2022"
+  },
+  {
+    "id": 96,
+    "trip_start": "2:02 AM",
+    "duration": 2.873700545,
+    "date": "7/19/2022"
+  },
+  {
+    "id": 97,
+    "trip_start": "7:36 AM",
+    "duration": 9.831225228,
+    "date": "7/24/2022"
+  },
+  {
+    "id": 98,
+    "trip_start": "8:47 PM",
+    "duration": 3.624237024,
+    "date": "7/25/2022"
+  },
+  {
+    "id": 99,
+    "trip_start": "6:32 PM",
+    "duration": 6.173268723,
+    "date": "1/5/2022"
+  },
+  {
+    "id": 100,
+    "trip_start": "5:21 PM",
+    "duration": 6.569037446,
+    "date": "10/17/2022"
+  },
+  {
+    "id": 101,
+    "trip_start": "6:54 PM",
+    "duration": 9.295058525,
+    "date": "6/11/2022"
+  },
+  {
+    "id": 102,
+    "trip_start": "6:09 AM",
+    "duration": 6.984529399,
+    "date": "1/20/2022"
+  },
+  {
+    "id": 103,
+    "trip_start": "8:17 PM",
+    "duration": 4.535465738,
+    "date": "12/26/2021"
+  },
+  {
+    "id": 104,
+    "trip_start": "10:53 PM",
+    "duration": 2.41874408,
+    "date": "4/28/2022"
+  },
+  {
+    "id": 105,
+    "trip_start": "3:14 PM",
+    "duration": 4.875737272,
+    "date": "1/1/2022"
+  },
+  {
+    "id": 106,
+    "trip_start": "10:27 AM",
+    "duration": 1.500964511,
+    "date": "6/5/2022"
+  },
+  {
+    "id": 107,
+    "trip_start": "2:41 PM",
+    "duration": 7.718269997,
+    "date": "3/20/2022"
+  },
+  {
+    "id": 108,
+    "trip_start": "12:12 AM",
+    "duration": 1.372681087,
+    "date": "12/2/2021"
+  },
+  {
+    "id": 109,
+    "trip_start": "11:05 AM",
+    "duration": 5.41627984,
+    "date": "11/22/2021"
+  },
+  {
+    "id": 110,
+    "trip_start": "12:32 AM",
+    "duration": 3.384487658,
+    "date": "11/8/2022"
+  },
+  {
+    "id": 111,
+    "trip_start": "4:49 AM",
+    "duration": 8.187743154,
+    "date": "3/21/2022"
+  },
+  {
+    "id": 112,
+    "trip_start": "10:19 PM",
+    "duration": 4.841051773,
+    "date": "2/25/2022"
+  },
+  {
+    "id": 113,
+    "trip_start": "12:02 PM",
+    "duration": 1.578601807,
+    "date": "9/9/2022"
+  },
+  {
+    "id": 114,
+    "trip_start": "11:00 PM",
+    "duration": 4.547074948,
+    "date": "11/19/2021"
+  },
+  {
+    "id": 115,
+    "trip_start": "9:44 AM",
+    "duration": 4.81895211,
+    "date": "9/12/2022"
+  },
+  {
+    "id": 116,
+    "trip_start": "10:14 PM",
+    "duration": 8.360067376,
+    "date": "10/20/2022"
+  },
+  {
+    "id": 117,
+    "trip_start": "10:47 AM",
+    "duration": 1.149265932,
+    "date": "12/15/2021"
+  },
+  {
+    "id": 118,
+    "trip_start": "8:37 AM",
+    "duration": 9.398485746,
+    "date": "9/11/2022"
+  },
+  {
+    "id": 119,
+    "trip_start": "12:21 AM",
+    "duration": 5.588591492,
+    "date": "5/5/2022"
+  },
+  {
+    "id": 120,
+    "trip_start": "2:07 AM",
+    "duration": 3.382965549,
+    "date": "2/19/2022"
+  },
+  {
+    "id": 121,
+    "trip_start": "11:02 AM",
+    "duration": 5.292307166,
+    "date": "9/5/2022"
+  },
+  {
+    "id": 122,
+    "trip_start": "12:13 PM",
+    "duration": 4.233874129,
+    "date": "2/27/2022"
+  },
+  {
+    "id": 123,
+    "trip_start": "1:05 PM",
+    "duration": 4.300707019,
+    "date": "9/7/2022"
+  },
+  {
+    "id": 124,
+    "trip_start": "3:26 AM",
+    "duration": 5.974106155,
+    "date": "11/9/2022"
+  },
+  {
+    "id": 125,
+    "trip_start": "12:52 AM",
+    "duration": 5.654023534,
+    "date": "7/29/2022"
+  },
+  {
+    "id": 126,
+    "trip_start": "6:03 PM",
+    "duration": 9.770114579,
+    "date": "2/19/2022"
+  },
+  {
+    "id": 127,
+    "trip_start": "5:12 AM",
+    "duration": 7.400878709,
+    "date": "3/17/2022"
+  },
+  {
+    "id": 128,
+    "trip_start": "6:12 PM",
+    "duration": 7.633168067,
+    "date": "9/18/2022"
+  },
+  {
+    "id": 129,
+    "trip_start": "10:41 PM",
+    "duration": 5.462485021,
+    "date": "12/5/2021"
+  },
+  {
+    "id": 130,
+    "trip_start": "3:25 AM",
+    "duration": 3.757733172,
+    "date": "10/11/2022"
+  },
+  {
+    "id": 131,
+    "trip_start": "5:33 AM",
+    "duration": 8.19022237,
+    "date": "1/18/2022"
+  },
+  {
+    "id": 132,
+    "trip_start": "4:14 PM",
+    "duration": 7.509460082,
+    "date": "6/25/2022"
+  },
+  {
+    "id": 133,
+    "trip_start": "1:08 PM",
+    "duration": 5.335039455,
+    "date": "7/24/2022"
+  },
+  {
+    "id": 134,
+    "trip_start": "11:49 PM",
+    "duration": 1.229413904,
+    "date": "11/28/2021"
+  },
+  {
+    "id": 135,
+    "trip_start": "11:27 AM",
+    "duration": 3.052235372,
+    "date": "1/31/2022"
+  },
+  {
+    "id": 136,
+    "trip_start": "5:13 PM",
+    "duration": 2.424145529,
+    "date": "7/20/2022"
+  },
+  {
+    "id": 137,
+    "trip_start": "10:02 PM",
+    "duration": 8.501396746,
+    "date": "6/13/2022"
+  },
+  {
+    "id": 138,
+    "trip_start": "6:06 PM",
+    "duration": 8.810117901,
+    "date": "1/29/2022"
+  },
+  {
+    "id": 139,
+    "trip_start": "2:15 PM",
+    "duration": 6.044404011,
+    "date": "3/26/2022"
+  },
+  {
+    "id": 140,
+    "trip_start": "7:05 AM",
+    "duration": 9.32705134,
+    "date": "9/12/2022"
+  },
+  {
+    "id": 141,
+    "trip_start": "11:09 AM",
+    "duration": 5.990997469,
+    "date": "12/19/2021"
+  },
+  {
+    "id": 142,
+    "trip_start": "9:18 AM",
+    "duration": 4.986128187,
+    "date": "1/16/2022"
+  },
+  {
+    "id": 143,
+    "trip_start": "12:41 PM",
+    "duration": 3.201655585,
+    "date": "4/3/2022"
+  },
+  {
+    "id": 144,
+    "trip_start": "8:02 AM",
+    "duration": 6.506091712,
+    "date": "11/13/2021"
+  },
+  {
+    "id": 145,
+    "trip_start": "3:05 AM",
+    "duration": 5.245907106,
+    "date": "6/3/2022"
+  },
+  {
+    "id": 146,
+    "trip_start": "12:41 PM",
+    "duration": 2.324235955,
+    "date": "4/3/2022"
+  },
+  {
+    "id": 147,
+    "trip_start": "11:58 PM",
+    "duration": 3.163758716,
+    "date": "10/18/2022"
+  },
+  {
+    "id": 148,
+    "trip_start": "5:30 AM",
+    "duration": 7.825321909,
+    "date": "1/27/2022"
+  },
+  {
+    "id": 149,
+    "trip_start": "9:44 AM",
+    "duration": 1.071228756,
+    "date": "12/29/2021"
+  },
+  {
+    "id": 150,
+    "trip_start": "4:07 PM",
+    "duration": 2.223686178,
+    "date": "4/13/2022"
+  },
+  {
+    "id": 151,
+    "trip_start": "12:02 PM",
+    "duration": 4.493386395,
+    "date": "9/18/2022"
+  },
+  {
+    "id": 152,
+    "trip_start": "11:19 PM",
+    "duration": 1.319556155,
+    "date": "10/3/2022"
+  },
+  {
+    "id": 153,
+    "trip_start": "10:16 AM",
+    "duration": 9.731560259,
+    "date": "7/4/2022"
+  },
+  {
+    "id": 154,
+    "trip_start": "3:14 AM",
+    "duration": 6.135973371,
+    "date": "6/21/2022"
+  },
+  {
+    "id": 155,
+    "trip_start": "1:03 AM",
+    "duration": 1.649168618,
+    "date": "5/16/2022"
+  },
+  {
+    "id": 156,
+    "trip_start": "8:27 PM",
+    "duration": 5.215062265,
+    "date": "8/20/2022"
+  },
+  {
+    "id": 157,
+    "trip_start": "1:50 AM",
+    "duration": 5.880414531,
+    "date": "2/1/2022"
+  },
+  {
+    "id": 158,
+    "trip_start": "3:35 AM",
+    "duration": 2.356678803,
+    "date": "12/24/2021"
+  },
+  {
+    "id": 159,
+    "trip_start": "3:11 AM",
+    "duration": 5.328810183,
+    "date": "7/3/2022"
+  },
+  {
+    "id": 160,
+    "trip_start": "12:29 PM",
+    "duration": 5.736341568,
+    "date": "2/22/2022"
+  },
+  {
+    "id": 161,
+    "trip_start": "8:23 PM",
+    "duration": 5.805017302,
+    "date": "1/16/2022"
+  },
+  {
+    "id": 162,
+    "trip_start": "8:26 PM",
+    "duration": 2.953400275,
+    "date": "8/6/2022"
+  },
+  {
+    "id": 163,
+    "trip_start": "9:10 PM",
+    "duration": 8.603714611,
+    "date": "1/20/2022"
+  },
+  {
+    "id": 164,
+    "trip_start": "12:41 PM",
+    "duration": 7.319393044,
+    "date": "6/18/2022"
+  },
+  {
+    "id": 165,
+    "trip_start": "12:56 AM",
+    "duration": 5.738312954,
+    "date": "9/9/2022"
+  },
+  {
+    "id": 166,
+    "trip_start": "1:53 AM",
+    "duration": 7.489051907,
+    "date": "10/30/2022"
+  },
+  {
+    "id": 167,
+    "trip_start": "9:49 AM",
+    "duration": 4.145927328,
+    "date": "2/22/2022"
+  },
+  {
+    "id": 168,
+    "trip_start": "4:17 AM",
+    "duration": 9.744138166,
+    "date": "6/22/2022"
+  },
+  {
+    "id": 169,
+    "trip_start": "4:23 AM",
+    "duration": 9.936822523,
+    "date": "3/24/2022"
+  },
+  {
+    "id": 170,
+    "trip_start": "8:01 AM",
+    "duration": 2.865377628,
+    "date": "5/26/2022"
+  },
+  {
+    "id": 171,
+    "trip_start": "9:38 AM",
+    "duration": 8.245667599,
+    "date": "9/8/2022"
+  },
+  {
+    "id": 172,
+    "trip_start": "10:50 PM",
+    "duration": 3.414322764,
+    "date": "8/4/2022"
+  },
+  {
+    "id": 173,
+    "trip_start": "9:52 PM",
+    "duration": 5.141448009,
+    "date": "8/30/2022"
+  },
+  {
+    "id": 174,
+    "trip_start": "2:14 AM",
+    "duration": 8.883360082,
+    "date": "11/6/2022"
+  },
+  {
+    "id": 175,
+    "trip_start": "8:07 AM",
+    "duration": 3.783015977,
+    "date": "7/31/2022"
+  },
+  {
+    "id": 176,
+    "trip_start": "10:30 PM",
+    "duration": 3.673220765,
+    "date": "12/22/2021"
+  },
+  {
+    "id": 177,
+    "trip_start": "9:05 PM",
+    "duration": 9.762859238,
+    "date": "9/27/2022"
+  },
+  {
+    "id": 178,
+    "trip_start": "6:18 AM",
+    "duration": 9.564986742,
+    "date": "3/8/2022"
+  },
+  {
+    "id": 179,
+    "trip_start": "10:09 AM",
+    "duration": 4.546318079,
+    "date": "9/18/2022"
+  },
+  {
+    "id": 180,
+    "trip_start": "4:28 PM",
+    "duration": 7.535676812,
+    "date": "5/18/2022"
+  },
+  {
+    "id": 181,
+    "trip_start": "12:55 AM",
+    "duration": 3.581144553,
+    "date": "2/20/2022"
+  },
+  {
+    "id": 182,
+    "trip_start": "4:02 PM",
+    "duration": 5.82557778,
+    "date": "10/12/2022"
+  },
+  {
+    "id": 183,
+    "trip_start": "7:49 PM",
+    "duration": 8.66808155,
+    "date": "2/24/2022"
+  },
+  {
+    "id": 184,
+    "trip_start": "10:36 AM",
+    "duration": 8.985401895,
+    "date": "10/9/2022"
+  },
+  {
+    "id": 185,
+    "trip_start": "6:10 AM",
+    "duration": 7.3809358,
+    "date": "9/3/2022"
+  },
+  {
+    "id": 186,
+    "trip_start": "6:13 PM",
+    "duration": 1.991425309,
+    "date": "1/24/2022"
+  },
+  {
+    "id": 187,
+    "trip_start": "7:26 AM",
+    "duration": 3.89112128,
+    "date": "3/19/2022"
+  },
+  {
+    "id": 188,
+    "trip_start": "5:19 PM",
+    "duration": 9.13422038,
+    "date": "3/31/2022"
+  },
+  {
+    "id": 189,
+    "trip_start": "9:59 PM",
+    "duration": 3.200948086,
+    "date": "11/19/2021"
+  },
+  {
+    "id": 190,
+    "trip_start": "9:11 PM",
+    "duration": 1.802896729,
+    "date": "3/30/2022"
+  },
+  {
+    "id": 191,
+    "trip_start": "8:10 AM",
+    "duration": 6.354721398,
+    "date": "11/11/2021"
+  },
+  {
+    "id": 192,
+    "trip_start": "9:47 AM",
+    "duration": 9.112258113,
+    "date": "1/29/2022"
+  },
+  {
+    "id": 193,
+    "trip_start": "11:18 PM",
+    "duration": 5.527283867,
+    "date": "12/1/2021"
+  },
+  {
+    "id": 194,
+    "trip_start": "8:00 AM",
+    "duration": 1.879125271,
+    "date": "5/8/2022"
+  },
+  {
+    "id": 195,
+    "trip_start": "12:42 AM",
+    "duration": 5.697315838,
+    "date": "6/7/2022"
+  },
+  {
+    "id": 196,
+    "trip_start": "2:57 PM",
+    "duration": 6.472210498,
+    "date": "5/1/2022"
+  },
+  {
+    "id": 197,
+    "trip_start": "6:42 PM",
+    "duration": 5.773920813,
+    "date": "4/2/2022"
+  },
+  {
+    "id": 198,
+    "trip_start": "12:53 AM",
+    "duration": 3.13114636,
+    "date": "2/15/2022"
+  },
+  {
+    "id": 199,
+    "trip_start": "8:52 AM",
+    "duration": 9.891722911,
+    "date": "6/26/2022"
+  },
+  {
+    "id": 200,
+    "trip_start": "2:54 PM",
+    "duration": 3.743528722,
+    "date": "9/22/2022"
+  },
+  {
+    "id": 201,
+    "trip_start": "3:34 PM",
+    "duration": 9.024778141,
+    "date": "3/25/2022"
+  },
+  {
+    "id": 202,
+    "trip_start": "9:38 PM",
+    "duration": 8.205194049,
+    "date": "4/19/2022"
+  },
+  {
+    "id": 203,
+    "trip_start": "12:18 AM",
+    "duration": 5.289374876,
+    "date": "4/26/2022"
+  },
+  {
+    "id": 204,
+    "trip_start": "7:28 PM",
+    "duration": 8.055033106,
+    "date": "3/27/2022"
+  },
+  {
+    "id": 205,
+    "trip_start": "2:44 PM",
+    "duration": 8.680699435,
+    "date": "4/26/2022"
+  },
+  {
+    "id": 206,
+    "trip_start": "9:55 PM",
+    "duration": 9.569242523,
+    "date": "10/31/2022"
+  },
+  {
+    "id": 207,
+    "trip_start": "9:48 PM",
+    "duration": 7.105175626,
+    "date": "8/6/2022"
+  },
+  {
+    "id": 208,
+    "trip_start": "9:28 PM",
+    "duration": 7.622983891,
+    "date": "2/3/2022"
+  },
+  {
+    "id": 209,
+    "trip_start": "2:16 AM",
+    "duration": 4.481419598,
+    "date": "7/25/2022"
+  },
+  {
+    "id": 210,
+    "trip_start": "6:27 PM",
+    "duration": 8.795651811,
+    "date": "9/7/2022"
+  },
+  {
+    "id": 211,
+    "trip_start": "1:22 AM",
+    "duration": 3.553981581,
+    "date": "4/9/2022"
+  },
+  {
+    "id": 212,
+    "trip_start": "1:02 AM",
+    "duration": 4.257272647,
+    "date": "8/7/2022"
+  },
+  {
+    "id": 213,
+    "trip_start": "4:42 PM",
+    "duration": 6.375204622,
+    "date": "5/23/2022"
+  },
+  {
+    "id": 214,
+    "trip_start": "2:55 PM",
+    "duration": 1.595933533,
+    "date": "9/11/2022"
+  },
+  {
+    "id": 215,
+    "trip_start": "12:05 PM",
+    "duration": 3.997510531,
+    "date": "3/20/2022"
+  },
+  {
+    "id": 216,
+    "trip_start": "6:04 PM",
+    "duration": 3.158260519,
+    "date": "2/3/2022"
+  },
+  {
+    "id": 217,
+    "trip_start": "12:50 AM",
+    "duration": 1.894243859,
+    "date": "11/22/2021"
+  },
+  {
+    "id": 218,
+    "trip_start": "5:53 AM",
+    "duration": 1.599125674,
+    "date": "5/13/2022"
+  },
+  {
+    "id": 219,
+    "trip_start": "4:07 AM",
+    "duration": 2.70354456,
+    "date": "3/16/2022"
+  },
+  {
+    "id": 220,
+    "trip_start": "9:01 AM",
+    "duration": 2.572242506,
+    "date": "3/13/2022"
+  },
+  {
+    "id": 221,
+    "trip_start": "11:19 AM",
+    "duration": 1.84325945,
+    "date": "8/10/2022"
+  },
+  {
+    "id": 222,
+    "trip_start": "10:38 AM",
+    "duration": 1.867919735,
+    "date": "5/11/2022"
+  },
+  {
+    "id": 223,
+    "trip_start": "8:52 PM",
+    "duration": 4.782714736,
+    "date": "7/19/2022"
+  },
+  {
+    "id": 224,
+    "trip_start": "2:56 AM",
+    "duration": 7.998916291,
+    "date": "9/13/2022"
+  },
+  {
+    "id": 225,
+    "trip_start": "9:17 AM",
+    "duration": 6.117835615,
+    "date": "2/16/2022"
+  },
+  {
+    "id": 226,
+    "trip_start": "3:45 PM",
+    "duration": 3.935142953,
+    "date": "1/14/2022"
+  },
+  {
+    "id": 227,
+    "trip_start": "9:51 AM",
+    "duration": 7.77693366,
+    "date": "10/14/2022"
+  },
+  {
+    "id": 228,
+    "trip_start": "3:23 AM",
+    "duration": 2.764046584,
+    "date": "10/11/2022"
+  },
+  {
+    "id": 229,
+    "trip_start": "7:10 AM",
+    "duration": 3.214305649,
+    "date": "11/25/2021"
+  },
+  {
+    "id": 230,
+    "trip_start": "2:25 PM",
+    "duration": 3.85048943,
+    "date": "2/9/2022"
+  },
+  {
+    "id": 231,
+    "trip_start": "11:12 AM",
+    "duration": 6.108212554,
+    "date": "7/13/2022"
+  },
+  {
+    "id": 232,
+    "trip_start": "7:26 AM",
+    "duration": 1.117547765,
+    "date": "3/4/2022"
+  },
+  {
+    "id": 233,
+    "trip_start": "4:54 AM",
+    "duration": 8.928250533,
+    "date": "12/1/2021"
+  },
+  {
+    "id": 234,
+    "trip_start": "8:12 PM",
+    "duration": 6.90980414,
+    "date": "6/24/2022"
+  },
+  {
+    "id": 235,
+    "trip_start": "10:57 PM",
+    "duration": 2.94786559,
+    "date": "2/7/2022"
+  },
+  {
+    "id": 236,
+    "trip_start": "6:21 PM",
+    "duration": 9.861221566,
+    "date": "10/6/2022"
+  },
+  {
+    "id": 237,
+    "trip_start": "5:52 AM",
+    "duration": 3.015489192,
+    "date": "5/7/2022"
+  },
+  {
+    "id": 238,
+    "trip_start": "12:11 PM",
+    "duration": 8.658352707,
+    "date": "1/23/2022"
+  },
+  {
+    "id": 239,
+    "trip_start": "6:22 PM",
+    "duration": 7.890009998,
+    "date": "10/10/2022"
+  },
+  {
+    "id": 240,
+    "trip_start": "7:42 AM",
+    "duration": 6.258283233,
+    "date": "2/10/2022"
+  },
+  {
+    "id": 241,
+    "trip_start": "11:47 AM",
+    "duration": 3.137291983,
+    "date": "4/4/2022"
+  },
+  {
+    "id": 242,
+    "trip_start": "9:26 AM",
+    "duration": 9.7903475,
+    "date": "3/17/2022"
+  },
+  {
+    "id": 243,
+    "trip_start": "4:43 PM",
+    "duration": 2.164295883,
+    "date": "8/20/2022"
+  },
+  {
+    "id": 244,
+    "trip_start": "10:26 PM",
+    "duration": 8.549667384,
+    "date": "1/29/2022"
+  },
+  {
+    "id": 245,
+    "trip_start": "7:34 PM",
+    "duration": 4.22294425,
+    "date": "8/13/2022"
+  },
+  {
+    "id": 246,
+    "trip_start": "10:25 AM",
+    "duration": 3.456955059,
+    "date": "8/1/2022"
+  },
+  {
+    "id": 247,
+    "trip_start": "11:48 PM",
+    "duration": 5.806059076,
+    "date": "8/10/2022"
+  },
+  {
+    "id": 248,
+    "trip_start": "8:57 AM",
+    "duration": 4.013457249,
+    "date": "12/11/2021"
+  },
+  {
+    "id": 249,
+    "trip_start": "11:55 PM",
+    "duration": 4.908649354,
+    "date": "1/11/2022"
+  },
+  {
+    "id": 250,
+    "trip_start": "3:42 PM",
+    "duration": 7.57809943,
+    "date": "5/29/2022"
+  },
+  {
+    "id": 251,
+    "trip_start": "3:12 AM",
+    "duration": 4.992870951,
+    "date": "5/31/2022"
+  },
+  {
+    "id": 252,
+    "trip_start": "4:06 PM",
+    "duration": 8.571422849,
+    "date": "10/3/2022"
+  },
+  {
+    "id": 253,
+    "trip_start": "12:09 PM",
+    "duration": 3.303054338,
+    "date": "10/10/2022"
+  },
+  {
+    "id": 254,
+    "trip_start": "11:30 PM",
+    "duration": 9.146993762,
+    "date": "10/5/2022"
+  },
+  {
+    "id": 255,
+    "trip_start": "4:27 PM",
+    "duration": 3.773023377,
+    "date": "9/10/2022"
+  },
+  {
+    "id": 256,
+    "trip_start": "2:44 PM",
+    "duration": 9.848742564,
+    "date": "12/12/2021"
+  },
+  {
+    "id": 257,
+    "trip_start": "12:43 PM",
+    "duration": 9.213150673,
+    "date": "6/2/2022"
+  },
+  {
+    "id": 258,
+    "trip_start": "2:08 AM",
+    "duration": 4.778737918,
+    "date": "3/1/2022"
+  },
+  {
+    "id": 259,
+    "trip_start": "12:42 PM",
+    "duration": 4.821777172,
+    "date": "9/10/2022"
+  },
+  {
+    "id": 260,
+    "trip_start": "8:08 AM",
+    "duration": 2.577387497,
+    "date": "6/1/2022"
+  },
+  {
+    "id": 261,
+    "trip_start": "5:01 PM",
+    "duration": 4.846595279,
+    "date": "12/25/2021"
+  },
+  {
+    "id": 262,
+    "trip_start": "4:28 AM",
+    "duration": 7.13665319,
+    "date": "3/14/2022"
+  },
+  {
+    "id": 263,
+    "trip_start": "8:49 AM",
+    "duration": 2.79774257,
+    "date": "4/3/2022"
+  },
+  {
+    "id": 264,
+    "trip_start": "8:36 PM",
+    "duration": 1.692339361,
+    "date": "10/31/2022"
+  },
+  {
+    "id": 265,
+    "trip_start": "7:07 PM",
+    "duration": 8.557906347,
+    "date": "4/13/2022"
+  },
+  {
+    "id": 266,
+    "trip_start": "12:21 AM",
+    "duration": 3.860597433,
+    "date": "4/30/2022"
+  },
+  {
+    "id": 267,
+    "trip_start": "2:32 PM",
+    "duration": 4.857862557,
+    "date": "4/29/2022"
+  },
+  {
+    "id": 268,
+    "trip_start": "7:14 AM",
+    "duration": 6.491023227,
+    "date": "10/4/2022"
+  },
+  {
+    "id": 269,
+    "trip_start": "3:37 PM",
+    "duration": 6.887704682,
+    "date": "5/8/2022"
+  },
+  {
+    "id": 270,
+    "trip_start": "12:13 AM",
+    "duration": 5.951428004,
+    "date": "4/10/2022"
+  },
+  {
+    "id": 271,
+    "trip_start": "9:12 AM",
+    "duration": 2.019499203,
+    "date": "3/8/2022"
+  },
+  {
+    "id": 272,
+    "trip_start": "6:17 PM",
+    "duration": 6.651770126,
+    "date": "2/20/2022"
+  },
+  {
+    "id": 273,
+    "trip_start": "4:44 PM",
+    "duration": 8.181866085,
+    "date": "2/3/2022"
+  },
+  {
+    "id": 274,
+    "trip_start": "9:51 AM",
+    "duration": 1.357924947,
+    "date": "9/26/2022"
+  },
+  {
+    "id": 275,
+    "trip_start": "1:50 PM",
+    "duration": 6.610302494,
+    "date": "4/22/2022"
+  },
+  {
+    "id": 276,
+    "trip_start": "7:23 PM",
+    "duration": 4.673089558,
+    "date": "1/7/2022"
+  },
+  {
+    "id": 277,
+    "trip_start": "1:14 AM",
+    "duration": 3.494352401,
+    "date": "12/11/2021"
+  },
+  {
+    "id": 278,
+    "trip_start": "1:02 PM",
+    "duration": 8.961183518,
+    "date": "2/20/2022"
+  },
+  {
+    "id": 279,
+    "trip_start": "2:02 AM",
+    "duration": 3.728498637,
+    "date": "7/30/2022"
+  },
+  {
+    "id": 280,
+    "trip_start": "3:28 PM",
+    "duration": 3.638972285,
+    "date": "8/2/2022"
+  },
+  {
+    "id": 281,
+    "trip_start": "4:04 PM",
+    "duration": 1.445024515,
+    "date": "4/17/2022"
+  },
+  {
+    "id": 282,
+    "trip_start": "8:29 PM",
+    "duration": 3.285111492,
+    "date": "2/23/2022"
+  },
+  {
+    "id": 283,
+    "trip_start": "12:49 PM",
+    "duration": 2.082787219,
+    "date": "2/2/2022"
+  },
+  {
+    "id": 284,
+    "trip_start": "6:42 AM",
+    "duration": 5.274034683,
+    "date": "8/20/2022"
+  },
+  {
+    "id": 285,
+    "trip_start": "6:02 PM",
+    "duration": 6.518406658,
+    "date": "10/3/2022"
+  },
+  {
+    "id": 286,
+    "trip_start": "8:09 AM",
+    "duration": 1.944771882,
+    "date": "7/21/2022"
+  },
+  {
+    "id": 287,
+    "trip_start": "12:24 AM",
+    "duration": 2.357824688,
+    "date": "6/24/2022"
+  },
+  {
+    "id": 288,
+    "trip_start": "9:31 PM",
+    "duration": 4.191453401,
+    "date": "10/18/2022"
+  },
+  {
+    "id": 289,
+    "trip_start": "7:22 AM",
+    "duration": 3.657123946,
+    "date": "4/18/2022"
+  },
+  {
+    "id": 290,
+    "trip_start": "12:16 PM",
+    "duration": 8.722799716,
+    "date": "7/1/2022"
+  },
+  {
+    "id": 291,
+    "trip_start": "3:49 PM",
+    "duration": 4.391214074,
+    "date": "1/23/2022"
+  },
+  {
+    "id": 292,
+    "trip_start": "9:22 AM",
+    "duration": 9.646794523,
+    "date": "12/13/2021"
+  },
+  {
+    "id": 293,
+    "trip_start": "5:04 PM",
+    "duration": 7.786141436,
+    "date": "10/29/2022"
+  },
+  {
+    "id": 294,
+    "trip_start": "8:41 PM",
+    "duration": 8.147081946,
+    "date": "8/7/2022"
+  },
+  {
+    "id": 295,
+    "trip_start": "2:58 AM",
+    "duration": 3.233317821,
+    "date": "5/11/2022"
+  },
+  {
+    "id": 296,
+    "trip_start": "12:53 PM",
+    "duration": 6.828725509,
+    "date": "1/12/2022"
+  },
+  {
+    "id": 297,
+    "trip_start": "8:51 PM",
+    "duration": 9.725025131,
+    "date": "1/9/2022"
+  },
+  {
+    "id": 298,
+    "trip_start": "7:09 AM",
+    "duration": 9.075269713,
+    "date": "12/16/2021"
+  },
+  {
+    "id": 299,
+    "trip_start": "9:31 AM",
+    "duration": 7.952767733,
+    "date": "8/1/2022"
+  },
+  {
+    "id": 300,
+    "trip_start": "4:04 PM",
+    "duration": 7.234694366,
+    "date": "1/26/2022"
+  },
+  {
+    "id": 301,
+    "trip_start": "11:36 AM",
+    "duration": 6.349879559,
+    "date": "9/16/2022"
+  },
+  {
+    "id": 302,
+    "trip_start": "2:09 AM",
+    "duration": 3.553445344,
+    "date": "10/1/2022"
+  },
+  {
+    "id": 303,
+    "trip_start": "6:33 PM",
+    "duration": 8.717462752,
+    "date": "12/25/2021"
+  },
+  {
+    "id": 304,
+    "trip_start": "7:43 PM",
+    "duration": 8.916433139,
+    "date": "6/6/2022"
+  },
+  {
+    "id": 305,
+    "trip_start": "5:34 PM",
+    "duration": 2.304405381,
+    "date": "9/20/2022"
+  },
+  {
+    "id": 306,
+    "trip_start": "1:56 AM",
+    "duration": 7.376582124,
+    "date": "5/30/2022"
+  },
+  {
+    "id": 307,
+    "trip_start": "3:37 AM",
+    "duration": 5.467984197,
+    "date": "9/25/2022"
+  },
+  {
+    "id": 308,
+    "trip_start": "11:40 PM",
+    "duration": 6.244786857,
+    "date": "10/25/2022"
+  },
+  {
+    "id": 309,
+    "trip_start": "3:56 AM",
+    "duration": 7.456744982,
+    "date": "1/22/2022"
+  },
+  {
+    "id": 310,
+    "trip_start": "10:14 AM",
+    "duration": 7.803711625,
+    "date": "10/13/2022"
+  },
+  {
+    "id": 311,
+    "trip_start": "6:38 PM",
+    "duration": 9.430254138,
+    "date": "6/6/2022"
+  },
+  {
+    "id": 312,
+    "trip_start": "12:29 PM",
+    "duration": 6.938038466,
+    "date": "10/27/2022"
+  },
+  {
+    "id": 313,
+    "trip_start": "1:28 PM",
+    "duration": 1.489369848,
+    "date": "12/28/2021"
+  },
+  {
+    "id": 314,
+    "trip_start": "1:11 AM",
+    "duration": 3.250479967,
+    "date": "1/11/2022"
+  },
+  {
+    "id": 315,
+    "trip_start": "4:14 AM",
+    "duration": 6.675575995,
+    "date": "9/8/2022"
+  },
+  {
+    "id": 316,
+    "trip_start": "9:15 AM",
+    "duration": 7.102981343,
+    "date": "9/3/2022"
+  },
+  {
+    "id": 317,
+    "trip_start": "10:54 PM",
+    "duration": 2.052682072,
+    "date": "12/28/2021"
+  },
+  {
+    "id": 318,
+    "trip_start": "2:02 AM",
+    "duration": 7.555097562,
+    "date": "5/10/2022"
+  },
+  {
+    "id": 319,
+    "trip_start": "9:57 PM",
+    "duration": 8.949930994,
+    "date": "4/11/2022"
+  },
+  {
+    "id": 320,
+    "trip_start": "4:54 AM",
+    "duration": 4.311095278,
+    "date": "3/19/2022"
+  },
+  {
+    "id": 321,
+    "trip_start": "4:25 AM",
+    "duration": 6.117365477,
+    "date": "2/24/2022"
+  },
+  {
+    "id": 322,
+    "trip_start": "2:53 PM",
+    "duration": 7.560040696,
+    "date": "12/7/2021"
+  },
+  {
+    "id": 323,
+    "trip_start": "4:55 AM",
+    "duration": 6.411702217,
+    "date": "8/24/2022"
+  },
+  {
+    "id": 324,
+    "trip_start": "6:07 AM",
+    "duration": 1.235076917,
+    "date": "12/3/2021"
+  },
+  {
+    "id": 325,
+    "trip_start": "2:37 PM",
+    "duration": 3.84735893,
+    "date": "11/23/2021"
+  },
+  {
+    "id": 326,
+    "trip_start": "10:22 PM",
+    "duration": 3.061230699,
+    "date": "7/4/2022"
+  },
+  {
+    "id": 327,
+    "trip_start": "1:35 AM",
+    "duration": 1.866431929,
+    "date": "7/4/2022"
+  },
+  {
+    "id": 328,
+    "trip_start": "11:16 AM",
+    "duration": 8.913266847,
+    "date": "6/9/2022"
+  },
+  {
+    "id": 329,
+    "trip_start": "3:02 PM",
+    "duration": 1.466934212,
+    "date": "8/14/2022"
+  },
+  {
+    "id": 330,
+    "trip_start": "12:20 AM",
+    "duration": 4.48976161,
+    "date": "10/12/2022"
+  },
+  {
+    "id": 331,
+    "trip_start": "11:17 PM",
+    "duration": 1.926941826,
+    "date": "3/22/2022"
+  },
+  {
+    "id": 332,
+    "trip_start": "5:26 AM",
+    "duration": 8.618292159,
+    "date": "9/6/2022"
+  },
+  {
+    "id": 333,
+    "trip_start": "9:32 AM",
+    "duration": 9.891125473,
+    "date": "1/9/2022"
+  },
+  {
+    "id": 334,
+    "trip_start": "7:54 AM",
+    "duration": 3.216518821,
+    "date": "12/28/2021"
+  },
+  {
+    "id": 335,
+    "trip_start": "1:25 PM",
+    "duration": 1.615267712,
+    "date": "6/7/2022"
+  },
+  {
+    "id": 336,
+    "trip_start": "2:57 PM",
+    "duration": 1.710229929,
+    "date": "5/9/2022"
+  },
+  {
+    "id": 337,
+    "trip_start": "7:06 AM",
+    "duration": 5.354546596,
+    "date": "3/10/2022"
+  },
+  {
+    "id": 338,
+    "trip_start": "6:14 PM",
+    "duration": 3.964796443,
+    "date": "9/29/2022"
+  },
+  {
+    "id": 339,
+    "trip_start": "5:26 AM",
+    "duration": 5.055584908,
+    "date": "8/13/2022"
+  },
+  {
+    "id": 340,
+    "trip_start": "7:53 PM",
+    "duration": 6.656038726,
+    "date": "10/12/2022"
+  },
+  {
+    "id": 341,
+    "trip_start": "2:09 PM",
+    "duration": 2.298537612,
+    "date": "4/10/2022"
+  },
+  {
+    "id": 342,
+    "trip_start": "6:50 AM",
+    "duration": 8.045812165,
+    "date": "12/9/2021"
+  },
+  {
+    "id": 343,
+    "trip_start": "8:35 AM",
+    "duration": 5.042002656,
+    "date": "8/13/2022"
+  },
+  {
+    "id": 344,
+    "trip_start": "8:45 AM",
+    "duration": 5.307703415,
+    "date": "5/22/2022"
+  },
+  {
+    "id": 345,
+    "trip_start": "6:24 PM",
+    "duration": 7.762011704,
+    "date": "6/24/2022"
+  },
+  {
+    "id": 346,
+    "trip_start": "7:59 PM",
+    "duration": 1.680814338,
+    "date": "6/18/2022"
+  },
+  {
+    "id": 347,
+    "trip_start": "3:29 PM",
+    "duration": 8.545736553,
+    "date": "10/12/2022"
+  },
+  {
+    "id": 348,
+    "trip_start": "9:39 PM",
+    "duration": 2.998755282,
+    "date": "6/22/2022"
+  },
+  {
+    "id": 349,
+    "trip_start": "8:27 PM",
+    "duration": 6.002203125,
+    "date": "10/8/2022"
+  },
+  {
+    "id": 350,
+    "trip_start": "3:28 AM",
+    "duration": 9.171125713,
+    "date": "11/29/2021"
+  },
+  {
+    "id": 351,
+    "trip_start": "4:59 PM",
+    "duration": 7.240149174,
+    "date": "8/21/2022"
+  },
+  {
+    "id": 352,
+    "trip_start": "12:32 AM",
+    "duration": 2.752246746,
+    "date": "12/24/2021"
+  },
+  {
+    "id": 353,
+    "trip_start": "10:31 AM",
+    "duration": 8.63365496,
+    "date": "3/18/2022"
+  },
+  {
+    "id": 354,
+    "trip_start": "5:48 PM",
+    "duration": 6.981444478,
+    "date": "3/13/2022"
+  },
+  {
+    "id": 355,
+    "trip_start": "10:58 AM",
+    "duration": 6.461294331,
+    "date": "11/30/2021"
+  },
+  {
+    "id": 356,
+    "trip_start": "10:08 AM",
+    "duration": 5.725929087,
+    "date": "11/17/2021"
+  },
+  {
+    "id": 357,
+    "trip_start": "11:20 PM",
+    "duration": 2.978445789,
+    "date": "7/18/2022"
+  },
+  {
+    "id": 358,
+    "trip_start": "3:13 PM",
+    "duration": 9.667822333,
+    "date": "6/20/2022"
+  },
+  {
+    "id": 359,
+    "trip_start": "4:54 PM",
+    "duration": 8.719773674,
+    "date": "4/15/2022"
+  },
+  {
+    "id": 360,
+    "trip_start": "2:53 PM",
+    "duration": 3.465401684,
+    "date": "7/18/2022"
+  },
+  {
+    "id": 361,
+    "trip_start": "12:37 AM",
+    "duration": 8.172915872,
+    "date": "12/8/2021"
+  },
+  {
+    "id": 362,
+    "trip_start": "1:50 AM",
+    "duration": 5.01231385,
+    "date": "7/19/2022"
+  },
+  {
+    "id": 363,
+    "trip_start": "12:40 AM",
+    "duration": 7.005805982,
+    "date": "8/21/2022"
+  },
+  {
+    "id": 364,
+    "trip_start": "3:45 PM",
+    "duration": 8.523780145,
+    "date": "5/6/2022"
+  },
+  {
+    "id": 365,
+    "trip_start": "2:27 PM",
+    "duration": 4.424070439,
+    "date": "12/16/2021"
+  },
+  {
+    "id": 366,
+    "trip_start": "1:23 PM",
+    "duration": 4.092479215,
+    "date": "9/23/2022"
+  },
+  {
+    "id": 367,
+    "trip_start": "10:01 PM",
+    "duration": 7.700063988,
+    "date": "1/3/2022"
+  },
+  {
+    "id": 368,
+    "trip_start": "1:05 AM",
+    "duration": 6.458859223,
+    "date": "6/3/2022"
+  },
+  {
+    "id": 369,
+    "trip_start": "2:04 AM",
+    "duration": 2.708477286,
+    "date": "9/29/2022"
+  },
+  {
+    "id": 370,
+    "trip_start": "4:14 PM",
+    "duration": 9.247759355,
+    "date": "3/8/2022"
+  },
+  {
+    "id": 371,
+    "trip_start": "1:45 AM",
+    "duration": 6.196972949,
+    "date": "8/13/2022"
+  },
+  {
+    "id": 372,
+    "trip_start": "6:12 AM",
+    "duration": 4.338974164,
+    "date": "6/9/2022"
+  },
+  {
+    "id": 373,
+    "trip_start": "4:51 PM",
+    "duration": 1.992962421,
+    "date": "11/8/2022"
+  },
+  {
+    "id": 374,
+    "trip_start": "8:35 PM",
+    "duration": 7.367927419,
+    "date": "11/18/2021"
+  },
+  {
+    "id": 375,
+    "trip_start": "8:00 AM",
+    "duration": 7.490317205,
+    "date": "7/16/2022"
+  },
+  {
+    "id": 376,
+    "trip_start": "6:00 AM",
+    "duration": 5.67042779,
+    "date": "2/17/2022"
+  },
+  {
+    "id": 377,
+    "trip_start": "8:41 PM",
+    "duration": 3.490743648,
+    "date": "11/7/2022"
+  },
+  {
+    "id": 378,
+    "trip_start": "5:13 AM",
+    "duration": 8.252898435,
+    "date": "11/6/2022"
+  },
+  {
+    "id": 379,
+    "trip_start": "9:02 PM",
+    "duration": 4.044533846,
+    "date": "10/12/2022"
+  },
+  {
+    "id": 380,
+    "trip_start": "8:20 PM",
+    "duration": 8.511440564,
+    "date": "12/24/2021"
+  },
+  {
+    "id": 381,
+    "trip_start": "12:47 AM",
+    "duration": 7.649885537,
+    "date": "6/7/2022"
+  },
+  {
+    "id": 382,
+    "trip_start": "6:20 AM",
+    "duration": 9.456870926,
+    "date": "11/27/2021"
+  },
+  {
+    "id": 383,
+    "trip_start": "5:08 PM",
+    "duration": 5.684826463,
+    "date": "1/27/2022"
+  },
+  {
+    "id": 384,
+    "trip_start": "6:06 AM",
+    "duration": 3.092248616,
+    "date": "8/25/2022"
+  },
+  {
+    "id": 385,
+    "trip_start": "8:57 AM",
+    "duration": 6.586656235,
+    "date": "4/9/2022"
+  },
+  {
+    "id": 386,
+    "trip_start": "4:51 PM",
+    "duration": 6.263252831,
+    "date": "6/11/2022"
+  },
+  {
+    "id": 387,
+    "trip_start": "1:59 AM",
+    "duration": 4.353523942,
+    "date": "11/12/2021"
+  },
+  {
+    "id": 388,
+    "trip_start": "3:19 AM",
+    "duration": 5.330550348,
+    "date": "9/27/2022"
+  },
+  {
+    "id": 389,
+    "trip_start": "4:06 PM",
+    "duration": 5.810428641,
+    "date": "10/29/2022"
+  },
+  {
+    "id": 390,
+    "trip_start": "9:12 PM",
+    "duration": 3.699145832,
+    "date": "9/29/2022"
+  },
+  {
+    "id": 391,
+    "trip_start": "7:12 AM",
+    "duration": 6.670405363,
+    "date": "8/25/2022"
+  },
+  {
+    "id": 392,
+    "trip_start": "1:44 PM",
+    "duration": 9.050127412,
+    "date": "3/27/2022"
+  },
+  {
+    "id": 393,
+    "trip_start": "3:50 PM",
+    "duration": 3.780704596,
+    "date": "6/7/2022"
+  },
+  {
+    "id": 394,
+    "trip_start": "8:36 AM",
+    "duration": 9.19933256,
+    "date": "10/13/2022"
+  },
+  {
+    "id": 395,
+    "trip_start": "4:53 PM",
+    "duration": 1.310141164,
+    "date": "7/20/2022"
+  },
+  {
+    "id": 396,
+    "trip_start": "3:40 PM",
+    "duration": 9.78381911,
+    "date": "3/11/2022"
+  },
+  {
+    "id": 397,
+    "trip_start": "5:11 PM",
+    "duration": 1.448052537,
+    "date": "3/22/2022"
+  },
+  {
+    "id": 398,
+    "trip_start": "6:31 AM",
+    "duration": 1.140838715,
+    "date": "5/29/2022"
+  },
+  {
+    "id": 399,
+    "trip_start": "2:45 PM",
+    "duration": 2.772273542,
+    "date": "12/5/2021"
+  },
+  {
+    "id": 400,
+    "trip_start": "9:30 PM",
+    "duration": 2.446358712,
+    "date": "3/10/2022"
+  },
+  {
+    "id": 401,
+    "trip_start": "5:20 PM",
+    "duration": 5.408466905,
+    "date": "11/6/2022"
+  },
+  {
+    "id": 402,
+    "trip_start": "3:39 AM",
+    "duration": 5.623331082,
+    "date": "5/1/2022"
+  },
+  {
+    "id": 403,
+    "trip_start": "1:22 AM",
+    "duration": 2.559808689,
+    "date": "8/29/2022"
+  },
+  {
+    "id": 404,
+    "trip_start": "4:38 PM",
+    "duration": 6.56377612,
+    "date": "6/18/2022"
+  },
+  {
+    "id": 405,
+    "trip_start": "10:59 PM",
+    "duration": 2.723448352,
+    "date": "9/29/2022"
+  },
+  {
+    "id": 406,
+    "trip_start": "7:41 PM",
+    "duration": 7.392228733,
+    "date": "6/7/2022"
+  },
+  {
+    "id": 407,
+    "trip_start": "6:44 AM",
+    "duration": 7.787140772,
+    "date": "12/21/2021"
+  },
+  {
+    "id": 408,
+    "trip_start": "4:33 AM",
+    "duration": 7.390158853,
+    "date": "4/20/2022"
+  },
+  {
+    "id": 409,
+    "trip_start": "2:43 PM",
+    "duration": 3.628769184,
+    "date": "3/3/2022"
+  },
+  {
+    "id": 410,
+    "trip_start": "12:46 AM",
+    "duration": 5.374281494,
+    "date": "11/10/2022"
+  },
+  {
+    "id": 411,
+    "trip_start": "10:05 PM",
+    "duration": 8.208255188,
+    "date": "5/31/2022"
+  },
+  {
+    "id": 412,
+    "trip_start": "10:56 PM",
+    "duration": 9.724663775,
+    "date": "9/25/2022"
+  },
+  {
+    "id": 413,
+    "trip_start": "8:16 PM",
+    "duration": 1.939034241,
+    "date": "12/24/2021"
+  },
+  {
+    "id": 414,
+    "trip_start": "6:39 AM",
+    "duration": 8.918414466,
+    "date": "1/2/2022"
+  },
+  {
+    "id": 415,
+    "trip_start": "12:00 AM",
+    "duration": 7.747995319,
+    "date": "3/26/2022"
+  },
+  {
+    "id": 416,
+    "trip_start": "4:27 PM",
+    "duration": 6.441551881,
+    "date": "11/9/2022"
+  },
+  {
+    "id": 417,
+    "trip_start": "1:59 AM",
+    "duration": 5.450079347,
+    "date": "8/30/2022"
+  },
+  {
+    "id": 418,
+    "trip_start": "3:49 PM",
+    "duration": 9.054953574,
+    "date": "11/23/2021"
+  },
+  {
+    "id": 419,
+    "trip_start": "11:54 AM",
+    "duration": 6.477342951,
+    "date": "4/14/2022"
+  },
+  {
+    "id": 420,
+    "trip_start": "12:16 PM",
+    "duration": 9.737164949,
+    "date": "7/7/2022"
+  },
+  {
+    "id": 421,
+    "trip_start": "3:21 PM",
+    "duration": 8.541866277,
+    "date": "6/5/2022"
+  },
+  {
+    "id": 422,
+    "trip_start": "6:04 AM",
+    "duration": 1.806879302,
+    "date": "8/4/2022"
+  },
+  {
+    "id": 423,
+    "trip_start": "7:26 PM",
+    "duration": 3.984448731,
+    "date": "1/16/2022"
+  },
+  {
+    "id": 424,
+    "trip_start": "4:47 PM",
+    "duration": 1.355210312,
+    "date": "11/6/2022"
+  },
+  {
+    "id": 425,
+    "trip_start": "10:45 AM",
+    "duration": 7.683296486,
+    "date": "5/9/2022"
+  },
+  {
+    "id": 426,
+    "trip_start": "5:33 AM",
+    "duration": 6.873413932,
+    "date": "11/12/2021"
+  },
+  {
+    "id": 427,
+    "trip_start": "4:14 PM",
+    "duration": 5.985310555,
+    "date": "10/12/2022"
+  },
+  {
+    "id": 428,
+    "trip_start": "9:15 AM",
+    "duration": 7.093753504,
+    "date": "11/6/2022"
+  },
+  {
+    "id": 429,
+    "trip_start": "11:38 AM",
+    "duration": 5.408265271,
+    "date": "7/14/2022"
+  },
+  {
+    "id": 430,
+    "trip_start": "9:13 AM",
+    "duration": 9.328778762,
+    "date": "8/6/2022"
+  },
+  {
+    "id": 431,
+    "trip_start": "10:18 PM",
+    "duration": 4.868121472,
+    "date": "7/18/2022"
+  },
+  {
+    "id": 432,
+    "trip_start": "10:02 PM",
+    "duration": 8.383497291,
+    "date": "8/15/2022"
+  },
+  {
+    "id": 433,
+    "trip_start": "1:02 AM",
+    "duration": 9.829131012,
+    "date": "1/18/2022"
+  },
+  {
+    "id": 434,
+    "trip_start": "6:31 PM",
+    "duration": 1.120073937,
+    "date": "10/13/2022"
+  },
+  {
+    "id": 435,
+    "trip_start": "4:53 PM",
+    "duration": 3.869673175,
+    "date": "8/22/2022"
+  },
+  {
+    "id": 436,
+    "trip_start": "4:23 AM",
+    "duration": 6.108525665,
+    "date": "6/23/2022"
+  },
+  {
+    "id": 437,
+    "trip_start": "4:46 AM",
+    "duration": 3.968504476,
+    "date": "10/6/2022"
+  },
+  {
+    "id": 438,
+    "trip_start": "5:48 AM",
+    "duration": 9.783727811,
+    "date": "8/22/2022"
+  },
+  {
+    "id": 439,
+    "trip_start": "2:18 PM",
+    "duration": 7.485755324,
+    "date": "2/5/2022"
+  },
+  {
+    "id": 440,
+    "trip_start": "11:09 PM",
+    "duration": 5.757589603,
+    "date": "4/26/2022"
+  },
+  {
+    "id": 441,
+    "trip_start": "10:18 PM",
+    "duration": 5.675956577,
+    "date": "3/13/2022"
+  },
+  {
+    "id": 442,
+    "trip_start": "2:11 PM",
+    "duration": 1.448337562,
+    "date": "2/24/2022"
+  },
+  {
+    "id": 443,
+    "trip_start": "5:39 PM",
+    "duration": 7.70590618,
+    "date": "2/3/2022"
+  },
+  {
+    "id": 444,
+    "trip_start": "9:55 PM",
+    "duration": 9.757379168,
+    "date": "11/20/2021"
+  },
+  {
+    "id": 445,
+    "trip_start": "6:36 AM",
+    "duration": 3.10827335,
+    "date": "10/20/2022"
+  },
+  {
+    "id": 446,
+    "trip_start": "2:34 PM",
+    "duration": 4.692193772,
+    "date": "1/2/2022"
+  },
+  {
+    "id": 447,
+    "trip_start": "10:42 AM",
+    "duration": 6.401038438,
+    "date": "2/20/2022"
+  },
+  {
+    "id": 448,
+    "trip_start": "2:53 AM",
+    "duration": 3.189211867,
+    "date": "12/12/2021"
+  },
+  {
+    "id": 449,
+    "trip_start": "8:12 AM",
+    "duration": 6.953444975,
+    "date": "7/29/2022"
+  },
+  {
+    "id": 450,
+    "trip_start": "8:55 AM",
+    "duration": 5.357547272,
+    "date": "12/28/2021"
+  },
+  {
+    "id": 451,
+    "trip_start": "6:14 PM",
+    "duration": 5.678877529,
+    "date": "3/26/2022"
+  },
+  {
+    "id": 452,
+    "trip_start": "5:45 AM",
+    "duration": 2.860951359,
+    "date": "4/2/2022"
+  },
+  {
+    "id": 453,
+    "trip_start": "1:56 AM",
+    "duration": 2.739575342,
+    "date": "7/1/2022"
+  },
+  {
+    "id": 454,
+    "trip_start": "11:59 AM",
+    "duration": 3.973187557,
+    "date": "6/23/2022"
+  },
+  {
+    "id": 455,
+    "trip_start": "3:14 PM",
+    "duration": 9.311814085,
+    "date": "11/20/2021"
+  },
+  {
+    "id": 456,
+    "trip_start": "1:27 PM",
+    "duration": 2.656566522,
+    "date": "11/12/2021"
+  },
+  {
+    "id": 457,
+    "trip_start": "4:24 AM",
+    "duration": 6.609403917,
+    "date": "6/5/2022"
+  },
+  {
+    "id": 458,
+    "trip_start": "2:44 AM",
+    "duration": 8.632165118,
+    "date": "12/25/2021"
+  },
+  {
+    "id": 459,
+    "trip_start": "2:04 AM",
+    "duration": 9.792076911,
+    "date": "1/28/2022"
+  },
+  {
+    "id": 460,
+    "trip_start": "3:13 AM",
+    "duration": 8.37587533,
+    "date": "1/6/2022"
+  },
+  {
+    "id": 461,
+    "trip_start": "11:09 PM",
+    "duration": 8.46067865,
+    "date": "6/22/2022"
+  },
+  {
+    "id": 462,
+    "trip_start": "6:38 PM",
+    "duration": 9.282809007,
+    "date": "2/19/2022"
+  },
+  {
+    "id": 463,
+    "trip_start": "11:06 PM",
+    "duration": 3.117283289,
+    "date": "11/7/2022"
+  },
+  {
+    "id": 464,
+    "trip_start": "12:57 PM",
+    "duration": 4.213305064,
+    "date": "6/5/2022"
+  },
+  {
+    "id": 465,
+    "trip_start": "7:36 PM",
+    "duration": 3.69328516,
+    "date": "3/1/2022"
+  },
+  {
+    "id": 466,
+    "trip_start": "3:19 AM",
+    "duration": 2.595897178,
+    "date": "9/18/2022"
+  },
+  {
+    "id": 467,
+    "trip_start": "11:29 PM",
+    "duration": 2.605095331,
+    "date": "2/4/2022"
+  },
+  {
+    "id": 468,
+    "trip_start": "2:28 PM",
+    "duration": 6.927350388,
+    "date": "11/29/2021"
+  },
+  {
+    "id": 469,
+    "trip_start": "2:54 AM",
+    "duration": 1.138217447,
+    "date": "3/16/2022"
+  },
+  {
+    "id": 470,
+    "trip_start": "11:36 AM",
+    "duration": 1.291641685,
+    "date": "11/8/2022"
+  },
+  {
+    "id": 471,
+    "trip_start": "11:49 PM",
+    "duration": 8.3017758,
+    "date": "5/3/2022"
+  },
+  {
+    "id": 472,
+    "trip_start": "6:16 AM",
+    "duration": 6.155793787,
+    "date": "10/21/2022"
+  },
+  {
+    "id": 473,
+    "trip_start": "7:20 AM",
+    "duration": 7.590166278,
+    "date": "5/10/2022"
+  },
+  {
+    "id": 474,
+    "trip_start": "5:08 AM",
+    "duration": 3.297367968,
+    "date": "6/23/2022"
+  },
+  {
+    "id": 475,
+    "trip_start": "12:01 AM",
+    "duration": 6.387303192,
+    "date": "2/5/2022"
+  },
+  {
+    "id": 476,
+    "trip_start": "5:29 AM",
+    "duration": 1.409159149,
+    "date": "5/24/2022"
+  },
+  {
+    "id": 477,
+    "trip_start": "1:27 AM",
+    "duration": 2.102022146,
+    "date": "12/16/2021"
+  },
+  {
+    "id": 478,
+    "trip_start": "11:23 AM",
+    "duration": 6.396652804,
+    "date": "11/22/2021"
+  },
+  {
+    "id": 479,
+    "trip_start": "3:59 PM",
+    "duration": 7.784598638,
+    "date": "8/4/2022"
+  },
+  {
+    "id": 480,
+    "trip_start": "2:46 PM",
+    "duration": 5.629245722,
+    "date": "11/10/2022"
+  },
+  {
+    "id": 481,
+    "trip_start": "7:23 PM",
+    "duration": 9.868595555,
+    "date": "7/11/2022"
+  },
+  {
+    "id": 482,
+    "trip_start": "11:40 AM",
+    "duration": 3.349740912,
+    "date": "3/23/2022"
+  },
+  {
+    "id": 483,
+    "trip_start": "1:44 PM",
+    "duration": 4.572360197,
+    "date": "8/30/2022"
+  },
+  {
+    "id": 484,
+    "trip_start": "4:32 AM",
+    "duration": 6.686083827,
+    "date": "5/30/2022"
+  },
+  {
+    "id": 485,
+    "trip_start": "3:48 AM",
+    "duration": 6.887470386,
+    "date": "10/26/2022"
+  },
+  {
+    "id": 486,
+    "trip_start": "10:30 AM",
+    "duration": 7.933580331,
+    "date": "10/15/2022"
+  },
+  {
+    "id": 487,
+    "trip_start": "6:21 AM",
+    "duration": 3.308254753,
+    "date": "10/1/2022"
+  },
+  {
+    "id": 488,
+    "trip_start": "6:46 AM",
+    "duration": 9.493551676,
+    "date": "10/5/2022"
+  },
+  {
+    "id": 489,
+    "trip_start": "5:07 PM",
+    "duration": 7.482147366,
+    "date": "9/15/2022"
+  },
+  {
+    "id": 490,
+    "trip_start": "4:37 AM",
+    "duration": 3.554977046,
+    "date": "1/12/2022"
+  },
+  {
+    "id": 491,
+    "trip_start": "10:33 AM",
+    "duration": 9.296848883,
+    "date": "5/31/2022"
+  },
+  {
+    "id": 492,
+    "trip_start": "5:31 PM",
+    "duration": 2.451061078,
+    "date": "5/14/2022"
+  },
+  {
+    "id": 493,
+    "trip_start": "3:39 AM",
+    "duration": 8.15504524,
+    "date": "7/21/2022"
+  },
+  {
+    "id": 494,
+    "trip_start": "11:44 PM",
+    "duration": 9.383715931,
+    "date": "4/7/2022"
+  },
+  {
+    "id": 495,
+    "trip_start": "8:21 PM",
+    "duration": 9.855452336,
+    "date": "9/3/2022"
+  },
+  {
+    "id": 496,
+    "trip_start": "5:28 AM",
+    "duration": 4.475091253,
+    "date": "2/24/2022"
+  },
+  {
+    "id": 497,
+    "trip_start": "6:05 PM",
+    "duration": 5.361448847,
+    "date": "11/17/2021"
+  },
+  {
+    "id": 498,
+    "trip_start": "2:15 AM",
+    "duration": 9.923236559,
+    "date": "11/10/2022"
+  },
+  {
+    "id": 499,
+    "trip_start": "7:30 PM",
+    "duration": 2.309944688,
+    "date": "7/19/2022"
+  },
+  {
+    "id": 500,
+    "trip_start": "2:42 AM",
+    "duration": 6.690359602,
+    "date": "6/20/2022"
+  },
+  {
+    "id": 501,
+    "trip_start": "7:22 AM",
+    "duration": 8.447531838,
+    "date": "8/6/2022"
+  },
+  {
+    "id": 502,
+    "trip_start": "6:54 AM",
+    "duration": 4.657562181,
+    "date": "3/13/2022"
+  },
+  {
+    "id": 503,
+    "trip_start": "7:36 PM",
+    "duration": 2.136578466,
+    "date": "1/11/2022"
+  },
+  {
+    "id": 504,
+    "trip_start": "6:50 PM",
+    "duration": 1.118037609,
+    "date": "6/6/2022"
+  },
+  {
+    "id": 505,
+    "trip_start": "6:14 PM",
+    "duration": 6.236556799,
+    "date": "3/28/2022"
+  },
+  {
+    "id": 506,
+    "trip_start": "10:07 AM",
+    "duration": 1.997971809,
+    "date": "2/24/2022"
+  },
+  {
+    "id": 507,
+    "trip_start": "6:36 AM",
+    "duration": 1.810975865,
+    "date": "10/18/2022"
+  },
+  {
+    "id": 508,
+    "trip_start": "2:07 PM",
+    "duration": 6.905427179,
+    "date": "2/12/2022"
+  },
+  {
+    "id": 509,
+    "trip_start": "9:52 AM",
+    "duration": 3.391621168,
+    "date": "9/30/2022"
+  },
+  {
+    "id": 510,
+    "trip_start": "6:56 AM",
+    "duration": 8.645858039,
+    "date": "10/20/2022"
+  },
+  {
+    "id": 511,
+    "trip_start": "2:04 AM",
+    "duration": 8.807499378,
+    "date": "10/15/2022"
+  },
+  {
+    "id": 512,
+    "trip_start": "7:40 AM",
+    "duration": 1.941479945,
+    "date": "1/22/2022"
+  },
+  {
+    "id": 513,
+    "trip_start": "7:48 PM",
+    "duration": 6.742836703,
+    "date": "4/23/2022"
+  },
+  {
+    "id": 514,
+    "trip_start": "12:56 AM",
+    "duration": 1.456680156,
+    "date": "8/28/2022"
+  },
+  {
+    "id": 515,
+    "trip_start": "6:08 PM",
+    "duration": 2.439294515,
+    "date": "7/2/2022"
+  },
+  {
+    "id": 516,
+    "trip_start": "8:07 AM",
+    "duration": 2.009732202,
+    "date": "12/15/2021"
+  },
+  {
+    "id": 517,
+    "trip_start": "2:39 PM",
+    "duration": 6.540287094,
+    "date": "5/3/2022"
+  },
+  {
+    "id": 518,
+    "trip_start": "7:05 AM",
+    "duration": 3.757236514,
+    "date": "6/12/2022"
+  },
+  {
+    "id": 519,
+    "trip_start": "8:47 PM",
+    "duration": 6.85496083,
+    "date": "7/7/2022"
+  },
+  {
+    "id": 520,
+    "trip_start": "7:15 AM",
+    "duration": 3.48913557,
+    "date": "3/16/2022"
+  },
+  {
+    "id": 521,
+    "trip_start": "8:02 PM",
+    "duration": 9.050065334,
+    "date": "6/23/2022"
+  },
+  {
+    "id": 522,
+    "trip_start": "1:20 PM",
+    "duration": 1.090466906,
+    "date": "12/19/2021"
+  },
+  {
+    "id": 523,
+    "trip_start": "3:49 PM",
+    "duration": 6.858597357,
+    "date": "4/13/2022"
+  },
+  {
+    "id": 524,
+    "trip_start": "2:28 AM",
+    "duration": 5.417438629,
+    "date": "6/18/2022"
+  },
+  {
+    "id": 525,
+    "trip_start": "5:10 AM",
+    "duration": 5.228239443,
+    "date": "5/2/2022"
+  },
+  {
+    "id": 526,
+    "trip_start": "11:40 AM",
+    "duration": 3.751539458,
+    "date": "6/27/2022"
+  },
+  {
+    "id": 527,
+    "trip_start": "8:20 PM",
+    "duration": 6.774160464,
+    "date": "5/12/2022"
+  },
+  {
+    "id": 528,
+    "trip_start": "6:20 AM",
+    "duration": 3.139700701,
+    "date": "1/14/2022"
+  },
+  {
+    "id": 529,
+    "trip_start": "3:32 PM",
+    "duration": 1.78480165,
+    "date": "9/26/2022"
+  },
+  {
+    "id": 530,
+    "trip_start": "1:22 AM",
+    "duration": 1.533055174,
+    "date": "12/10/2021"
+  },
+  {
+    "id": 531,
+    "trip_start": "3:22 AM",
+    "duration": 7.388760671,
+    "date": "8/5/2022"
+  },
+  {
+    "id": 532,
+    "trip_start": "10:14 AM",
+    "duration": 8.573168293,
+    "date": "2/6/2022"
+  },
+  {
+    "id": 533,
+    "trip_start": "6:09 PM",
+    "duration": 6.649159648,
+    "date": "1/30/2022"
+  },
+  {
+    "id": 534,
+    "trip_start": "7:05 PM",
+    "duration": 4.785633747,
+    "date": "11/15/2021"
+  },
+  {
+    "id": 535,
+    "trip_start": "4:01 PM",
+    "duration": 7.524231862,
+    "date": "12/27/2021"
+  },
+  {
+    "id": 536,
+    "trip_start": "8:54 PM",
+    "duration": 7.788491844,
+    "date": "5/23/2022"
+  },
+  {
+    "id": 537,
+    "trip_start": "6:35 PM",
+    "duration": 1.849971704,
+    "date": "7/27/2022"
+  },
+  {
+    "id": 538,
+    "trip_start": "11:41 PM",
+    "duration": 8.677601597,
+    "date": "4/15/2022"
+  },
+  {
+    "id": 539,
+    "trip_start": "8:44 AM",
+    "duration": 2.786468196,
+    "date": "9/3/2022"
+  },
+  {
+    "id": 540,
+    "trip_start": "7:15 AM",
+    "duration": 2.61872955,
+    "date": "7/1/2022"
+  },
+  {
+    "id": 541,
+    "trip_start": "11:50 AM",
+    "duration": 1.800616544,
+    "date": "11/17/2021"
+  },
+  {
+    "id": 542,
+    "trip_start": "8:04 AM",
+    "duration": 8.825902893,
+    "date": "12/23/2021"
+  },
+  {
+    "id": 543,
+    "trip_start": "4:15 AM",
+    "duration": 5.470570997,
+    "date": "10/27/2022"
+  },
+  {
+    "id": 544,
+    "trip_start": "2:26 PM",
+    "duration": 3.680698742,
+    "date": "3/12/2022"
+  },
+  {
+    "id": 545,
+    "trip_start": "2:31 AM",
+    "duration": 9.015408399,
+    "date": "3/23/2022"
+  },
+  {
+    "id": 546,
+    "trip_start": "2:32 AM",
+    "duration": 9.721300459,
+    "date": "12/13/2021"
+  },
+  {
+    "id": 547,
+    "trip_start": "11:07 PM",
+    "duration": 6.172406167,
+    "date": "8/31/2022"
+  },
+  {
+    "id": 548,
+    "trip_start": "6:19 AM",
+    "duration": 2.516068234,
+    "date": "5/30/2022"
+  },
+  {
+    "id": 549,
+    "trip_start": "12:29 AM",
+    "duration": 4.1270808,
+    "date": "7/29/2022"
+  },
+  {
+    "id": 550,
+    "trip_start": "1:51 AM",
+    "duration": 5.358937534,
+    "date": "5/29/2022"
+  },
+  {
+    "id": 551,
+    "trip_start": "7:39 PM",
+    "duration": 3.296500036,
+    "date": "5/7/2022"
+  },
+  {
+    "id": 552,
+    "trip_start": "3:28 PM",
+    "duration": 7.899189248,
+    "date": "7/26/2022"
+  },
+  {
+    "id": 553,
+    "trip_start": "7:55 PM",
+    "duration": 5.852958849,
+    "date": "11/7/2022"
+  },
+  {
+    "id": 554,
+    "trip_start": "3:25 PM",
+    "duration": 3.223295766,
+    "date": "2/9/2022"
+  },
+  {
+    "id": 555,
+    "trip_start": "9:28 AM",
+    "duration": 4.001725324,
+    "date": "8/8/2022"
+  },
+  {
+    "id": 556,
+    "trip_start": "12:33 AM",
+    "duration": 2.317810337,
+    "date": "5/26/2022"
+  },
+  {
+    "id": 557,
+    "trip_start": "7:33 PM",
+    "duration": 5.392510244,
+    "date": "12/9/2021"
+  },
+  {
+    "id": 558,
+    "trip_start": "7:20 PM",
+    "duration": 1.979308423,
+    "date": "8/30/2022"
+  },
+  {
+    "id": 559,
+    "trip_start": "4:50 AM",
+    "duration": 9.058202737,
+    "date": "11/2/2022"
+  },
+  {
+    "id": 560,
+    "trip_start": "2:27 AM",
+    "duration": 1.754666358,
+    "date": "3/1/2022"
+  },
+  {
+    "id": 561,
+    "trip_start": "6:28 AM",
+    "duration": 3.730575699,
+    "date": "4/18/2022"
+  },
+  {
+    "id": 562,
+    "trip_start": "11:02 AM",
+    "duration": 9.178631731,
+    "date": "2/19/2022"
+  },
+  {
+    "id": 563,
+    "trip_start": "8:31 AM",
+    "duration": 6.449369988,
+    "date": "3/14/2022"
+  },
+  {
+    "id": 564,
+    "trip_start": "6:49 AM",
+    "duration": 4.429149059,
+    "date": "10/19/2022"
+  },
+  {
+    "id": 565,
+    "trip_start": "2:11 PM",
+    "duration": 8.92226449,
+    "date": "7/10/2022"
+  },
+  {
+    "id": 566,
+    "trip_start": "8:31 AM",
+    "duration": 1.790707008,
+    "date": "11/7/2022"
+  },
+  {
+    "id": 567,
+    "trip_start": "11:25 AM",
+    "duration": 8.779705283,
+    "date": "8/27/2022"
+  },
+  {
+    "id": 568,
+    "trip_start": "10:20 AM",
+    "duration": 2.176962492,
+    "date": "8/23/2022"
+  },
+  {
+    "id": 569,
+    "trip_start": "10:19 PM",
+    "duration": 7.150999939,
+    "date": "3/10/2022"
+  },
+  {
+    "id": 570,
+    "trip_start": "7:39 AM",
+    "duration": 5.990955286,
+    "date": "1/25/2022"
+  },
+  {
+    "id": 571,
+    "trip_start": "3:35 PM",
+    "duration": 5.37660181,
+    "date": "10/4/2022"
+  },
+  {
+    "id": 572,
+    "trip_start": "9:10 PM",
+    "duration": 8.601733737,
+    "date": "10/9/2022"
+  },
+  {
+    "id": 573,
+    "trip_start": "4:58 PM",
+    "duration": 3.7609919,
+    "date": "1/5/2022"
+  },
+  {
+    "id": 574,
+    "trip_start": "6:32 PM",
+    "duration": 5.253171505,
+    "date": "8/30/2022"
+  },
+  {
+    "id": 575,
+    "trip_start": "6:29 AM",
+    "duration": 7.865589258,
+    "date": "7/31/2022"
+  },
+  {
+    "id": 576,
+    "trip_start": "12:07 AM",
+    "duration": 6.534803952,
+    "date": "5/30/2022"
+  },
+  {
+    "id": 577,
+    "trip_start": "5:17 AM",
+    "duration": 9.651211975,
+    "date": "8/27/2022"
+  },
+  {
+    "id": 578,
+    "trip_start": "6:50 AM",
+    "duration": 6.271317556,
+    "date": "1/28/2022"
+  },
+  {
+    "id": 579,
+    "trip_start": "5:36 AM",
+    "duration": 1.784450449,
+    "date": "4/22/2022"
+  },
+  {
+    "id": 580,
+    "trip_start": "12:49 AM",
+    "duration": 7.178443095,
+    "date": "1/9/2022"
+  },
+  {
+    "id": 581,
+    "trip_start": "6:50 PM",
+    "duration": 7.086447686,
+    "date": "10/8/2022"
+  },
+  {
+    "id": 582,
+    "trip_start": "9:21 AM",
+    "duration": 9.506250548,
+    "date": "6/1/2022"
+  },
+  {
+    "id": 583,
+    "trip_start": "8:10 AM",
+    "duration": 8.699741633,
+    "date": "12/26/2021"
+  },
+  {
+    "id": 584,
+    "trip_start": "9:10 PM",
+    "duration": 4.901866469,
+    "date": "8/16/2022"
+  },
+  {
+    "id": 585,
+    "trip_start": "12:52 AM",
+    "duration": 8.732036219,
+    "date": "7/20/2022"
+  },
+  {
+    "id": 586,
+    "trip_start": "10:31 PM",
+    "duration": 1.267859546,
+    "date": "4/27/2022"
+  },
+  {
+    "id": 587,
+    "trip_start": "7:19 PM",
+    "duration": 3.010634496,
+    "date": "7/3/2022"
+  },
+  {
+    "id": 588,
+    "trip_start": "7:59 PM",
+    "duration": 3.210779216,
+    "date": "4/12/2022"
+  },
+  {
+    "id": 589,
+    "trip_start": "7:08 AM",
+    "duration": 2.501667825,
+    "date": "10/4/2022"
+  },
+  {
+    "id": 590,
+    "trip_start": "4:53 PM",
+    "duration": 3.5219543,
+    "date": "2/3/2022"
+  },
+  {
+    "id": 591,
+    "trip_start": "9:46 PM",
+    "duration": 7.806086894,
+    "date": "12/15/2021"
+  },
+  {
+    "id": 592,
+    "trip_start": "10:27 AM",
+    "duration": 1.603205073,
+    "date": "8/2/2022"
+  },
+  {
+    "id": 593,
+    "trip_start": "11:49 PM",
+    "duration": 9.365548111,
+    "date": "2/13/2022"
+  },
+  {
+    "id": 594,
+    "trip_start": "3:24 AM",
+    "duration": 4.38684868,
+    "date": "10/27/2022"
+  },
+  {
+    "id": 595,
+    "trip_start": "12:35 AM",
+    "duration": 5.096379338,
+    "date": "1/19/2022"
+  },
+  {
+    "id": 596,
+    "trip_start": "2:04 AM",
+    "duration": 4.932025447,
+    "date": "9/6/2022"
+  },
+  {
+    "id": 597,
+    "trip_start": "11:54 AM",
+    "duration": 9.627400366,
+    "date": "8/8/2022"
+  },
+  {
+    "id": 598,
+    "trip_start": "8:02 AM",
+    "duration": 3.544875541,
+    "date": "11/24/2021"
+  },
+  {
+    "id": 599,
+    "trip_start": "12:32 PM",
+    "duration": 8.300826946,
+    "date": "11/9/2022"
+  },
+  {
+    "id": 600,
+    "trip_start": "2:39 AM",
+    "duration": 8.089824177,
+    "date": "11/9/2022"
+  },
+  {
+    "id": 601,
+    "trip_start": "3:35 PM",
+    "duration": 2.630348198,
+    "date": "11/30/2021"
+  },
+  {
+    "id": 602,
+    "trip_start": "7:17 AM",
+    "duration": 3.430921377,
+    "date": "9/5/2022"
+  },
+  {
+    "id": 603,
+    "trip_start": "4:33 PM",
+    "duration": 7.105824082,
+    "date": "5/25/2022"
+  },
+  {
+    "id": 604,
+    "trip_start": "8:16 PM",
+    "duration": 4.005903154,
+    "date": "11/14/2021"
+  },
+  {
+    "id": 605,
+    "trip_start": "10:29 AM",
+    "duration": 8.681499638,
+    "date": "7/30/2022"
+  },
+  {
+    "id": 606,
+    "trip_start": "10:53 PM",
+    "duration": 2.468913816,
+    "date": "8/20/2022"
+  },
+  {
+    "id": 607,
+    "trip_start": "10:48 AM",
+    "duration": 6.019840413,
+    "date": "7/25/2022"
+  },
+  {
+    "id": 608,
+    "trip_start": "4:00 AM",
+    "duration": 2.993971865,
+    "date": "2/23/2022"
+  },
+  {
+    "id": 609,
+    "trip_start": "10:48 PM",
+    "duration": 8.611577192,
+    "date": "12/12/2021"
+  },
+  {
+    "id": 610,
+    "trip_start": "6:03 PM",
+    "duration": 6.105548818,
+    "date": "3/18/2022"
+  },
+  {
+    "id": 611,
+    "trip_start": "9:55 AM",
+    "duration": 9.938840299,
+    "date": "4/19/2022"
+  },
+  {
+    "id": 612,
+    "trip_start": "9:47 PM",
+    "duration": 1.932487684,
+    "date": "7/21/2022"
+  },
+  {
+    "id": 613,
+    "trip_start": "1:16 AM",
+    "duration": 3.507924118,
+    "date": "10/10/2022"
+  },
+  {
+    "id": 614,
+    "trip_start": "9:26 AM",
+    "duration": 2.11647363,
+    "date": "5/28/2022"
+  },
+  {
+    "id": 615,
+    "trip_start": "11:06 AM",
+    "duration": 8.588531453,
+    "date": "5/31/2022"
+  },
+  {
+    "id": 616,
+    "trip_start": "12:32 PM",
+    "duration": 5.359104229,
+    "date": "11/18/2021"
+  },
+  {
+    "id": 617,
+    "trip_start": "4:58 PM",
+    "duration": 1.126587903,
+    "date": "2/1/2022"
+  },
+  {
+    "id": 618,
+    "trip_start": "7:36 AM",
+    "duration": 8.596615127,
+    "date": "3/6/2022"
+  },
+  {
+    "id": 619,
+    "trip_start": "3:14 AM",
+    "duration": 5.502076098,
+    "date": "6/8/2022"
+  },
+  {
+    "id": 620,
+    "trip_start": "8:39 AM",
+    "duration": 1.254213716,
+    "date": "10/21/2022"
+  },
+  {
+    "id": 621,
+    "trip_start": "3:23 PM",
+    "duration": 5.132415922,
+    "date": "5/16/2022"
+  },
+  {
+    "id": 622,
+    "trip_start": "8:11 AM",
+    "duration": 2.242645367,
+    "date": "6/25/2022"
+  },
+  {
+    "id": 623,
+    "trip_start": "12:42 PM",
+    "duration": 4.222984606,
+    "date": "3/5/2022"
+  },
+  {
+    "id": 624,
+    "trip_start": "8:02 AM",
+    "duration": 5.445191152,
+    "date": "7/4/2022"
+  },
+  {
+    "id": 625,
+    "trip_start": "10:18 PM",
+    "duration": 9.074236362,
+    "date": "3/20/2022"
+  },
+  {
+    "id": 626,
+    "trip_start": "4:55 AM",
+    "duration": 3.904448569,
+    "date": "2/9/2022"
+  },
+  {
+    "id": 627,
+    "trip_start": "1:02 PM",
+    "duration": 8.901287827,
+    "date": "2/22/2022"
+  },
+  {
+    "id": 628,
+    "trip_start": "1:38 AM",
+    "duration": 2.853250948,
+    "date": "11/11/2021"
+  },
+  {
+    "id": 629,
+    "trip_start": "9:10 PM",
+    "duration": 9.127136902,
+    "date": "12/11/2021"
+  },
+  {
+    "id": 630,
+    "trip_start": "5:39 PM",
+    "duration": 3.778480596,
+    "date": "10/25/2022"
+  },
+  {
+    "id": 631,
+    "trip_start": "2:53 AM",
+    "duration": 5.22215582,
+    "date": "2/7/2022"
+  },
+  {
+    "id": 632,
+    "trip_start": "10:04 PM",
+    "duration": 8.897322178,
+    "date": "9/29/2022"
+  },
+  {
+    "id": 633,
+    "trip_start": "2:22 PM",
+    "duration": 3.32750542,
+    "date": "2/11/2022"
+  },
+  {
+    "id": 634,
+    "trip_start": "3:03 PM",
+    "duration": 2.967728326,
+    "date": "8/14/2022"
+  },
+  {
+    "id": 635,
+    "trip_start": "12:41 AM",
+    "duration": 7.268275518,
+    "date": "1/25/2022"
+  },
+  {
+    "id": 636,
+    "trip_start": "12:57 AM",
+    "duration": 5.523204342,
+    "date": "1/19/2022"
+  },
+  {
+    "id": 637,
+    "trip_start": "3:31 PM",
+    "duration": 5.338495441,
+    "date": "9/7/2022"
+  },
+  {
+    "id": 638,
+    "trip_start": "6:36 AM",
+    "duration": 7.598065882,
+    "date": "6/5/2022"
+  },
+  {
+    "id": 639,
+    "trip_start": "5:49 AM",
+    "duration": 1.132361408,
+    "date": "3/11/2022"
+  },
+  {
+    "id": 640,
+    "trip_start": "9:20 AM",
+    "duration": 8.020305967,
+    "date": "8/9/2022"
+  },
+  {
+    "id": 641,
+    "trip_start": "9:26 AM",
+    "duration": 1.368593974,
+    "date": "4/16/2022"
+  },
+  {
+    "id": 642,
+    "trip_start": "6:55 PM",
+    "duration": 2.727090159,
+    "date": "4/11/2022"
+  },
+  {
+    "id": 643,
+    "trip_start": "5:29 PM",
+    "duration": 3.847071147,
+    "date": "8/1/2022"
+  },
+  {
+    "id": 644,
+    "trip_start": "8:56 PM",
+    "duration": 5.44020263,
+    "date": "9/1/2022"
+  },
+  {
+    "id": 645,
+    "trip_start": "6:28 PM",
+    "duration": 8.041624945,
+    "date": "6/12/2022"
+  },
+  {
+    "id": 646,
+    "trip_start": "4:56 AM",
+    "duration": 4.550522456,
+    "date": "12/9/2021"
+  },
+  {
+    "id": 647,
+    "trip_start": "10:31 AM",
+    "duration": 3.880297342,
+    "date": "11/28/2021"
+  },
+  {
+    "id": 648,
+    "trip_start": "6:32 PM",
+    "duration": 1.17692519,
+    "date": "9/29/2022"
+  },
+  {
+    "id": 649,
+    "trip_start": "5:15 AM",
+    "duration": 6.596224358,
+    "date": "1/23/2022"
+  },
+  {
+    "id": 650,
+    "trip_start": "3:39 AM",
+    "duration": 8.91651492,
+    "date": "1/17/2022"
+  },
+  {
+    "id": 651,
+    "trip_start": "10:10 PM",
+    "duration": 5.076873358,
+    "date": "9/14/2022"
+  },
+  {
+    "id": 652,
+    "trip_start": "12:42 AM",
+    "duration": 4.430536617,
+    "date": "4/22/2022"
+  },
+  {
+    "id": 653,
+    "trip_start": "2:26 AM",
+    "duration": 7.825587865,
+    "date": "8/12/2022"
+  },
+  {
+    "id": 654,
+    "trip_start": "12:18 AM",
+    "duration": 9.788301731,
+    "date": "10/18/2022"
+  },
+  {
+    "id": 655,
+    "trip_start": "6:38 AM",
+    "duration": 4.675033755,
+    "date": "1/31/2022"
+  },
+  {
+    "id": 656,
+    "trip_start": "8:20 AM",
+    "duration": 1.281715578,
+    "date": "10/5/2022"
+  },
+  {
+    "id": 657,
+    "trip_start": "6:16 PM",
+    "duration": 3.309554059,
+    "date": "9/30/2022"
+  },
+  {
+    "id": 658,
+    "trip_start": "3:30 AM",
+    "duration": 6.353038897,
+    "date": "9/24/2022"
+  },
+  {
+    "id": 659,
+    "trip_start": "2:49 PM",
+    "duration": 3.464769499,
+    "date": "7/23/2022"
+  },
+  {
+    "id": 660,
+    "trip_start": "1:05 PM",
+    "duration": 3.291887189,
+    "date": "12/9/2021"
+  },
+  {
+    "id": 661,
+    "trip_start": "8:20 AM",
+    "duration": 1.180151362,
+    "date": "5/29/2022"
+  },
+  {
+    "id": 662,
+    "trip_start": "6:58 PM",
+    "duration": 9.054160819,
+    "date": "1/16/2022"
+  },
+  {
+    "id": 663,
+    "trip_start": "2:51 PM",
+    "duration": 5.834812381,
+    "date": "1/28/2022"
+  },
+  {
+    "id": 664,
+    "trip_start": "4:24 AM",
+    "duration": 1.348270073,
+    "date": "11/28/2021"
+  },
+  {
+    "id": 665,
+    "trip_start": "4:34 PM",
+    "duration": 8.793254508,
+    "date": "7/16/2022"
+  },
+  {
+    "id": 666,
+    "trip_start": "9:39 AM",
+    "duration": 6.292926869,
+    "date": "9/19/2022"
+  },
+  {
+    "id": 667,
+    "trip_start": "4:36 PM",
+    "duration": 2.890527642,
+    "date": "4/10/2022"
+  },
+  {
+    "id": 668,
+    "trip_start": "9:44 PM",
+    "duration": 4.323619196,
+    "date": "4/5/2022"
+  },
+  {
+    "id": 669,
+    "trip_start": "8:26 AM",
+    "duration": 6.462569971,
+    "date": "7/25/2022"
+  },
+  {
+    "id": 670,
+    "trip_start": "5:32 AM",
+    "duration": 3.902992035,
+    "date": "12/11/2021"
+  },
+  {
+    "id": 671,
+    "trip_start": "5:21 PM",
+    "duration": 9.061586674,
+    "date": "8/21/2022"
+  },
+  {
+    "id": 672,
+    "trip_start": "10:36 AM",
+    "duration": 3.112653531,
+    "date": "12/24/2021"
+  },
+  {
+    "id": 673,
+    "trip_start": "5:08 PM",
+    "duration": 6.821242222,
+    "date": "3/31/2022"
+  },
+  {
+    "id": 674,
+    "trip_start": "1:43 PM",
+    "duration": 2.268038039,
+    "date": "6/8/2022"
+  },
+  {
+    "id": 675,
+    "trip_start": "2:33 PM",
+    "duration": 9.341697242,
+    "date": "11/18/2021"
+  },
+  {
+    "id": 676,
+    "trip_start": "9:16 PM",
+    "duration": 7.453232922,
+    "date": "3/3/2022"
+  },
+  {
+    "id": 677,
+    "trip_start": "3:42 PM",
+    "duration": 7.956828063,
+    "date": "7/8/2022"
+  },
+  {
+    "id": 678,
+    "trip_start": "1:18 AM",
+    "duration": 7.642604096,
+    "date": "5/14/2022"
+  },
+  {
+    "id": 679,
+    "trip_start": "1:41 PM",
+    "duration": 6.415043688,
+    "date": "7/5/2022"
+  },
+  {
+    "id": 680,
+    "trip_start": "8:29 PM",
+    "duration": 7.545473996,
+    "date": "2/16/2022"
+  },
+  {
+    "id": 681,
+    "trip_start": "5:39 AM",
+    "duration": 4.356386485,
+    "date": "6/2/2022"
+  },
+  {
+    "id": 682,
+    "trip_start": "11:43 AM",
+    "duration": 2.989655225,
+    "date": "7/24/2022"
+  },
+  {
+    "id": 683,
+    "trip_start": "11:54 PM",
+    "duration": 5.9495507,
+    "date": "6/24/2022"
+  },
+  {
+    "id": 684,
+    "trip_start": "10:04 AM",
+    "duration": 4.633903442,
+    "date": "10/3/2022"
+  },
+  {
+    "id": 685,
+    "trip_start": "10:26 AM",
+    "duration": 9.269149054,
+    "date": "9/3/2022"
+  },
+  {
+    "id": 686,
+    "trip_start": "4:09 PM",
+    "duration": 5.117695585,
+    "date": "11/9/2022"
+  },
+  {
+    "id": 687,
+    "trip_start": "7:55 PM",
+    "duration": 3.107233247,
+    "date": "7/5/2022"
+  },
+  {
+    "id": 688,
+    "trip_start": "10:49 AM",
+    "duration": 8.328213415,
+    "date": "10/27/2022"
+  },
+  {
+    "id": 689,
+    "trip_start": "7:43 AM",
+    "duration": 2.170063263,
+    "date": "1/28/2022"
+  },
+  {
+    "id": 690,
+    "trip_start": "12:53 AM",
+    "duration": 5.410487872,
+    "date": "3/1/2022"
+  },
+  {
+    "id": 691,
+    "trip_start": "10:25 PM",
+    "duration": 1.434988774,
+    "date": "7/15/2022"
+  },
+  {
+    "id": 692,
+    "trip_start": "11:46 AM",
+    "duration": 6.800173643,
+    "date": "3/27/2022"
+  },
+  {
+    "id": 693,
+    "trip_start": "3:25 PM",
+    "duration": 5.307020316,
+    "date": "10/5/2022"
+  },
+  {
+    "id": 694,
+    "trip_start": "4:52 PM",
+    "duration": 2.750874039,
+    "date": "9/1/2022"
+  },
+  {
+    "id": 695,
+    "trip_start": "5:55 AM",
+    "duration": 2.871537926,
+    "date": "6/13/2022"
+  },
+  {
+    "id": 696,
+    "trip_start": "1:34 AM",
+    "duration": 3.834992777,
+    "date": "3/22/2022"
+  },
+  {
+    "id": 697,
+    "trip_start": "7:07 AM",
+    "duration": 5.122673394,
+    "date": "2/4/2022"
+  },
+  {
+    "id": 698,
+    "trip_start": "9:00 AM",
+    "duration": 9.079580948,
+    "date": "5/12/2022"
+  },
+  {
+    "id": 699,
+    "trip_start": "10:42 AM",
+    "duration": 9.682854829,
+    "date": "12/29/2021"
+  },
+  {
+    "id": 700,
+    "trip_start": "11:07 AM",
+    "duration": 5.0185441,
+    "date": "9/15/2022"
+  },
+  {
+    "id": 701,
+    "trip_start": "5:07 AM",
+    "duration": 9.614912193,
+    "date": "7/11/2022"
+  },
+  {
+    "id": 702,
+    "trip_start": "5:42 AM",
+    "duration": 6.788730354,
+    "date": "8/3/2022"
+  },
+  {
+    "id": 703,
+    "trip_start": "1:24 PM",
+    "duration": 1.994608647,
+    "date": "5/31/2022"
+  },
+  {
+    "id": 704,
+    "trip_start": "10:41 PM",
+    "duration": 6.870042459,
+    "date": "12/20/2021"
+  },
+  {
+    "id": 705,
+    "trip_start": "8:32 AM",
+    "duration": 6.406269272,
+    "date": "9/23/2022"
+  },
+  {
+    "id": 706,
+    "trip_start": "11:49 PM",
+    "duration": 3.813023739,
+    "date": "10/15/2022"
+  },
+  {
+    "id": 707,
+    "trip_start": "12:49 AM",
+    "duration": 3.70933959,
+    "date": "9/28/2022"
+  },
+  {
+    "id": 708,
+    "trip_start": "9:43 PM",
+    "duration": 4.596261398,
+    "date": "7/4/2022"
+  },
+  {
+    "id": 709,
+    "trip_start": "2:12 PM",
+    "duration": 2.34531672,
+    "date": "1/16/2022"
+  },
+  {
+    "id": 710,
+    "trip_start": "12:16 AM",
+    "duration": 8.944838062,
+    "date": "1/6/2022"
+  },
+  {
+    "id": 711,
+    "trip_start": "1:41 PM",
+    "duration": 7.164336054,
+    "date": "8/13/2022"
+  },
+  {
+    "id": 712,
+    "trip_start": "6:47 AM",
+    "duration": 5.022811392,
+    "date": "2/27/2022"
+  },
+  {
+    "id": 713,
+    "trip_start": "11:19 AM",
+    "duration": 7.701357508,
+    "date": "6/16/2022"
+  },
+  {
+    "id": 714,
+    "trip_start": "10:44 PM",
+    "duration": 8.967341595,
+    "date": "7/17/2022"
+  },
+  {
+    "id": 715,
+    "trip_start": "8:31 PM",
+    "duration": 2.658123217,
+    "date": "1/12/2022"
+  },
+  {
+    "id": 716,
+    "trip_start": "5:39 AM",
+    "duration": 4.666082954,
+    "date": "11/5/2022"
+  },
+  {
+    "id": 717,
+    "trip_start": "6:29 AM",
+    "duration": 6.622164892,
+    "date": "12/13/2021"
+  },
+  {
+    "id": 718,
+    "trip_start": "1:10 AM",
+    "duration": 7.807584867,
+    "date": "7/1/2022"
+  },
+  {
+    "id": 719,
+    "trip_start": "1:52 AM",
+    "duration": 3.526700142,
+    "date": "1/16/2022"
+  },
+  {
+    "id": 720,
+    "trip_start": "4:58 AM",
+    "duration": 8.565536697,
+    "date": "9/29/2022"
+  },
+  {
+    "id": 721,
+    "trip_start": "8:04 PM",
+    "duration": 2.39723116,
+    "date": "9/4/2022"
+  },
+  {
+    "id": 722,
+    "trip_start": "7:17 PM",
+    "duration": 9.328533413,
+    "date": "5/17/2022"
+  },
+  {
+    "id": 723,
+    "trip_start": "7:47 AM",
+    "duration": 4.572499043,
+    "date": "4/29/2022"
+  },
+  {
+    "id": 724,
+    "trip_start": "8:18 AM",
+    "duration": 4.241156871,
+    "date": "11/28/2021"
+  },
+  {
+    "id": 725,
+    "trip_start": "12:26 PM",
+    "duration": 2.911844459,
+    "date": "4/9/2022"
+  },
+  {
+    "id": 726,
+    "trip_start": "12:43 AM",
+    "duration": 7.381641814,
+    "date": "4/22/2022"
+  },
+  {
+    "id": 727,
+    "trip_start": "12:32 AM",
+    "duration": 8.570855971,
+    "date": "6/1/2022"
+  },
+  {
+    "id": 728,
+    "trip_start": "12:06 PM",
+    "duration": 8.851360707,
+    "date": "11/14/2021"
+  },
+  {
+    "id": 729,
+    "trip_start": "8:48 PM",
+    "duration": 8.631533512,
+    "date": "3/5/2022"
+  },
+  {
+    "id": 730,
+    "trip_start": "3:50 AM",
+    "duration": 8.645513755,
+    "date": "8/29/2022"
+  },
+  {
+    "id": 731,
+    "trip_start": "5:51 PM",
+    "duration": 8.851541737,
+    "date": "8/23/2022"
+  },
+  {
+    "id": 732,
+    "trip_start": "1:01 PM",
+    "duration": 8.10255021,
+    "date": "10/6/2022"
+  },
+  {
+    "id": 733,
+    "trip_start": "11:20 AM",
+    "duration": 6.143063631,
+    "date": "5/7/2022"
+  },
+  {
+    "id": 734,
+    "trip_start": "4:56 PM",
+    "duration": 2.268457758,
+    "date": "3/18/2022"
+  },
+  {
+    "id": 735,
+    "trip_start": "7:13 AM",
+    "duration": 2.718139218,
+    "date": "10/1/2022"
+  },
+  {
+    "id": 736,
+    "trip_start": "11:48 PM",
+    "duration": 5.90043221,
+    "date": "12/4/2021"
+  },
+  {
+    "id": 737,
+    "trip_start": "2:21 PM",
+    "duration": 4.750707121,
+    "date": "5/21/2022"
+  },
+  {
+    "id": 738,
+    "trip_start": "7:41 AM",
+    "duration": 7.868144518,
+    "date": "8/12/2022"
+  },
+  {
+    "id": 739,
+    "trip_start": "1:06 PM",
+    "duration": 7.577532502,
+    "date": "10/8/2022"
+  },
+  {
+    "id": 740,
+    "trip_start": "1:12 AM",
+    "duration": 3.433436154,
+    "date": "3/24/2022"
+  },
+  {
+    "id": 741,
+    "trip_start": "9:40 AM",
+    "duration": 6.677160369,
+    "date": "4/23/2022"
+  },
+  {
+    "id": 742,
+    "trip_start": "12:56 PM",
+    "duration": 2.4365104,
+    "date": "10/20/2022"
+  },
+  {
+    "id": 743,
+    "trip_start": "7:54 PM",
+    "duration": 5.993930439,
+    "date": "9/13/2022"
+  },
+  {
+    "id": 744,
+    "trip_start": "9:12 AM",
+    "duration": 5.174725556,
+    "date": "10/7/2022"
+  },
+  {
+    "id": 745,
+    "trip_start": "4:05 AM",
+    "duration": 3.185685618,
+    "date": "1/28/2022"
+  },
+  {
+    "id": 746,
+    "trip_start": "8:38 AM",
+    "duration": 8.825383584,
+    "date": "6/10/2022"
+  },
+  {
+    "id": 747,
+    "trip_start": "2:18 PM",
+    "duration": 7.44772841,
+    "date": "6/3/2022"
+  },
+  {
+    "id": 748,
+    "trip_start": "5:21 AM",
+    "duration": 2.823735347,
+    "date": "7/23/2022"
+  },
+  {
+    "id": 749,
+    "trip_start": "2:17 AM",
+    "duration": 6.333846922,
+    "date": "5/24/2022"
+  },
+  {
+    "id": 750,
+    "trip_start": "11:55 PM",
+    "duration": 3.051718382,
+    "date": "4/5/2022"
+  },
+  {
+    "id": 751,
+    "trip_start": "3:54 AM",
+    "duration": 2.21404604,
+    "date": "4/22/2022"
+  },
+  {
+    "id": 752,
+    "trip_start": "10:51 AM",
+    "duration": 9.242713637,
+    "date": "4/18/2022"
+  },
+  {
+    "id": 753,
+    "trip_start": "12:03 AM",
+    "duration": 2.785192194,
+    "date": "8/30/2022"
+  },
+  {
+    "id": 754,
+    "trip_start": "10:29 AM",
+    "duration": 4.832844721,
+    "date": "1/8/2022"
+  },
+  {
+    "id": 755,
+    "trip_start": "11:05 AM",
+    "duration": 2.522704726,
+    "date": "2/28/2022"
+  },
+  {
+    "id": 756,
+    "trip_start": "3:24 PM",
+    "duration": 6.444424231,
+    "date": "7/28/2022"
+  },
+  {
+    "id": 757,
+    "trip_start": "6:01 PM",
+    "duration": 2.621881615,
+    "date": "2/3/2022"
+  },
+  {
+    "id": 758,
+    "trip_start": "6:05 PM",
+    "duration": 1.725560465,
+    "date": "1/10/2022"
+  },
+  {
+    "id": 759,
+    "trip_start": "11:44 PM",
+    "duration": 7.983168481,
+    "date": "12/13/2021"
+  },
+  {
+    "id": 760,
+    "trip_start": "3:59 PM",
+    "duration": 6.438570769,
+    "date": "2/6/2022"
+  },
+  {
+    "id": 761,
+    "trip_start": "9:50 AM",
+    "duration": 4.44128707,
+    "date": "1/17/2022"
+  },
+  {
+    "id": 762,
+    "trip_start": "1:57 PM",
+    "duration": 8.836136031,
+    "date": "7/17/2022"
+  },
+  {
+    "id": 763,
+    "trip_start": "4:00 AM",
+    "duration": 3.286962839,
+    "date": "10/16/2022"
+  },
+  {
+    "id": 764,
+    "trip_start": "7:26 AM",
+    "duration": 1.546088071,
+    "date": "5/30/2022"
+  },
+  {
+    "id": 765,
+    "trip_start": "12:28 PM",
+    "duration": 1.792805258,
+    "date": "3/26/2022"
+  },
+  {
+    "id": 766,
+    "trip_start": "7:31 AM",
+    "duration": 1.594272766,
+    "date": "7/13/2022"
+  },
+  {
+    "id": 767,
+    "trip_start": "12:09 PM",
+    "duration": 6.687913886,
+    "date": "10/26/2022"
+  },
+  {
+    "id": 768,
+    "trip_start": "10:49 AM",
+    "duration": 4.587816107,
+    "date": "8/26/2022"
+  },
+  {
+    "id": 769,
+    "trip_start": "11:14 AM",
+    "duration": 3.407292197,
+    "date": "2/25/2022"
+  },
+  {
+    "id": 770,
+    "trip_start": "8:40 PM",
+    "duration": 9.955855473,
+    "date": "9/15/2022"
+  },
+  {
+    "id": 771,
+    "trip_start": "1:55 PM",
+    "duration": 7.789182952,
+    "date": "12/12/2021"
+  },
+  {
+    "id": 772,
+    "trip_start": "6:29 AM",
+    "duration": 4.463451408,
+    "date": "9/11/2022"
+  },
+  {
+    "id": 773,
+    "trip_start": "12:34 AM",
+    "duration": 3.954082782,
+    "date": "9/25/2022"
+  },
+  {
+    "id": 774,
+    "trip_start": "5:19 AM",
+    "duration": 2.190418452,
+    "date": "10/5/2022"
+  },
+  {
+    "id": 775,
+    "trip_start": "10:51 PM",
+    "duration": 3.24181184,
+    "date": "3/8/2022"
+  },
+  {
+    "id": 776,
+    "trip_start": "9:27 PM",
+    "duration": 6.194692528,
+    "date": "4/21/2022"
+  },
+  {
+    "id": 777,
+    "trip_start": "5:13 AM",
+    "duration": 1.645496669,
+    "date": "3/23/2022"
+  },
+  {
+    "id": 778,
+    "trip_start": "11:29 AM",
+    "duration": 9.942371028,
+    "date": "6/7/2022"
+  },
+  {
+    "id": 779,
+    "trip_start": "8:27 PM",
+    "duration": 1.683434467,
+    "date": "8/30/2022"
+  },
+  {
+    "id": 780,
+    "trip_start": "5:34 PM",
+    "duration": 8.374666434,
+    "date": "11/28/2021"
+  },
+  {
+    "id": 781,
+    "trip_start": "12:15 PM",
+    "duration": 6.21594268,
+    "date": "12/10/2021"
+  },
+  {
+    "id": 782,
+    "trip_start": "12:06 AM",
+    "duration": 8.276237074,
+    "date": "11/24/2021"
+  },
+  {
+    "id": 783,
+    "trip_start": "2:39 AM",
+    "duration": 2.684682848,
+    "date": "9/17/2022"
+  },
+  {
+    "id": 784,
+    "trip_start": "7:47 AM",
+    "duration": 5.051916771,
+    "date": "3/5/2022"
+  },
+  {
+    "id": 785,
+    "trip_start": "5:12 AM",
+    "duration": 1.118258606,
+    "date": "1/9/2022"
+  },
+  {
+    "id": 786,
+    "trip_start": "2:50 PM",
+    "duration": 6.737274704,
+    "date": "4/3/2022"
+  },
+  {
+    "id": 787,
+    "trip_start": "9:38 AM",
+    "duration": 2.487476778,
+    "date": "3/2/2022"
+  },
+  {
+    "id": 788,
+    "trip_start": "8:24 AM",
+    "duration": 6.494078772,
+    "date": "6/19/2022"
+  },
+  {
+    "id": 789,
+    "trip_start": "11:02 PM",
+    "duration": 5.664487232,
+    "date": "6/28/2022"
+  },
+  {
+    "id": 790,
+    "trip_start": "9:49 AM",
+    "duration": 2.368880431,
+    "date": "5/15/2022"
+  },
+  {
+    "id": 791,
+    "trip_start": "12:56 PM",
+    "duration": 9.803724389,
+    "date": "8/2/2022"
+  },
+  {
+    "id": 792,
+    "trip_start": "1:33 AM",
+    "duration": 3.079444861,
+    "date": "4/7/2022"
+  },
+  {
+    "id": 793,
+    "trip_start": "1:21 AM",
+    "duration": 1.45178739,
+    "date": "4/30/2022"
+  },
+  {
+    "id": 794,
+    "trip_start": "12:56 AM",
+    "duration": 7.486045035,
+    "date": "1/26/2022"
+  },
+  {
+    "id": 795,
+    "trip_start": "5:28 AM",
+    "duration": 1.037952076,
+    "date": "11/28/2021"
+  },
+  {
+    "id": 796,
+    "trip_start": "3:10 PM",
+    "duration": 9.432985277,
+    "date": "11/18/2021"
+  },
+  {
+    "id": 797,
+    "trip_start": "12:44 PM",
+    "duration": 3.506030986,
+    "date": "4/14/2022"
+  },
+  {
+    "id": 798,
+    "trip_start": "8:04 PM",
+    "duration": 6.41852079,
+    "date": "7/19/2022"
+  },
+  {
+    "id": 799,
+    "trip_start": "2:29 AM",
+    "duration": 7.345928321,
+    "date": "8/9/2022"
+  },
+  {
+    "id": 800,
+    "trip_start": "1:46 AM",
+    "duration": 4.228357404,
+    "date": "8/5/2022"
+  },
+  {
+    "id": 801,
+    "trip_start": "1:08 PM",
+    "duration": 8.292966106,
+    "date": "5/19/2022"
+  },
+  {
+    "id": 802,
+    "trip_start": "1:29 PM",
+    "duration": 7.733887929,
+    "date": "11/1/2022"
+  },
+  {
+    "id": 803,
+    "trip_start": "4:14 AM",
+    "duration": 3.857785737,
+    "date": "11/19/2021"
+  },
+  {
+    "id": 804,
+    "trip_start": "10:43 PM",
+    "duration": 2.130281587,
+    "date": "2/14/2022"
+  },
+  {
+    "id": 805,
+    "trip_start": "10:08 PM",
+    "duration": 6.732705181,
+    "date": "9/9/2022"
+  },
+  {
+    "id": 806,
+    "trip_start": "11:42 PM",
+    "duration": 3.552553224,
+    "date": "2/21/2022"
+  },
+  {
+    "id": 807,
+    "trip_start": "6:22 AM",
+    "duration": 7.389142752,
+    "date": "11/4/2022"
+  },
+  {
+    "id": 808,
+    "trip_start": "4:21 PM",
+    "duration": 9.118301116,
+    "date": "12/24/2021"
+  },
+  {
+    "id": 809,
+    "trip_start": "6:13 PM",
+    "duration": 3.527225949,
+    "date": "6/9/2022"
+  },
+  {
+    "id": 810,
+    "trip_start": "6:26 PM",
+    "duration": 2.072157949,
+    "date": "5/2/2022"
+  },
+  {
+    "id": 811,
+    "trip_start": "8:17 PM",
+    "duration": 2.308913162,
+    "date": "10/17/2022"
+  },
+  {
+    "id": 812,
+    "trip_start": "7:47 AM",
+    "duration": 9.033850452,
+    "date": "11/30/2021"
+  },
+  {
+    "id": 813,
+    "trip_start": "2:13 PM",
+    "duration": 6.360929443,
+    "date": "2/26/2022"
+  },
+  {
+    "id": 814,
+    "trip_start": "5:33 PM",
+    "duration": 9.525601433,
+    "date": "1/26/2022"
+  },
+  {
+    "id": 815,
+    "trip_start": "12:21 AM",
+    "duration": 3.064198722,
+    "date": "2/12/2022"
+  },
+  {
+    "id": 816,
+    "trip_start": "5:24 PM",
+    "duration": 8.020572371,
+    "date": "10/31/2022"
+  },
+  {
+    "id": 817,
+    "trip_start": "10:55 PM",
+    "duration": 7.532309454,
+    "date": "10/30/2022"
+  },
+  {
+    "id": 818,
+    "trip_start": "7:13 AM",
+    "duration": 3.597425832,
+    "date": "2/25/2022"
+  },
+  {
+    "id": 819,
+    "trip_start": "5:04 PM",
+    "duration": 1.928643172,
+    "date": "11/7/2022"
+  },
+  {
+    "id": 820,
+    "trip_start": "2:02 PM",
+    "duration": 8.212099503,
+    "date": "12/10/2021"
+  },
+  {
+    "id": 821,
+    "trip_start": "2:42 AM",
+    "duration": 2.079559611,
+    "date": "1/13/2022"
+  },
+  {
+    "id": 822,
+    "trip_start": "8:01 AM",
+    "duration": 7.997030238,
+    "date": "2/16/2022"
+  },
+  {
+    "id": 823,
+    "trip_start": "2:33 AM",
+    "duration": 1.312810977,
+    "date": "6/12/2022"
+  },
+  {
+    "id": 824,
+    "trip_start": "5:53 AM",
+    "duration": 1.913705072,
+    "date": "1/9/2022"
+  },
+  {
+    "id": 825,
+    "trip_start": "1:28 AM",
+    "duration": 3.234610779,
+    "date": "11/16/2021"
+  },
+  {
+    "id": 826,
+    "trip_start": "7:19 PM",
+    "duration": 6.209398796,
+    "date": "12/26/2021"
+  },
+  {
+    "id": 827,
+    "trip_start": "2:51 PM",
+    "duration": 7.184893508,
+    "date": "12/13/2021"
+  },
+  {
+    "id": 828,
+    "trip_start": "9:10 AM",
+    "duration": 5.448185983,
+    "date": "8/20/2022"
+  },
+  {
+    "id": 829,
+    "trip_start": "12:01 AM",
+    "duration": 4.810183644,
+    "date": "3/24/2022"
+  },
+  {
+    "id": 830,
+    "trip_start": "10:32 AM",
+    "duration": 3.793280709,
+    "date": "1/10/2022"
+  },
+  {
+    "id": 831,
+    "trip_start": "7:03 PM",
+    "duration": 9.418603552,
+    "date": "12/11/2021"
+  },
+  {
+    "id": 832,
+    "trip_start": "7:19 AM",
+    "duration": 6.610218616,
+    "date": "11/6/2022"
+  },
+  {
+    "id": 833,
+    "trip_start": "7:01 AM",
+    "duration": 9.830083544,
+    "date": "4/10/2022"
+  },
+  {
+    "id": 834,
+    "trip_start": "10:13 AM",
+    "duration": 6.394561046,
+    "date": "7/21/2022"
+  },
+  {
+    "id": 835,
+    "trip_start": "11:33 PM",
+    "duration": 5.940850393,
+    "date": "12/1/2021"
+  },
+  {
+    "id": 836,
+    "trip_start": "12:35 PM",
+    "duration": 9.238987434,
+    "date": "9/14/2022"
+  },
+  {
+    "id": 837,
+    "trip_start": "7:20 PM",
+    "duration": 1.256202329,
+    "date": "7/7/2022"
+  },
+  {
+    "id": 838,
+    "trip_start": "2:03 AM",
+    "duration": 1.080406226,
+    "date": "9/7/2022"
+  },
+  {
+    "id": 839,
+    "trip_start": "8:29 PM",
+    "duration": 6.596776271,
+    "date": "10/12/2022"
+  },
+  {
+    "id": 840,
+    "trip_start": "12:14 AM",
+    "duration": 4.893630471,
+    "date": "1/15/2022"
+  },
+  {
+    "id": 841,
+    "trip_start": "1:09 PM",
+    "duration": 6.964762711,
+    "date": "12/18/2021"
+  },
+  {
+    "id": 842,
+    "trip_start": "7:16 AM",
+    "duration": 6.196438864,
+    "date": "6/22/2022"
+  },
+  {
+    "id": 843,
+    "trip_start": "5:14 AM",
+    "duration": 1.584794919,
+    "date": "10/24/2022"
+  },
+  {
+    "id": 844,
+    "trip_start": "11:45 AM",
+    "duration": 6.360162291,
+    "date": "5/9/2022"
+  },
+  {
+    "id": 845,
+    "trip_start": "10:33 AM",
+    "duration": 2.72526651,
+    "date": "11/5/2022"
+  },
+  {
+    "id": 846,
+    "trip_start": "11:19 PM",
+    "duration": 2.767172462,
+    "date": "9/16/2022"
+  },
+  {
+    "id": 847,
+    "trip_start": "12:06 AM",
+    "duration": 2.928706062,
+    "date": "3/26/2022"
+  },
+  {
+    "id": 848,
+    "trip_start": "5:58 AM",
+    "duration": 7.359240026,
+    "date": "5/14/2022"
+  },
+  {
+    "id": 849,
+    "trip_start": "2:43 PM",
+    "duration": 9.267817653,
+    "date": "10/20/2022"
+  },
+  {
+    "id": 850,
+    "trip_start": "6:38 AM",
+    "duration": 9.85899362,
+    "date": "12/31/2021"
+  },
+  {
+    "id": 851,
+    "trip_start": "8:04 PM",
+    "duration": 7.429956804,
+    "date": "8/6/2022"
+  },
+  {
+    "id": 852,
+    "trip_start": "7:24 AM",
+    "duration": 4.714579137,
+    "date": "8/20/2022"
+  },
+  {
+    "id": 853,
+    "trip_start": "4:27 PM",
+    "duration": 1.480339032,
+    "date": "3/7/2022"
+  },
+  {
+    "id": 854,
+    "trip_start": "9:34 AM",
+    "duration": 3.340372475,
+    "date": "12/30/2021"
+  },
+  {
+    "id": 855,
+    "trip_start": "6:16 AM",
+    "duration": 6.824988284,
+    "date": "6/1/2022"
+  },
+  {
+    "id": 856,
+    "trip_start": "11:49 PM",
+    "duration": 4.745854262,
+    "date": "4/29/2022"
+  },
+  {
+    "id": 857,
+    "trip_start": "8:51 AM",
+    "duration": 5.584885047,
+    "date": "6/13/2022"
+  },
+  {
+    "id": 858,
+    "trip_start": "10:03 AM",
+    "duration": 5.933009196,
+    "date": "1/1/2022"
+  },
+  {
+    "id": 859,
+    "trip_start": "8:11 AM",
+    "duration": 2.839433156,
+    "date": "6/17/2022"
+  },
+  {
+    "id": 860,
+    "trip_start": "4:23 AM",
+    "duration": 1.904220032,
+    "date": "8/16/2022"
+  },
+  {
+    "id": 861,
+    "trip_start": "7:47 PM",
+    "duration": 7.068140122,
+    "date": "1/22/2022"
+  },
+  {
+    "id": 862,
+    "trip_start": "8:34 AM",
+    "duration": 3.558610166,
+    "date": "6/5/2022"
+  },
+  {
+    "id": 863,
+    "trip_start": "3:12 PM",
+    "duration": 5.125989761,
+    "date": "6/20/2022"
+  },
+  {
+    "id": 864,
+    "trip_start": "9:20 PM",
+    "duration": 7.646819259,
+    "date": "7/26/2022"
+  },
+  {
+    "id": 865,
+    "trip_start": "1:21 AM",
+    "duration": 7.149870833,
+    "date": "12/26/2021"
+  },
+  {
+    "id": 866,
+    "trip_start": "5:59 AM",
+    "duration": 7.469230378,
+    "date": "7/31/2022"
+  },
+  {
+    "id": 867,
+    "trip_start": "11:07 PM",
+    "duration": 3.560761913,
+    "date": "2/22/2022"
+  },
+  {
+    "id": 868,
+    "trip_start": "3:42 AM",
+    "duration": 7.467771768,
+    "date": "5/24/2022"
+  },
+  {
+    "id": 869,
+    "trip_start": "5:51 PM",
+    "duration": 3.939194328,
+    "date": "5/28/2022"
+  },
+  {
+    "id": 870,
+    "trip_start": "9:14 PM",
+    "duration": 3.286899138,
+    "date": "4/17/2022"
+  },
+  {
+    "id": 871,
+    "trip_start": "7:11 PM",
+    "duration": 2.256659546,
+    "date": "10/10/2022"
+  },
+  {
+    "id": 872,
+    "trip_start": "5:11 PM",
+    "duration": 3.640039588,
+    "date": "9/24/2022"
+  },
+  {
+    "id": 873,
+    "trip_start": "4:46 AM",
+    "duration": 3.408350109,
+    "date": "3/1/2022"
+  },
+  {
+    "id": 874,
+    "trip_start": "7:15 PM",
+    "duration": 7.035122003,
+    "date": "2/28/2022"
+  },
+  {
+    "id": 875,
+    "trip_start": "5:35 PM",
+    "duration": 8.177325426,
+    "date": "6/2/2022"
+  },
+  {
+    "id": 876,
+    "trip_start": "11:46 PM",
+    "duration": 5.814022289,
+    "date": "9/4/2022"
+  },
+  {
+    "id": 877,
+    "trip_start": "2:54 PM",
+    "duration": 4.609575887,
+    "date": "10/15/2022"
+  },
+  {
+    "id": 878,
+    "trip_start": "9:45 PM",
+    "duration": 7.709263034,
+    "date": "3/16/2022"
+  },
+  {
+    "id": 879,
+    "trip_start": "7:23 AM",
+    "duration": 7.756559396,
+    "date": "3/23/2022"
+  },
+  {
+    "id": 880,
+    "trip_start": "6:17 AM",
+    "duration": 4.375592835,
+    "date": "2/24/2022"
+  },
+  {
+    "id": 881,
+    "trip_start": "2:52 PM",
+    "duration": 9.737175495,
+    "date": "7/11/2022"
+  },
+  {
+    "id": 882,
+    "trip_start": "12:23 PM",
+    "duration": 9.091841314,
+    "date": "10/15/2022"
+  },
+  {
+    "id": 883,
+    "trip_start": "8:47 PM",
+    "duration": 8.979862573,
+    "date": "1/24/2022"
+  },
+  {
+    "id": 884,
+    "trip_start": "12:21 PM",
+    "duration": 4.844829725,
+    "date": "11/11/2021"
+  },
+  {
+    "id": 885,
+    "trip_start": "12:22 AM",
+    "duration": 6.885790509,
+    "date": "2/7/2022"
+  },
+  {
+    "id": 886,
+    "trip_start": "7:33 PM",
+    "duration": 4.994885815,
+    "date": "10/18/2022"
+  },
+  {
+    "id": 887,
+    "trip_start": "11:48 PM",
+    "duration": 2.240785539,
+    "date": "5/13/2022"
+  },
+  {
+    "id": 888,
+    "trip_start": "10:44 PM",
+    "duration": 6.272319724,
+    "date": "12/21/2021"
+  },
+  {
+    "id": 889,
+    "trip_start": "7:13 AM",
+    "duration": 4.513275172,
+    "date": "10/1/2022"
+  },
+  {
+    "id": 890,
+    "trip_start": "8:55 PM",
+    "duration": 9.845225898,
+    "date": "4/28/2022"
+  },
+  {
+    "id": 891,
+    "trip_start": "1:30 PM",
+    "duration": 3.802181566,
+    "date": "9/19/2022"
+  },
+  {
+    "id": 892,
+    "trip_start": "12:00 AM",
+    "duration": 5.480148392,
+    "date": "5/7/2022"
+  },
+  {
+    "id": 893,
+    "trip_start": "9:27 PM",
+    "duration": 4.494931398,
+    "date": "11/27/2021"
+  },
+  {
+    "id": 894,
+    "trip_start": "10:18 AM",
+    "duration": 4.849708577,
+    "date": "5/11/2022"
+  },
+  {
+    "id": 895,
+    "trip_start": "4:27 PM",
+    "duration": 7.864889981,
+    "date": "7/21/2022"
+  },
+  {
+    "id": 896,
+    "trip_start": "4:50 PM",
+    "duration": 8.824425447,
+    "date": "4/5/2022"
+  },
+  {
+    "id": 897,
+    "trip_start": "6:55 PM",
+    "duration": 8.135963203,
+    "date": "4/25/2022"
+  },
+  {
+    "id": 898,
+    "trip_start": "6:05 AM",
+    "duration": 1.908155543,
+    "date": "7/27/2022"
+  },
+  {
+    "id": 899,
+    "trip_start": "12:32 PM",
+    "duration": 2.853299233,
+    "date": "2/27/2022"
+  },
+  {
+    "id": 900,
+    "trip_start": "6:01 AM",
+    "duration": 9.854956732,
+    "date": "9/19/2022"
+  },
+  {
+    "id": 901,
+    "trip_start": "1:57 AM",
+    "duration": 7.899548042,
+    "date": "5/3/2022"
+  },
+  {
+    "id": 902,
+    "trip_start": "2:23 PM",
+    "duration": 5.945976363,
+    "date": "12/6/2021"
+  },
+  {
+    "id": 903,
+    "trip_start": "9:50 PM",
+    "duration": 9.969439168,
+    "date": "12/19/2021"
+  },
+  {
+    "id": 904,
+    "trip_start": "2:45 PM",
+    "duration": 7.628728755,
+    "date": "3/26/2022"
+  },
+  {
+    "id": 905,
+    "trip_start": "12:34 PM",
+    "duration": 9.644975351,
+    "date": "7/22/2022"
+  },
+  {
+    "id": 906,
+    "trip_start": "6:28 AM",
+    "duration": 5.18201987,
+    "date": "2/12/2022"
+  },
+  {
+    "id": 907,
+    "trip_start": "8:14 PM",
+    "duration": 9.669334736,
+    "date": "4/7/2022"
+  },
+  {
+    "id": 908,
+    "trip_start": "11:06 AM",
+    "duration": 4.607519422,
+    "date": "9/20/2022"
+  },
+  {
+    "id": 909,
+    "trip_start": "9:24 AM",
+    "duration": 1.028874518,
+    "date": "9/23/2022"
+  },
+  {
+    "id": 910,
+    "trip_start": "1:32 PM",
+    "duration": 5.268910847,
+    "date": "8/8/2022"
+  },
+  {
+    "id": 911,
+    "trip_start": "1:10 PM",
+    "duration": 5.262728827,
+    "date": "5/26/2022"
+  },
+  {
+    "id": 912,
+    "trip_start": "3:31 AM",
+    "duration": 2.828138972,
+    "date": "1/5/2022"
+  },
+  {
+    "id": 913,
+    "trip_start": "6:34 AM",
+    "duration": 3.403941895,
+    "date": "8/21/2022"
+  },
+  {
+    "id": 914,
+    "trip_start": "8:31 AM",
+    "duration": 6.476989423,
+    "date": "7/15/2022"
+  },
+  {
+    "id": 915,
+    "trip_start": "12:52 AM",
+    "duration": 4.737594986,
+    "date": "11/26/2021"
+  },
+  {
+    "id": 916,
+    "trip_start": "11:50 PM",
+    "duration": 4.511766681,
+    "date": "3/13/2022"
+  },
+  {
+    "id": 917,
+    "trip_start": "10:46 AM",
+    "duration": 4.46175613,
+    "date": "9/3/2022"
+  },
+  {
+    "id": 918,
+    "trip_start": "6:30 PM",
+    "duration": 8.074243507,
+    "date": "12/13/2021"
+  },
+  {
+    "id": 919,
+    "trip_start": "12:29 PM",
+    "duration": 7.046300207,
+    "date": "1/21/2022"
+  },
+  {
+    "id": 920,
+    "trip_start": "1:35 PM",
+    "duration": 5.283561931,
+    "date": "3/7/2022"
+  },
+  {
+    "id": 921,
+    "trip_start": "4:19 PM",
+    "duration": 6.559844044,
+    "date": "7/5/2022"
+  },
+  {
+    "id": 922,
+    "trip_start": "2:47 PM",
+    "duration": 7.704447489,
+    "date": "1/20/2022"
+  },
+  {
+    "id": 923,
+    "trip_start": "12:17 AM",
+    "duration": 4.56686108,
+    "date": "4/21/2022"
+  },
+  {
+    "id": 924,
+    "trip_start": "7:29 AM",
+    "duration": 3.709245801,
+    "date": "7/12/2022"
+  },
+  {
+    "id": 925,
+    "trip_start": "5:08 PM",
+    "duration": 1.364577719,
+    "date": "7/29/2022"
+  },
+  {
+    "id": 926,
+    "trip_start": "12:25 AM",
+    "duration": 3.783384998,
+    "date": "8/8/2022"
+  },
+  {
+    "id": 927,
+    "trip_start": "8:40 PM",
+    "duration": 4.579681119,
+    "date": "4/1/2022"
+  },
+  {
+    "id": 928,
+    "trip_start": "12:17 AM",
+    "duration": 2.11229854,
+    "date": "8/2/2022"
+  },
+  {
+    "id": 929,
+    "trip_start": "2:53 PM",
+    "duration": 6.638091484,
+    "date": "12/26/2021"
+  },
+  {
+    "id": 930,
+    "trip_start": "10:56 AM",
+    "duration": 5.411323887,
+    "date": "10/13/2022"
+  },
+  {
+    "id": 931,
+    "trip_start": "2:45 AM",
+    "duration": 4.112490621,
+    "date": "2/7/2022"
+  },
+  {
+    "id": 932,
+    "trip_start": "8:28 AM",
+    "duration": 3.158574195,
+    "date": "6/15/2022"
+  },
+  {
+    "id": 933,
+    "trip_start": "9:12 AM",
+    "duration": 5.959272812,
+    "date": "10/21/2022"
+  },
+  {
+    "id": 934,
+    "trip_start": "3:07 PM",
+    "duration": 9.191936596,
+    "date": "1/7/2022"
+  },
+  {
+    "id": 935,
+    "trip_start": "3:52 AM",
+    "duration": 7.392280081,
+    "date": "10/11/2022"
+  },
+  {
+    "id": 936,
+    "trip_start": "9:23 AM",
+    "duration": 9.781108517,
+    "date": "8/13/2022"
+  },
+  {
+    "id": 937,
+    "trip_start": "1:35 AM",
+    "duration": 1.874422836,
+    "date": "5/26/2022"
+  },
+  {
+    "id": 938,
+    "trip_start": "11:29 PM",
+    "duration": 3.764258374,
+    "date": "7/2/2022"
+  },
+  {
+    "id": 939,
+    "trip_start": "10:19 AM",
+    "duration": 7.027897746,
+    "date": "7/12/2022"
+  },
+  {
+    "id": 940,
+    "trip_start": "8:08 PM",
+    "duration": 6.283492414,
+    "date": "12/9/2021"
+  },
+  {
+    "id": 941,
+    "trip_start": "5:54 PM",
+    "duration": 9.620494042,
+    "date": "2/22/2022"
+  },
+  {
+    "id": 942,
+    "trip_start": "10:11 AM",
+    "duration": 2.376612063,
+    "date": "8/2/2022"
+  },
+  {
+    "id": 943,
+    "trip_start": "10:46 AM",
+    "duration": 7.801165275,
+    "date": "4/5/2022"
+  },
+  {
+    "id": 944,
+    "trip_start": "4:11 AM",
+    "duration": 6.289040328,
+    "date": "8/4/2022"
+  },
+  {
+    "id": 945,
+    "trip_start": "12:01 AM",
+    "duration": 6.096670444,
+    "date": "2/24/2022"
+  },
+  {
+    "id": 946,
+    "trip_start": "6:03 AM",
+    "duration": 1.029736453,
+    "date": "10/15/2022"
+  },
+  {
+    "id": 947,
+    "trip_start": "7:05 PM",
+    "duration": 4.069693754,
+    "date": "8/1/2022"
+  },
+  {
+    "id": 948,
+    "trip_start": "12:09 AM",
+    "duration": 7.275546332,
+    "date": "10/22/2022"
+  },
+  {
+    "id": 949,
+    "trip_start": "1:38 AM",
+    "duration": 4.123016698,
+    "date": "12/3/2021"
+  },
+  {
+    "id": 950,
+    "trip_start": "11:40 AM",
+    "duration": 5.92063019,
+    "date": "10/6/2022"
+  },
+  {
+    "id": 951,
+    "trip_start": "10:22 AM",
+    "duration": 3.806851809,
+    "date": "12/7/2021"
+  },
+  {
+    "id": 952,
+    "trip_start": "6:37 PM",
+    "duration": 4.102373609,
+    "date": "5/22/2022"
+  },
+  {
+    "id": 953,
+    "trip_start": "3:18 AM",
+    "duration": 2.050799137,
+    "date": "8/8/2022"
+  },
+  {
+    "id": 954,
+    "trip_start": "3:31 AM",
+    "duration": 3.43289537,
+    "date": "3/18/2022"
+  },
+  {
+    "id": 955,
+    "trip_start": "11:26 AM",
+    "duration": 4.695820398,
+    "date": "7/14/2022"
+  },
+  {
+    "id": 956,
+    "trip_start": "6:04 PM",
+    "duration": 5.886638341,
+    "date": "7/29/2022"
+  },
+  {
+    "id": 957,
+    "trip_start": "12:53 PM",
+    "duration": 8.703783402,
+    "date": "10/14/2022"
+  },
+  {
+    "id": 958,
+    "trip_start": "4:27 AM",
+    "duration": 5.577993827,
+    "date": "2/8/2022"
+  },
+  {
+    "id": 959,
+    "trip_start": "5:41 PM",
+    "duration": 2.261938461,
+    "date": "12/1/2021"
+  },
+  {
+    "id": 960,
+    "trip_start": "3:18 PM",
+    "duration": 4.560947016,
+    "date": "12/21/2021"
+  },
+  {
+    "id": 961,
+    "trip_start": "3:03 PM",
+    "duration": 4.578178743,
+    "date": "9/10/2022"
+  },
+  {
+    "id": 962,
+    "trip_start": "9:45 AM",
+    "duration": 5.007005653,
+    "date": "12/26/2021"
+  },
+  {
+    "id": 963,
+    "trip_start": "2:06 AM",
+    "duration": 5.161567429,
+    "date": "2/18/2022"
+  },
+  {
+    "id": 964,
+    "trip_start": "3:48 PM",
+    "duration": 4.652109116,
+    "date": "1/25/2022"
+  },
+  {
+    "id": 965,
+    "trip_start": "8:33 AM",
+    "duration": 7.062016009,
+    "date": "9/13/2022"
+  },
+  {
+    "id": 966,
+    "trip_start": "8:27 AM",
+    "duration": 5.895587302,
+    "date": "8/19/2022"
+  },
+  {
+    "id": 967,
+    "trip_start": "10:36 AM",
+    "duration": 9.894072061,
+    "date": "12/13/2021"
+  },
+  {
+    "id": 968,
+    "trip_start": "10:34 AM",
+    "duration": 9.241901517,
+    "date": "1/25/2022"
+  },
+  {
+    "id": 969,
+    "trip_start": "11:44 AM",
+    "duration": 6.407201889,
+    "date": "2/20/2022"
+  },
+  {
+    "id": 970,
+    "trip_start": "11:08 AM",
+    "duration": 9.200108219,
+    "date": "12/18/2021"
+  },
+  {
+    "id": 971,
+    "trip_start": "12:52 AM",
+    "duration": 8.495917493,
+    "date": "3/25/2022"
+  },
+  {
+    "id": 972,
+    "trip_start": "4:50 AM",
+    "duration": 1.121186054,
+    "date": "9/12/2022"
+  },
+  {
+    "id": 973,
+    "trip_start": "1:24 AM",
+    "duration": 4.770181481,
+    "date": "12/18/2021"
+  },
+  {
+    "id": 974,
+    "trip_start": "10:29 AM",
+    "duration": 4.529489204,
+    "date": "3/1/2022"
+  },
+  {
+    "id": 975,
+    "trip_start": "7:12 PM",
+    "duration": 6.54025226,
+    "date": "1/8/2022"
+  },
+  {
+    "id": 976,
+    "trip_start": "11:28 PM",
+    "duration": 1.933561693,
+    "date": "11/2/2022"
+  },
+  {
+    "id": 977,
+    "trip_start": "5:19 PM",
+    "duration": 2.450043861,
+    "date": "3/21/2022"
+  },
+  {
+    "id": 978,
+    "trip_start": "4:56 PM",
+    "duration": 3.791282838,
+    "date": "1/6/2022"
+  },
+  {
+    "id": 979,
+    "trip_start": "9:28 PM",
+    "duration": 4.731021802,
+    "date": "8/7/2022"
+  },
+  {
+    "id": 980,
+    "trip_start": "4:03 AM",
+    "duration": 1.034907125,
+    "date": "10/26/2022"
+  },
+  {
+    "id": 981,
+    "trip_start": "7:43 AM",
+    "duration": 6.940946942,
+    "date": "8/30/2022"
+  },
+  {
+    "id": 982,
+    "trip_start": "2:10 AM",
+    "duration": 2.211225366,
+    "date": "3/20/2022"
+  },
+  {
+    "id": 983,
+    "trip_start": "9:43 PM",
+    "duration": 9.291648904,
+    "date": "10/8/2022"
+  },
+  {
+    "id": 984,
+    "trip_start": "8:10 AM",
+    "duration": 1.556803837,
+    "date": "1/7/2022"
+  },
+  {
+    "id": 985,
+    "trip_start": "3:04 PM",
+    "duration": 2.435249966,
+    "date": "2/15/2022"
+  },
+  {
+    "id": 986,
+    "trip_start": "7:00 PM",
+    "duration": 8.911932988,
+    "date": "10/11/2022"
+  },
+  {
+    "id": 987,
+    "trip_start": "6:00 AM",
+    "duration": 9.223699931,
+    "date": "10/26/2022"
+  },
+  {
+    "id": 988,
+    "trip_start": "1:48 PM",
+    "duration": 8.694565833,
+    "date": "6/22/2022"
+  },
+  {
+    "id": 989,
+    "trip_start": "1:20 AM",
+    "duration": 9.596187141,
+    "date": "11/25/2021"
+  },
+  {
+    "id": 990,
+    "trip_start": "9:06 AM",
+    "duration": 2.986062643,
+    "date": "9/2/2022"
+  },
+  {
+    "id": 991,
+    "trip_start": "11:29 PM",
+    "duration": 3.976910296,
+    "date": "11/1/2022"
+  },
+  {
+    "id": 992,
+    "trip_start": "11:44 AM",
+    "duration": 5.560796135,
+    "date": "10/14/2022"
+  },
+  {
+    "id": 993,
+    "trip_start": "7:53 PM",
+    "duration": 1.041607462,
+    "date": "6/4/2022"
+  },
+  {
+    "id": 994,
+    "trip_start": "7:21 PM",
+    "duration": 5.572484368,
+    "date": "4/14/2022"
+  },
+  {
+    "id": 995,
+    "trip_start": "7:58 PM",
+    "duration": 3.065881931,
+    "date": "7/16/2022"
+  },
+  {
+    "id": 996,
+    "trip_start": "2:03 AM",
+    "duration": 2.194268863,
+    "date": "4/10/2022"
+  },
+  {
+    "id": 997,
+    "trip_start": "8:48 PM",
+    "duration": 9.539970288,
+    "date": "3/17/2022"
+  },
+  {
+    "id": 998,
+    "trip_start": "8:05 PM",
+    "duration": 6.453961576,
+    "date": "5/15/2022"
+  },
+  {
+    "id": 999,
+    "trip_start": "9:11 AM",
+    "duration": 2.193317547,
+    "date": "10/25/2022"
+  },
+  {
+    "id": 1000,
+    "trip_start": "8:22 AM",
+    "duration": 5.753873895,
+    "date": "5/21/2022"
+  }
+]
