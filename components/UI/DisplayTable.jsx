@@ -1,136 +1,150 @@
-import Table from "@mui/material/Table";
-import TableBody from "@mui/material/TableBody";
-import TableCell, { tableCellClasses } from "@mui/material/TableCell";
-import TableContainer from "@mui/material/TableContainer";
-import TableHead from "@mui/material/TableHead";
-import TableRow from "@mui/material/TableRow";
-import Paper from "@mui/material/Paper";
-import styled from "@emotion/styled";
-import TablePagination from "@mui/material/TablePagination";
 import { useState } from "react";
-import KeyboardArrowDownIcon from "@mui/icons-material/KeyboardArrowDown";
-import KeyboardArrowUpIcon from "@mui/icons-material/KeyboardArrowUp";
+import usePagination from "hooks/usePagination";
+import Pagination from "@mui/material/Pagination";
 
-const DisplayTable = ({ rows = [], header = [], variant = "default" }) => {
+const DisplayTable = ({
+  rows = [],
+  header = [],
+  index = false,
+  lined = false,
+}) => {
   const columns = Object.keys(rows[0]);
+  let [page, setPage] = useState(1);
+  const showPerPage = 10;
 
-  const [page, setPage] = useState(0);
   const [sortBy, setSortBy] = useState({
     column: columns[0],
-    asc: false,
+    asc: true,
   });
 
-  const [rowsPerPage, setRowsPerPage] = useState(5);
-
-  // Avoid a layout jump when reaching the last page with empty rows.
-  //For Paginations
-  const emptyRows =
-    page > 0 ? Math.max(0, (1 + page) * rowsPerPage - rows.length) : 0;
-
-  const handleChangePage = (event, newPage) => {
-    setPage(newPage);
-  };
-
-  const handleChangeRowsPerPage = (event) => {
-    setRowsPerPage(parseInt(event.target.value, 10));
-    setPage(0);
-  };
-
-  const sortData = (rows) => {
+  function sort(rows = []) {
     const { column, asc } = sortBy;
-
     return rows.sort((a, b) => {
-      if (a[column]?.toString() > b[column]?.toString()) return asc ? -1 : 1;
-
-      if (b[column]?.toString() > a[column]?.toString()) return asc ? 1 : -1;
-
+      if (a[column]?.toString() > b[column]?.toString) return asc ? -1 : 1;
+      if (b[column]?.toString() > a[column]?.toString) return asc ? 1 : -1;
       return 0;
     });
+  }
+
+  const count = Math.ceil(rows.length / showPerPage);
+  const { next, prev, jump, currentData, currentPage, maxPage } = usePagination(
+    rows,
+    showPerPage
+  );
+
+  const handleChange = (e, p) => {
+    setPage(p);
+    jump(p);
   };
 
-  console.log(sortData(rows));
-
   return (
-    <>
-      <TableContainer component={Paper}>
-        <Table aria-label="simple table">
-          <TableHead>
-            <TableRow
-              sx={variant === "default" ? styles.tableHead : styles.tableHead2}
-            >
-              {header?.map((column, idx) => (
-                <TableCell key={idx} sx={{ fontWeight: 800 }}>
-                  {column}
-                </TableCell>
-              ))}
-            </TableRow>
-          </TableHead>
-          <TableBody>
-            {(rowsPerPage > 0
-              ? sortData(rows).slice(
-                  page * rowsPerPage,
-                  page * rowsPerPage + rowsPerPage
-                )
-              : rows
-            ).map((row, idx) => (
-              <>
-                <TableRow key={row.trip_start}>
-                  <TableCell>{idx + 1}.</TableCell>
-                  {columns.map(
-                    (column, idx) =>
-                      column !== "id" && (
-                        <TableCell key={idx} component="th" scope="row">
-                          {row[column]}
-                        </TableCell>
-                      )
-                  )}
-                </TableRow>
-              </>
+    <div style={styles.container}>
+      <table style={styles.table}>
+        <thead style={lined ? styles.tableHeadLine : styles.tableHead}>
+          <tr>
+            {header?.map((val, idx) => (
+              <th
+                key={idx}
+                style={styles.heading}
+                onClick={() =>
+                  setSortBy((prev) => ({ column: val, asc: !prev.asc }))
+                }
+              >
+                {val}
+              </th>
             ))}
-
-            {emptyRows > 0 && (
-              <TableRow style={{ height: 53 * emptyRows }}>
-                <TableCell colSpan={6} />
-              </TableRow>
-            )}
-          </TableBody>
-        </Table>
-      </TableContainer>
-    </>
+          </tr>
+        </thead>
+        <tbody style={styles.body}>
+          {sort(currentData())?.map((row, idx) => (
+            <tr key={idx} style={styles.tableBody}>
+              {index && <td style={styles.body}>{idx + 1}.</td>}
+              {columns.map(
+                (column, idx) =>
+                  column !== "id" && (
+                    <td key={idx} style={styles.body}>
+                      {row[column]}
+                    </td>
+                  )
+              )}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+      <div style={styles.pagination}>
+        <Pagination
+          sx={styles.paginationSpacing}
+          count={count}
+          size="small"
+          page={page}
+          shape="rounded"
+          variant="outlined"
+          color="primary"
+          onChange={handleChange}
+        />
+      </div>
+    </div>
   );
 };
 
 const styles = {
-  tableHead: {
-    backgroundColor: "#c1c1c1",
-    fontWeight: "800",
-    "&>*": {
-      color: "#4d4d4d",
-      fontWeight: "800",
-    },
-  },
-
-  tableHead2: {
+  container: {
+    overflowX: "auto",
     backgroundColor: "#fff",
-    borderBottom: "2px solid #4d4d4d",
-    fontWeight: "800",
-    "&>*": {
-      color: "#4d4d4d",
-      fontWeight: "800",
-    },
+    border: "1px solid #d1d1d1",
+    padding: "1.25rem",
   },
 
-  center: {
-    display: "flex",
-    gap: ".25rem",
+  table: {
+    minWidth: "100%",
+    fontSize: " 0.875rem" /* 14px */,
+    lineHeight: "1.25rem" /* 20px */,
+    borderCollapse: "collapse",
+  },
+
+  tableHead: {
+    backgroundColor: "#d4d4d4",
+  },
+
+  tableHeadLine: {
+    backgroundColor: "#fff",
+    borderBottom: "2px solid #d4d4d4",
+  },
+
+  heading: {
+    whiteSpace: "nowrap",
+    padding: "0.625rem 1rem",
+    textAlign: "left",
+    fontWeight: "600",
+    color: "#242424",
     cursor: "pointer",
   },
 
-  paginationContainer: {
+  tableBody: {
+    borderBottom: "1px solid #ebebeb",
+  },
+
+  body: {
+    whiteSpace: "nowrap",
+    padding: "0.625rem 1rem",
+    textAlign: "left",
+    color: "#242424",
+    "&:first-of-type": {
+      fontWeight: "600",
+    },
+  },
+
+  pagination: {
     display: "flex",
-    justifyContent: "end",
-    alignItems: "center",
-    marginTop: "1rem",
+    justifyContent: "flex-end",
+    marginTop: "2rem",
+  },
+
+  paginationSpacing: {
+    "&>*": {
+      display: "flex",
+      gap: ".5rem",
+    },
   },
 };
 
