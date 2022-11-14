@@ -40,6 +40,7 @@ const styles = {
     maxWidth: '500px',
     fontSize: '14px',
     borderRadius: '20px',
-    fontFamily:'sans-serif'
+    fontFamily:'sans-serif',
+    boxShadow: 'rgba(149, 157, 165, 0.2) 0px 8px 24px'
   },
 }
