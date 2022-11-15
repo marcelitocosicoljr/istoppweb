@@ -4,7 +4,7 @@ import { Pie } from "react-chartjs-2";
 const PieChart = ({ data, options }, props) => {
   return (
     <div style={styles.container}>
-      <Pie data={data} options={options} {...props} />
+      <Pie data={data} options={options} {...props} style={{height:'100px'}} />
     </div>
   );
 };
@@ -12,6 +12,7 @@ const PieChart = ({ data, options }, props) => {
 const styles = {
   container: {
     width: "100%",
+    padding:'10px 50px',
     height: "100%",
   },
 };

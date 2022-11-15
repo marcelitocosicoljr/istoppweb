@@ -51,7 +51,7 @@ const FleetData = () => {
           {
             label: "Average Travel Time",
             data: ChartData?.map((val) => val.number),
-            backgroundColor: ["#F3592D"],
+            backgroundColor: ["#030744"],
           },
         ],
       });
@@ -75,7 +75,7 @@ const FleetData = () => {
                         <InfoCard label="Average Occupancy" value="85.99%" />
                     </Box>
                     <h6  style={styles.compTitle}>City of Puerto Princesa PUV Routes</h6>
-                    <TemporaryMap/>
+                    <TemporaryMap width='600' height='410'/>
                 </Box>
                 <Box sx={styles.chartContainer}>
 
@@ -83,7 +83,7 @@ const FleetData = () => {
                     <DisplayTable rows={routesUnits} header={header2} lined />
                     <br/>
                     <h6  style={styles.compTitle}>Number of Trips Made During Selected Dates</h6>
-                    <BarChart data={userData} />
+                    <BarChart data={userData} options={{indexAxis:'y'}} />
                 </Box>
             </Box>
 

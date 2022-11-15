@@ -6,9 +6,9 @@ import FormControl from '@mui/material/FormControl';
 import Select, { SelectChangeEvent } from '@mui/material/Select';
 import { Typography } from '@mui/material';
 
-export default function RoundedSelect({shadow}) {
+export default function RoundedSelect({placeHolder,shadow}) {
 
-  const dates = ['January', 'February', 'March', 'April']
+  const dates = ['Plate Number', 'Operators Name', 'Franchise Number', 'PUV Type', 'Route', 'Status']
   const [dateRange, setDateRange] = useState('')
 
 
@@ -21,12 +21,12 @@ export default function RoundedSelect({shadow}) {
           displayEmpty
           size='small'
           inputProps={{ 'aria-label': 'Without label' }}
-          sx={{width:{md:'100%',lg:'300px' }, background:'#fff', borderRadius:'30px',boxShadow:shadow ? shadow : 'none'}}
+          sx={{width:{md:'100%',lg:'300px' }, background:'#fff',border:'solid 1px #D1CECE', borderRadius:'30px',boxShadow:shadow ? shadow : 'none'}}
 
         >
           <MenuItem value="">
             <Typography variant='caption' sx={{color:'#8E8E8E',}}>
-                Select Month
+                {placeHolder}
             </Typography>
           </MenuItem>
           {

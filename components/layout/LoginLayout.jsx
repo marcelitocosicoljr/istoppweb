@@ -13,18 +13,18 @@ const LoginLayout = ({ children }) => {
           <Box sx={styles.logoContainer}>
             <Image src={LogoWhite} alt="ISTOPP Logo" fill />
           </Box>
-          <Title color="white">What is ISTOPP?</Title>
-          <Typography sx={{ marginTop: ".25rem", fontSize: "1.125" }}>
+          <Title sx={{ color: "#fff" }}>What is ISTOPP?</Title>
+          <p style={{ marginTop: ".25rem",fontSize: "14px"}}>
             The Information System on Transport Operation in Puerto Princesa
             (ISTOPP) Insert About Section Here
-          </Typography>
-          <Typography sx={{ fontSize: "1.125" }}>
+          </p>
+          <p  style={{ fontSize: "14px", }}>
             Contrary to popular belief, Lorem Ipsum is not simply random text.
             It has roots in a piece of classical Latin literature from 45 BC,
             making it over 2000 years old. Richard McClintock, a Latin professor
             at Hampden-Sydney College in Virginia, looked up one of the more
             obscure Latin words, consectetu
-          </Typography>
+          </p>
           <Typography
             sx={{
               fontSize: "1.125",

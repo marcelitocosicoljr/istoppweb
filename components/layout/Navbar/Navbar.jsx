@@ -19,13 +19,11 @@ const Navbar = () => {
       <ul style={styles.navList}>
         <NavLink href="/about-us">About Us</NavLink>
 
-        <NavLink href="/">PUVs</NavLink>
+        <NavLink href="/dashboard">PUVs</NavLink>
         <NavLink href="/tricycle">Tricycle</NavLink>
         <NavLink href="/analytics">Analytics</NavLink>
         <NavLink href="/road-incidents">Road Incidents</NavLink>
-        <NavLink href="/downloads">
-          <span style={styles.underlined}>Downloads</span>
-        </NavLink>
+        <NavLink href="/downloads">Downloads</NavLink>
       </ul>
     </nav>
   );

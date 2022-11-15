@@ -3,6 +3,7 @@ import Title from "components/UI/Title";
 import { Typography, Box } from "@mui/material";
 import InputField from "components/UI/InputField";
 import Button from "components/UI/Button";
+import Link from "next/link";
 
 const LoginForm = () => {
   return (
@@ -23,20 +24,23 @@ const LoginForm = () => {
           Transport Data <br />
           Made Accessible
         </Title>
-        <InputField
-          type="rounded"
-          label="Username"
-          fullWidth
-          placeHolder="Enter your username"
-        />
-        <InputField
-          type="rounded"
-          label="Password"
-          fullWidth
-          placeHolder="Enter your password"
-        />
+        <Box sx={{maxWidth:'500px'}}>
+          <InputField
+            type="rounded"
+            label="Username"
+            fullWidth
+            placeHolder=""
+          />
+          <InputField
+            type="rounded"
+            label="Password"
+            fullWidth
+            placeHolder=""
+          />
+        </Box>
+
         <Box sx={{ marginTop: "2.5rem" }}>
-          <Button>Log in</Button>
+          <Link href={'/dashboard'}><Button>Log in</Button></Link>
         </Box>
       </form>
     </Box>

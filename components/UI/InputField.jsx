@@ -16,16 +16,17 @@ const InputField = ({
       display: "flex",
       justifyContent: "flex-start",
       flexDirection: "column",
+      mb:1
     },
     textLabel: {
       marginBottom: "8px",
       fontSize: "14px",
-      fontWeight: "400",
+      fontWeight: "600",
       marginTop: "5px",
     },
     textField: {
       border: "1px solid #8E8E8E",
-      padding: "12px 15px",
+      padding: "13px 15px",
       outline: "none",
       maxWidth: `${fullWidth ? "100%" : "400px"}`,
       fontSize: "14px",
@@ -33,6 +34,7 @@ const InputField = ({
       background: `${color == "transparent" ? "transparent" : "#fff"}`,
       borderRadius: `${type == "rounded" ? "30px" : "3px"}`,
       boxShadow: "rgba(149, 157, 165, 0.2) 0px 8px 24px",
+
     },
   };
 

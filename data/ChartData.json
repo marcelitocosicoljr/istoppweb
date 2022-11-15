@@ -4,19 +4,5 @@
   { "id": 3, "number": 2, "time": "1:49 AM" },
   { "id": 4, "number": 19, "time": "4:00 AM" },
   { "id": 5, "number": 17, "time": "4:45 AM" },
-  { "id": 6, "number": 7, "time": "3:25 PM" },
-  { "id": 7, "number": 14, "time": "4:11 AM" },
-  { "id": 8, "number": 18, "time": "12:23 PM" },
-  { "id": 9, "number": 1, "time": "3:57 AM" },
-  { "id": 10, "number": 18, "time": "10:33 PM" },
-  { "id": 11, "number": 12, "time": "9:12 PM" },
-  { "id": 12, "number": 13, "time": "3:19 PM" },
-  { "id": 13, "number": 10, "time": "3:25 PM" },
-  { "id": 14, "number": 20, "time": "3:04 AM" },
-  { "id": 15, "number": 18, "time": "8:32 AM" },
-  { "id": 16, "number": 1, "time": "2:29 AM" },
-  { "id": 17, "number": 20, "time": "1:41 AM" },
-  { "id": 18, "number": 1, "time": "2:59 PM" },
-  { "id": 19, "number": 13, "time": "11:47 AM" },
-  { "id": 20, "number": 3, "time": "3:13 AM" }
+  { "id": 6, "number": 7, "time": "3:25 PM" }
 ]

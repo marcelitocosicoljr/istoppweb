@@ -87,6 +87,9 @@ h3 {
 .rs-picker-default .rs-picker-toggle.rs-btn-lg {
   border-radius: 30px;
 }
+.rs-picker-default .rs-picker-toggle.rs-btn-lg {
+  border: solid 1px #D1CECE;
+}
 .rs-picker-toolbar-ranges {
   display: none !important;
 }
@@ -205,7 +208,9 @@ button.css-1r4vtzz, button.css-48ayfv {
 
 .rmsc .dropdown-container{
   border-radius: 30px !important;
-  min-width: 250px !important;
+  min-width: 300px !important;
+  padding-top: 1px !important;
+  padding-bottom: 1px !important;
 }
 svg.dropdown-heading-dropdown-arrow.gray{
   opacity: 0 !important;
@@ -242,4 +247,10 @@ svg.dropdown-heading-dropdown-arrow.gray{
   z-index: 999 !important;
   background-color: #fff;
   width: 300px !important;
+}
+
+/* NAV LINKS */
+
+.navLink:hover{
+  color: #070F80 !important;
 }
