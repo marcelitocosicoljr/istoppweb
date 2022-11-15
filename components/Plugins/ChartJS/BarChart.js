@@ -13,6 +13,7 @@ const styles = {
   container: {
     width: "100%",
     height: "100%",
+    boxShadow: 'rgba(149, 157, 165, 0.2) 0px 8px 24px'
   },
 };
 

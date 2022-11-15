@@ -55,9 +55,9 @@ const DisplayTable = ({
             ))}
           </tr>
         </thead>
-        <tbody style={styles.body}>
+        <tbody style={styles.body} >
           {sort(currentData())?.map((row, idx) => (
-            <tr key={idx} style={styles.tableBody}>
+            <tr key={idx} style={{ backgroundColor: idx % 2 ==  0 ? '#E2E0E0': '#D1CECE' }}>
               {index && <td style={styles.body}>{idx + 1}.</td>}
               {columns.map(
                 (column, idx) =>
@@ -92,7 +92,8 @@ const styles = {
     overflowX: "auto",
     backgroundColor: "#fff",
     border: "1px solid #d1d1d1",
-    padding: "1.25rem",
+    padding: ".5rem",
+    boxShadow: 'rgba(149, 157, 165, 0.2) 0px 8px 24px'
   },
 
   table: {
@@ -107,7 +108,7 @@ const styles = {
   },
 
   tableHeadLine: {
-    backgroundColor: "#fff",
+    backgroundColor: "#030744",
     borderBottom: "2px solid #d4d4d4",
   },
 
@@ -115,9 +116,10 @@ const styles = {
     whiteSpace: "nowrap",
     padding: "0.625rem 1rem",
     textAlign: "left",
-    fontWeight: "600",
-    color: "#242424",
+    fontWeight: "500",
+    color: "#fff",
     cursor: "pointer",
+    fontSize:'14px'
   },
 
   tableBody: {
@@ -132,12 +134,13 @@ const styles = {
     "&:first-of-type": {
       fontWeight: "600",
     },
+    fontSize:'14px'
   },
 
   pagination: {
     display: "flex",
     justifyContent: "flex-end",
-    marginTop: "2rem",
+    marginTop: ".5rem",
   },
 
   paginationSpacing: {

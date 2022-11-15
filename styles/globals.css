@@ -268,9 +268,26 @@ main {
 .css-1gpjby2 {
   display: none !important;
 }
+.rmsc .gray:before{
+  content: 'Route' !important;
+  font-size: 14px;
+  line-height: 1.5;
+  padding-left: 7px;
+}
+.rmsc .dropdown-heading{
+  padding-top: 1px !important;
+  padding-bottom: 1px !important;
+}
+.rmsc .gray{
+  font-size: 0;
+  line-height: 1;
+}
 
+.css-1v58pha{
+  width: 250px !important;
+}
 button.css-1r4vtzz, button.css-48ayfv {
-  min-width: 300px;
+  min-width: 250px;
   border-radius: 30px;
   padding: 10px 12px;
 }
@@ -285,7 +302,7 @@ button.css-1r4vtzz, button.css-48ayfv {
 }
 .rmsc .dropdown-container{
   border-radius: 30px !important;
-  min-width: 300px;
+  min-width: 250px !important;
 }
 svg.dropdown-heading-dropdown-arrow.gray{
   opacity: 0 !important;

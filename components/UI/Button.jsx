@@ -29,7 +29,7 @@ export default Button;
 
 const styles = {
   button: {
-    padding: "1rem 3rem",
+    padding: ".7rem 3rem",
     fontSize: "16px",
     whiteSpace: "nowrap",
     fontWeight: "800",

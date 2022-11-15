@@ -17,20 +17,20 @@ export default InfoCard;
 //Styles
 const styles = {
   container: {
-    padding: "2rem 2.5rem",
-    borderRadius: " 0.5rem",
+    padding: "1.3rem 2.0rem .7rem",
+    borderRadius: " 0.2rem",
     backgroundColor: "#FBDC47",
     maxWidth: "16rem",
     width: "100%",
   },
 
   label: {
-    fontSize: "0.75rem;",
+    fontSize: "0.65rem",
   },
 
   value: {
     margin: "0",
-    fontSize: "1.875rem",
+    fontSize: "1.825rem",
     fontWeight: "800",
     marginTop: "-5px",
   },
