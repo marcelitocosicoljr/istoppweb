@@ -1,26 +1,29 @@
 import React from "react";
 import styled from "@emotion/styled";
+import { Box } from "@mui/material";
 
 const RouteLegs = ({ index, origin, destination }) => {
   return (
-    <Container>
+    <Box sx={styles.container}>
       <span>{index}</span>
       <span>Origin</span>
       <span>{origin}</span>
       <span>Destination</span>
       <span>{destination}</span>
-    </Container>
+    </Box>
   );
 };
 
 export default RouteLegs;
 
-const Container = styled.div`
-  padding: 1rem;
-  border: 1px solid #acacac;
-  background-color: #fff;
-  display: flex;
-  justify-content: space-evenly;
-  gap: 2rem;
-  border-radius: 0.25rem;
-`;
+const styles = {
+  container: {
+    padding: "1rem",
+    border: "1px solid #acacac",
+    backgroundColor: "#fff",
+    display: "flex",
+    justifyContent: "space-evenly",
+    gap: "2rem",
+    borderRadius: " 0.25rem",
+  },
+};

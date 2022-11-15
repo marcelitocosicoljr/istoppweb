@@ -15,11 +15,17 @@ const theme = createTheme({
     dark: {
       main: "#303030",
     },
-    white: {
-      main: "#fff",
-    },
     error: {
       main: red.A400,
+    },
+  },
+  breakpoints: {
+    values: {
+      xs: 0,
+      sm: 600,
+      md: 960,
+      lg: 1280,
+      xl: 1537,
     },
   },
 });
