@@ -1,6 +1,5 @@
 import { Button as ButtonMUI } from "@mui/material";
 import React from "react";
-import styled from "@emotion/styled";
 
 const Button = ({
   children,
@@ -9,10 +8,11 @@ const Button = ({
   shadow = false,
   onClick = () => {},
   props,
+  sx = "",
 }) => {
   return (
     <ButtonMUI
-      sx={[styles.button, color === "tertiary" && styles.textWhite]}
+      sx={[styles.button, color === "tertiary" && styles.textWhite, sx]}
       variant="contained"
       color={color}
       size={size}
@@ -40,5 +40,3 @@ const styles = {
     color: "#fff",
   },
 };
-
-const ButtonUI = styled(ButtonMUI)``;
