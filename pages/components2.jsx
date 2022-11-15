@@ -14,7 +14,7 @@ const ComponentPage2 = () => {
   return (
     <main className="container">
 
-        <Typography variant="h3">UI Components</Typography>
+        <Typography variant="h3">UI Components 2</Typography>
 
 
         <Box sx={styles.componentBox}>
@@ -162,8 +162,6 @@ const ComponentPage2 = () => {
 
 
         </Box>
-
-      <Box sx={{height:'20vh'}} />
     </main>
   );
 };

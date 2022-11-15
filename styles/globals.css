@@ -189,17 +189,15 @@ button.css-48ayfv {
   /* font-size: 0;
   line-height: 1; */
 }
-<<<<<<< Updated upstream
 
-=======
-.rmsc .dropdown-container {
+.rmsc .dropdown-container{
   border-radius: 30px !important;
   min-width: 300px;
 }
-svg.dropdown-heading-dropdown-arrow.gray {
+svg.dropdown-heading-dropdown-arrow.gray{
   opacity: 0 !important;
 }
->>>>>>> Stashed changes
+
 /* END OF DATE RANGE CUSTOM */
 
 /* TABLE WITH SEARCH CUSTOM */
