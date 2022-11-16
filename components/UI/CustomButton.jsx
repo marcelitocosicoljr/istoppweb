@@ -1,7 +1,7 @@
 import { Button as ButtonMUI } from "@mui/material";
 import React from "react";
 
-const Button = ({
+const CustomButton = ({
   children,
   color = "primary",
   size = "large",
@@ -9,11 +9,12 @@ const Button = ({
   onClick = () => {},
   props,
   sx = "",
+  variant = "contained",
 }) => {
   return (
     <ButtonMUI
       sx={[styles.button, color === "tertiary" && styles.textWhite, sx]}
-      variant="contained"
+      variant={variant}
       color={color}
       size={size}
       disableElevation={shadow}
@@ -25,7 +26,7 @@ const Button = ({
   );
 };
 
-export default Button;
+export default CustomButton;
 
 const styles = {
   button: {

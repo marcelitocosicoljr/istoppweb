@@ -5,44 +5,39 @@ import InputField from "components/UI/InputField";
 import CustomButton from "components/UI/CustomButton";
 import Link from "next/link";
 
-const LoginForm = () => {
+const NewPasswordForm = () => {
   return (
     <Box sx={styles.container}>
       <form style={styles.form}>
-        <Typography
-          variant="h6"
-          sx={{
-            lineHeight: "1.3",
-            fontWeight: "800",
-            color: "#030744",
-            marginBottom: "4rem",
-          }}
-        >
-          Information System on Transport <br /> Operation in Puerto Princesa
-        </Typography>
         <Box sx={{ margin: "auto 0" }}>
-          <Title sx={{ marginBottom: "2.5rem" }}>
-            Transport Data <br />
-            Made Accessible
+          <Title sx={{ marginBottom: "1rem" }}>
+            Enter New <br />
+            Password
           </Title>
-          <Box>
+          <Typography
+            variant="h6"
+            sx={{ lineHeight: "1.3", fontWeight: "700", maxWidth: "18rem" }}
+          >
+            Your new password must be different from your previously used
+            passwords.
+          </Typography>
+          <Box sx={{ marginTop: "2rem" }}>
             <InputField
               type="rounded"
-              label="Username"
+              label="New Password"
               fullWidth
               fontSize="1rem"
             />
             <InputField
               type="rounded"
-              label="Password"
+              label="Re-enter New Password"
               fullWidth
               fontSize="1rem"
             />
           </Box>
-
-          <Box sx={{ marginTop: "2.5rem" }}>
-            <Link href={"/dashboard"}>
-              <CustomButton>Log in</CustomButton>
+          <Box sx={{ marginTop: "4rem" }}>
+            <Link href={"/forgot-password/password-changed"}>
+              <CustomButton>Save</CustomButton>
             </Link>
           </Box>
         </Box>
@@ -51,7 +46,7 @@ const LoginForm = () => {
   );
 };
 
-export default LoginForm;
+export default NewPasswordForm;
 
 const styles = {
   container: {
