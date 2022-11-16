@@ -1,13 +1,13 @@
 import React from "react";
 import LoginLayout from "components/layout/LoginLayout";
-import ForgotPasswordForm from "components/screens/ResetPassword/ForgotPasswordForm";
+import VerifyAccountForm from "components/screens/ResetPassword/VerifyAccountForm";
 
-const ForgotPasswordPage = () => {
+const VerifyAccountPage = () => {
   return (
     <LoginLayout>
-      <ForgotPasswordForm />
+      <VerifyAccountForm />
     </LoginLayout>
   );
 };
 
-export default ForgotPasswordPage;
+export default VerifyAccountPage;
