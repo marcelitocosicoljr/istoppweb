@@ -10,17 +10,18 @@ const InputField = ({
   value,
   onChange = () => {},
   fullWidth = false,
+  fontSize = "14px",
 }) => {
   const styles = {
     component: {
       display: "flex",
       justifyContent: "flex-start",
       flexDirection: "column",
-      mb:1
+      mb: 1,
     },
     textLabel: {
       marginBottom: "8px",
-      fontSize: "14px",
+      fontSize: `${fontSize}`,
       fontWeight: "600",
       marginTop: "5px",
     },
@@ -29,12 +30,11 @@ const InputField = ({
       padding: "13px 15px",
       outline: "none",
       maxWidth: `${fullWidth ? "100%" : "400px"}`,
-      fontSize: "14px",
+      fontSize: `${fontSize}`,
       letterSpacing: "1px",
       background: `${color == "transparent" ? "transparent" : "#fff"}`,
       borderRadius: `${type == "rounded" ? "30px" : "3px"}`,
       boxShadow: "rgba(149, 157, 165, 0.2) 0px 8px 24px",
-
     },
   };
 

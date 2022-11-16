@@ -5,7 +5,7 @@ import React from "react";
 const LoginPage = () => {
   return (
     <LoginLayout>
-      <LoginForm variant="h4" />
+      <LoginForm />
     </LoginLayout>
   );
 };

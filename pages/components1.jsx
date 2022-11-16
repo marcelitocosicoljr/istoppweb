@@ -1,5 +1,5 @@
 import { useState } from "react";
-import Button from "../components/UI/Button";
+import Button from "../components/UI/CustomButton";
 import Title from "../components/UI/Title";
 import InfoCard from "../components/UI/InfoCard";
 import RouteLegs from "../components/UI/RouteLegs";
