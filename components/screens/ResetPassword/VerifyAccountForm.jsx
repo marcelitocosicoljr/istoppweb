@@ -17,11 +17,9 @@ const VerifyAccountForm = () => {
           </Title>
           <Typography
             variant="h6"
-            sx={{ lineHeight: "1.3", fontWeight: "700" }}
+            sx={{ lineHeight: "1.3", fontWeight: "700", maxWidth: "23rem" }}
           >
-            Please enter the verification
-            <br />
-            code sent to you.
+            Please enter the verification code sent to you by the system admin.
           </Typography>
           <Box sx={{ marginTop: "2rem" }}>
             <InputField
@@ -33,10 +31,11 @@ const VerifyAccountForm = () => {
             <CustomButton
               variant="text"
               sx={{
-                padding: ".7rem 0",
+                padding: ".25rem",
                 color: "#6493E3",
                 fontWeight: "600",
-                margin: "1rem 0",
+                margin: "2rem 0",
+                borderRadius: "0",
               }}
             >
               Resend code

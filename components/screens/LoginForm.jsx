@@ -1,6 +1,6 @@
 import React from "react";
 import Title from "components/UI/Title";
-import { Typography, Box } from "@mui/material";
+import { Typography, Box, Button } from "@mui/material";
 import InputField from "components/UI/InputField";
 import CustomButton from "components/UI/CustomButton";
 import Link from "next/link";
@@ -39,7 +39,22 @@ const LoginForm = () => {
               fontSize="1rem"
             />
           </Box>
-
+          <Box sx={{ display: "flex", justifyContent: "flex-end" }}>
+            <Link href="/forgot-password">
+              <CustomButton
+                variant="text"
+                sx={{
+                  padding: ".25rem",
+                  color: "#6493E3",
+                  fontWeight: "600",
+                  margin: ".25rem 0",
+                  borderRadius: "0",
+                }}
+              >
+                Forgot Password?
+              </CustomButton>
+            </Link>
+          </Box>
           <Box sx={{ marginTop: "2.5rem" }}>
             <Link href={"/dashboard"}>
               <CustomButton>Log in</CustomButton>
